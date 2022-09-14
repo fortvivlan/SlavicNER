@@ -1,0 +1,3018 @@
+,entity,number,gender
+0,SEATO,Sing,Neut
+1,Société Bic,Plur,Masc
+2,Vlajka (hnutí),Sing,Fem
+3,Linie (umělecké sdružení),Sing,Fem
+4,Harmonia Mundi,Sing,Fem
+5,MG Cars,Sing,Masc
+6,Itala (automobilka),Sing,Masc
+7,Seagate,Sing,
+8,Calijský kartel,Sing,Masc
+9,Th. Schneider,Sing,Masc
+10,Drexel Burnham Lambert,Sing,Masc
+11,Degel ha-Tora,Sing,
+12,Zeleni Slovenije,Sing,Fem
+13,China Southern Airlines,Plur,Fem
+14,META (podnik),Sing,Fem
+15,Philips Records,Plur,Masc
+16,Polská národní banka,Sing,Fem
+17,RIAS,,
+18,Strana Šípových křížů,Sing,Fem
+19,Brněnská společnost místních drah,Sing,Fem
+20,Umeå Energi,Sing,Masc
+21,Kaldyčeŭský koncentrační tábor,Sing,Masc
+22,Moderní opereta,Sing,Fem
+23,Komunistická strana Čech a Moravy,Sing,Fem
+24,Front homosexuel d'action révolutionnaire,Sing,Masc
+25,Argor-Heraeus,Sing,Masc
+26,Nová Akropolis,Sing,Fem
+27,Pakistan International Airlines,Plur,Fem
+28,Italská komunistická strana,Sing,Fem
+29,Microsoft,Sing,Masc
+30,Křesťanskodemokratická unie,Sing,Fem
+31,HAG Modelleisenbahnen,Sing,Masc
+32,IGW,,
+33,Komise biskupských konferencí Evropské unie,Sing,Fem
+34,Liberálně demokratická strana (Japonsko),Sing,Fem
+35,Ford Motor Company,,Fem
+36,Comic Relief,Sing,Masc
+37,Lutte ouvrière,Sing,Masc
+38,Konzervativní strana (Norsko),Sing,Fem
+39,Muslimská národní organizace,Sing,Fem
+40,Evropská federace asociací studentů psychologie,Sing,Fem
+41,Amkodor,Sing,Masc
+42,Oriflame,,
+43,Evropské společenství pro atomovou energii,Sing,Neut
+44,Krymská astrofyzikální observatoř,Sing,Fem
+45,ČKD,,Neut
+46,Bugatti,Sing,Masc
+47,Zajatecký tábor Josefov,Sing,Masc
+48,FOS Open Scouting,Sing,Masc
+49,Nash Motors,Plur,Masc
+50,Oceania Football Confederation,Sing,Fem
+51,Cyrix,Sing,Masc
+52,Palivový kombinát Ústí,Sing,Masc
+53,Albánská strana práce,Sing,Fem
+54,Garda Síochána,Plur,"Fem,Neut"
+55,Komunistická strana Indonésie,Sing,Fem
+56,"Švédská federace za práva leseb, gayů, bisexuálů a translidí",Sing,Fem
+57,Charita Lovosice,Sing,Fem
+58,Euroflag,Sing,Masc
+59,Arménská eparchie Adana,Sing,Fem
+60,Caterham (automobilka),Sing,Masc
+61,Diecéze Amaura,,
+62,Bytíz (pracovní tábor),Sing,Masc
+63,Financial Action Task Force,,
+64,Pěvecké sdružení pražských učitelek,Sing,Neut
+65,Bombardier Recreational Products,Sing,Masc
+66,Státní památková správa,Sing,Fem
+67,Rada církví Blízkého východu,Sing,Fem
+68,Parti radical valoisien,Sing,Masc
+69,Liberální strana Austrálie,Sing,Fem
+70,Jugoslávská fotbalová reprezentace,Sing,Fem
+71,Židovská konzervativní strana,Sing,Fem
+72,Hugo Freund & Co,Sing,Masc
+73,Sbor pověřenců 18. září 1945 – 16. srpna 1946,Sing,Masc
+74,Zemědělská strana,Sing,Fem
+75,Republikánská lidová strana,Sing,Fem
+76,Knorr-Bremse,,
+77,Gulf Oil Corporation,Sing,Masc
+78,Interfax,Sing,Masc
+79,BMA,Sing,Fem
+80,Křesťanskodemokratická výzva,Sing,Fem
+81,Československý spisovatel,Sing,Masc
+82,Rodobrana,Sing,Fem
+83,Evropská baptistická federace,Sing,Fem
+84,Diecéze Albulæ,,
+85,Mezinárodní unie pro čistou a aplikovanou fyziku,Sing,Fem
+86,Cherut,Sing,Masc
+87,NortonLifeLock,Sing,Masc
+88,Fialová legie,Sing,Fem
+89,Demokratická unie tožského lidu,Sing,Fem
+90,Ženijní skupina 21 Bratislava,Sing,Fem
+91,Association française pour l'information scientifique,,Masc
+92,SWIFT,Sing,Masc
+93,Nacionálně činná strana,Sing,Fem
+94,Národní centrum kosmického výzkumu,Sing,Neut
+95,Federální úřad pro vyšetřování,Sing,Masc
+96,SA Mathis,,
+97,Finský střed,Sing,Masc
+98,Naše vojsko,Sing,Neut
+99,Ústav jaderné fyziky Akademie věd České republiky,Sing,Masc
+100,Hamás,Sing,Masc
+101,Casalini,Sing,Masc
+102,Expeditors International,Sing,Masc
+103,"F. Přibík, Březhrad u Hradce Králové, úpravna usní",,Masc
+104,Janáčkova filharmonie Ostrava,Sing,Fem
+105,Aston Martin,Sing,Masc
+106,Falcon Mimoň,Sing,Masc
+107,Island Records,Plur,Masc
+108,Kresťanskodemokratické hnutie,Plur,Fem
+109,Føroyski Javnaðarflokkurin,Sing,Masc
+110,Jugoslavenska radiotelevizija,Plur,Neut
+111,Sinaloa (kartel),Sing,Masc
+112,Německá asociace skautů svatého Jiří,Sing,Fem
+113,Saab,Sing,Masc
+114,Fjällräven,Sing,Masc
+115,Zott,Sing,Masc
+116,Unijazz,Sing,Masc
+117,Diecéze Ampora,,
+118,Computer Consoles Inc.,Sing,Masc
+119,Hnutí skautů a skautek Belgie,Sing,Neut
+120,Lidová strana pro svobodu a demokracii,Sing,Fem
+121,Baas,Sing,Masc
+122,Tichomořská konference církví,Sing,Fem
+123,Svaz požární ochrany,Sing,Masc
+124,Zoo Hluboká,Sing,Fem
+125,Světlá stezka,Sing,Fem
+126,Sovětská fotbalová reprezentace,Sing,Fem
+127,Coimbra Group,Sing,Fem
+128,Mezinárodní florbalová federace,Sing,Fem
+129,SanDisk,Sing,Masc
+130,Nature's Sunshine Products,,Masc
+131,Agrární strana (1990–2007),Sing,Fem
+132,Švýcarská strana práce,Sing,Fem
+133,ChessBase,,
+134,Mezinárodní federace badmintonu,Sing,Fem
+135,Lotte Mart,Sing,Masc
+136,Unie českých a slovenských zoologických zahrad,Sing,Fem
+137,Fronta za osvobození enklávy Cabinda,Sing,Fem
+138,Bratři v triku,Plur,Masc
+139,Tupolev,Sing,Masc
+140,GroenLinks,Sing,Masc
+141,Royal Tongan Airlines,Plur,Fem
+142,Deutscher Turnverband,Sing,Masc
+143,Slovenský filmový ústav,Sing,Masc
+144,Rolladen Schneider,Sing,Masc
+145,Mezinárodní federace účetních,Sing,Fem
+146,Genius (elektronika),Sing,Masc
+147,OXXO,Sing,Neut
+148,Konference OSN o obchodu a rozvoji,Sing,Fem
+149,Cubana de Aviación,,
+150,Deutsche Bundesbahn,Sing,Masc
+151,Copa Airlines,Plur,Fem
+152,Severochema,Sing,Neut
+153,Celluloid Records,Plur,Masc
+154,Avianca,Sing,Fem
+155,Hrvatska stranka prava,Plur,Neut
+156,Tuzex,Sing,Masc
+157,Eparchie vídeňská a rakouská,Sing,Fem
+158,Mezinárodní lyžařská federace,Sing,Fem
+159,Sdružení polských elektrikářů,Sing,Neut
+160,Verejnosť proti násiliu,,
+161,GMA Network,Sing,Neut
+162,Český střelecký svaz,Sing,Masc
+163,Příbramská strojírna a slévárna,Sing,Fem
+164,Pákistánská lidová strana,Sing,Fem
+165,Honda,Sing,Fem
+166,Osmanská 3. armáda,Sing,Fem
+167,Konvent oblátů (Varnsdorf),Sing,Masc
+168,Sbor Dr. Karla Farského (Kuřim),Sing,Masc
+169,Egyptská strana zelených,Sing,Fem
+170,IG Farben,Sing,Masc
+171,Budoucnost (družstvo),Sing,Fem
+172,Raidió Teilifís Éireann,,
+173,FISA (filatelie),Sing,Fem
+174,Federação Escotista de Portugal,Sing,Neut
+175,Mars (firma),Sing,Masc
+176,Druhá vláda Jana Syrového,Sing,Fem
+177,Malév,Sing,Masc
+178,Maďarsko-německá sociálně demokratická strana,Sing,Fem
+179,ZEZ SILKO,Sing,Masc
+180,Mezinárodní golfová federace,Sing,Fem
+181,Discant,Sing,Masc
+182,Ma'arach,Sing,Fem
+183,Světová federace tanečního sportu,Sing,Fem
+184,Starokatolická farnost Krásná Lípa,Sing,Fem
+185,Rover Group,Sing,Masc
+186,Lufthansa,Sing,Fem
+187,National Press Photographers Association,,
+188,Mettler Toledo,Sing,Neut
+189,KLM,Sing,Masc
+190,BMI Regional,,
+191,Nová demokratická strana,Sing,Fem
+192,Lidová národní strana,Sing,Fem
+193,Sdružení amerických scenáristů,Sing,Neut
+194,McDonnell Douglas,Sing,Masc
+195,Nadace knížete z Lichtenštejna,Sing,Fem
+196,McDonnell Aircraft Corporation,Sing,Masc
+197,Sjednocená arabská kandidátka (1977),Sing,Fem
+198,Vlastenecká fronta (Rakousko),Sing,Fem
+199,Zvonařská dílna Tomášková-Dytrychová,Sing,Fem
+200,650. pěší divize (Wehrmacht),Sing,
+201,Světová asociace zoologických zahrad a akvárií,Sing,Fem
+202,Caroline Records,Sing,Masc
+203,VMRO-DPMNE,,
+204,Organizace pro osvobození Palestiny,Sing,Fem
+205,Český tenisový svaz,Sing,Masc
+206,Český rozhlas Region,Sing,Masc
+207,Moto Guzzi,,
+208,Eurest,Sing,Masc
+209,Maersk,Sing,Masc
+210,Královská kanadská jízdní policie,Sing,Fem
+211,Air Berlin,Sing,Masc
+212,Temsa,Sing,Fem
+213,Jihočeské podniky pro automobilovou dopravu,Plur,Masc
+214,Coogi,Sing,Neut
+215,Mezinárodní šachová federace,Sing,Fem
+216,Farní sbor Českobratrské církve evangelické v Chodově u Karlových Varů,Sing,Masc
+217,Národně socialistická německá dělnická strana,Sing,Fem
+218,Vanguardia Popular Socialista,Sing,Masc
+219,Německé volební společenství,Sing,Neut
+220,Ázerbájdžánská národní knihovna,Sing,Fem
+221,British Rail,,
+222,ACM Automobili,Plur,Masc
+223,Trans World Airlines,,Fem
+224,Strana národní pravice,Sing,Fem
+225,Cine Manifest,,
+226,Křesťanskodemokratická strana,Sing,Fem
+227,Kach,Sing,Masc
+228,Městský ústav ochrany památek Bratislava,Sing,Masc
+229,Vlámský blok,Sing,Masc
+230,Mezinárodní PEN klub,Sing,Masc
+231,Borsay,Sing,Fem
+232,Nakladatelství Petrov,Sing,Neut
+233,Enix,Sing,
+234,Křesťanská lidová strana (Norsko),Sing,Fem
+235,Cirque du Soleil,Sing,Masc
+236,Komunistická strana Abcházie,Sing,Fem
+237,Palmarská katolická církev,Sing,Fem
+238,Pokroková strana (1912),Sing,Fem
+239,Sociálně demokratická strana Koreje,Sing,Fem
+240,Západoevropská unie,Sing,Fem
+241,Ihagee,Sing,Neut
+242,Svaz komunistů Kosova,Sing,Masc
+243,"Autogena, kotlárna, dílna strojnická a autogenní svařování, O. Schwippel & K. Pálka",Plur,"Fem,Neut"
+244,Ústředí muslimských obcí České republiky,Sing,Neut
+245,NASDAQ OMX Group,,
+246,Český filharmonický sbor Brno,Sing,Masc
+247,Diecéze Amantia,Plur,Neut
+248,Farní sbor Slezské církve evangelické augsburského vyznání v Oldřichovicích,Sing,Masc
+249,Fides (agentura),Sing,Masc
+250,Aixam,Sing,Masc
+251,CJ Group,,
+252,Whataburger,Sing,Masc
+253,Komunistická strana Arménie,Sing,Fem
+254,Trávnice (odbojová skupina),Sing,Fem
+255,NBC,,Neut
+256,Národní socialistické hnutí,Sing,Neut
+257,Gräf & Stift,Sing,Masc
+258,EMI Records,Plur,Masc
+259,Mezinárodní unie geologických věd,Sing,Fem
+260,Mezinárodní boxerská federace,Sing,Fem
+261,Pfalz Flugzeugwerke,Sing,Masc
+262,Hodonínek,Sing,Masc
+263,Černé září (skupina),Sing,Neut
+264,Královéhradecká diecéze Církve československé husitské,Sing,Fem
+265,37. dobrovolnická jízdní divize SS „Lützow“,Sing,Fem
+266,Rickenbacker,Sing,Masc
+267,Výbor na obranu nespravedlivě stíhaných,Sing,Masc
+268,A Rocha,Sing,Masc
+269,UAZ,Sing,Masc
+270,BMW,,Neut
+271,Checker,Sing,Masc
+272,Svaz průmyslu a dopravy ČR,Sing,Masc
+273,Sbor národní bezpečnosti,Sing,Masc
+274,Russo-Balt,Sing,Neut
+275,Mezinárodní horolezecká federace,Sing,Fem
+276,BorsodChem,Sing,Masc
+277,Stichting Skepsis,,Masc
+278,Confederation of European Baseball,,
+279,Cemex,Sing,Masc
+280,Slezská lidová strana,Sing,Fem
+281,Sdružení organizací homosexuálních občanů v ČR,Sing,Neut
+282,Strana zelených,Sing,Fem
+283,Volga-Dnepr Airlines,Sing,Fem
+284,Bloods,Sing,Masc
+285,Diecéze Amadassa,,Neut
+286,Národopisná Morava,Sing,Fem
+287,Kablo,Sing,Neut
+288,18. divize (mobilizace 1938),Sing,Fem
+289,Arménská revoluční federace,Sing,Fem
+290,Fontana Records,Sing,Masc
+291,Farní sbor Českobratrské církve evangelické v Opavě,Sing,Masc
+292,Gabonská pokroková strana,Sing,Fem
+293,Ekonomická a sociální rada OSN,Sing,Fem
+294,Ukrajinská republikánská kapela,Sing,Fem
+295,"Josef Katschner a syn, továrna vaječných a medových výrobků a sušárna zeleniny",Sing,Masc
+296,Mondial Photo-Presse,,Masc
+297,Inuitské společenství,Sing,Neut
+298,Vitra (firma),Sing,Fem
+299,Doprastav,Sing,Masc
+300,Evropský soud pro lidská práva,Sing,Masc
+301,Factory Records,Sing,Masc
+302,Slovenská sociálnodemokratická strana Uhorska,Sing,Fem
+303,Alstom,Sing,Masc
+304,Vláda Lutze Schwerina von Krosigka,Sing,Fem
+305,Hnutí 22. března,Sing,Neut
+306,Agrokor,Sing,Masc
+307,"Archeologický ústav Akademie věd České republiky, Praha",Sing,Masc
+308,Sturmabteilung,Sing,Neut
+309,Lamy (firma),Plur,Masc
+310,Nowa fala,Plur,"Fem,Neut"
+311,Herbalife,Sing,Fem
+312,Sinťiangský výrobní a stavební sbor,Sing,Masc
+313,Jezuitský filosofický ústav (Děčín),Sing,Masc
+314,Mittelwerk,Sing,Masc
+315,Merkur (obchodní řetězec),Sing,Masc
+316,Korea Educational Broadcasting System,Sing,Fem
+317,Audi Sport,,
+318,Společnost pro výzkum kamenných křížů,Sing,Fem
+319,Organizace ekonomické spolupráce,Sing,Fem
+320,Slov-Air,Sing,Masc
+321,Collegium Carolinum,Sing,Neut
+322,Kenya Airways,Plur,Fem
+323,Lucernafilm Video,Sing,Neut
+324,Nacionalistická strana (Malta),Sing,Fem
+325,Red Nacional de los Ferrocarriles Españoles,,
+326,China Eastern Airlines,Plur,Fem
+327,Skupina architektů moderního směru,Sing,Fem
+328,Symfonický orchestr Českého rozhlasu,Sing,Masc
+329,Produktiva (družstvo),Sing,Fem
+330,Finnair,Sing,Masc
+331,Tatra revue,Sing,Fem
+332,Pratt & Whitney Canada,Sing,Masc
+333,Klub Pathfinder,Sing,Masc
+334,Slovenský horolezecký spolek JAMES,Sing,Masc
+335,Dědrasbor,Sing,Masc
+336,Technolen,Sing,Masc
+337,Mezinárodní buddhistický institut,Sing,Masc
+338,The Heritage Foundation,,
+339,Tio fotografer,Sing,Masc
+340,Petronas,Sing,Masc
+341,Lacaton & Vassal,Sing,Masc
+342,FIFPro,,
+343,Karmel Heilig Blut,Sing,Masc
+344,6. divize (mobilizace 1938),Sing,Fem
+345,Süddeutsche Automobil-Fabrik Gaggenau,Sing,Masc
+346,30. granátnická divize SS (1. běloruská),Sing,Fem
+347,Paws,Sing,Masc
+348,Oberkommando der Wehrmacht,Sing,Neut
+349,Mannesmann,Sing,Masc
+350,Řízení letového provozu České republiky,Sing,Neut
+351,Československý státní film,Sing,Masc
+352,AJ Produkter,Sing,Masc
+353,AVL List,,
+354,Allied Signal,Sing,Masc
+355,Société anonyme des ateliers d’aviation Louis Breguet,Plur,Masc
+356,National Youth Orchestra of Wales,,
+357,Charita Česká republika,Sing,Fem
+358,Strana kurdských pracujících,Sing,Fem
+359,Shell Canada,Sing,Masc
+360,Œuvre des Chantiers du Cardinal,,
+361,Vojenský historický archiv,Sing,Masc
+362,Pohotovostní oddíly Hlinkovy gardy,Plur,Masc
+363,KDU-ČSL,,Fem
+364,Aeroklub České republiky,Sing,Masc
+365,Glennovo výzkumné středisko,Sing,Neut
+366,Státní reformní strana,Sing,Fem
+367,MND,Sing,Masc
+368,Diecéze Ala miliaria,,
+369,Deutscher Böhmerwaldbund,Sing,Masc
+370,Reebok,Sing,Masc
+371,International Harvester,Sing,Masc
+372,Fedcupový tým Západního Německa,Sing,Masc
+373,Strana zelených (Slovensko),Sing,Fem
+374,Raja (firma),Sing,Fem
+375,Svaz komunistů Chorvatska,Sing,Masc
+376,Včela (spotřební družstvo),Sing,Fem
+377,Magen David Adom,Sing,Masc
+378,Sovětská hokejová reprezentace,Sing,Fem
+379,Seasonic,,
+380,Občanská demokratická aliance,Sing,Fem
+381,Jihočeská vědecká knihovna,Sing,Fem
+382,Cyrilometodějská křesťanská akademie,Sing,Fem
+383,Komunistická strana Indie (marxistická),Sing,Fem
+384,Mezinárodní sdružení správ majáků,Sing,Neut
+385,Ústřední knihovna Slovenské akademie věd,Sing,Fem
+386,Interscope Records,Sing,Masc
+387,Farní sbor Českobratrské církve evangelické v Silůvkách u Brna,Sing,Masc
+388,Ústav molekulární biologie rostlin Biologického centra Akademie věd České republiky,Sing,Masc
+389,Air Malawi,Sing,Masc
+390,Česká liga proti bolševismu,Sing,Fem
+391,Pronovias,,
+392,Motorpal,Sing,Masc
+393,Tami,,
+394,Thiokol,Sing,Masc
+395,Clément-Bayard,Sing,Masc
+396,Česká matematická společnost,Sing,Fem
+397,Deutscher Schulverein,Sing,Masc
+398,Mezinárodní společnost pro soudobou hudbu,Sing,Fem
+399,TREVOS,Sing,Masc
+400,Český myslivecký svaz,Sing,Masc
+401,Stefanusalliansen,Sing,Masc
+402,Commodore International,,
+403,Brasier,Sing,Masc
+404,Uprchlický tábor Traiskirchen,Sing,Masc
+405,Moulinex,Sing,Masc
+406,Irská národně osvobozenecká armáda,Sing,Fem
+407,Kinofa,Sing,Fem
+408,Progresivní strana (Izrael),Sing,Fem
+409,Radost ze života,Sing,Fem
+410,J.P. Morgan & Co.,,Masc
+411,Lidová strana na Moravě (Bulín),Sing,Fem
+412,Nacionálně socialistická česká dělnická a rolnická strana,Sing,Fem
+413,Encyklopedický ústav Slovenské akademie věd,Sing,Masc
+414,Minnesotská demokratická zemědělská strana práce,Sing,Fem
+415,Austin Motor Company,,Fem
+416,Janyška a spol.,Sing,Fem
+417,Aeroméxico,Sing,Neut
+418,Centrum Valonsko-Brusel v Paříži,Sing,Neut
+419,1. armáda (mobilizace 1938),,
+420,Českomoravská psychologická společnost,Sing,Fem
+421,Los Angeles Philharmonic,,
+422,Španělská armáda,Sing,Fem
+423,RKO Pictures,Sing,Masc
+424,"František Kňourek, tržnice masa, sádla, uzenin a vývoz šunek",Sing,Masc
+425,Heavenly Recordings,Sing,Masc
+426,Oblastní nemocnice Kladno,Sing,Fem
+427,Mezinárodní basketbalová federace,Sing,Fem
+428,China Airlines,Plur,Fem
+429,Radiotelevizija Srbije,Sing,Masc
+430,Státní fotoměřický ústav,Sing,Masc
+431,Achilles (automobil),Sing,Masc
+432,7. ústřední výbor Komunistické strany Číny,,
+433,Baťova letecká společnost,Sing,Fem
+434,Nejvyšší lidový soud Čínské lidové republiky,Sing,Masc
+435,Japan Airlines,Plur,Fem
+436,Česká genealogická a heraldická společnost v Praze,Sing,Fem
+437,Třetí vláda Jozefa Tisa,Sing,Fem
+438,Synergistic Software,Sing,Masc
+439,Bosanskohercegovačka radiotelevizija,Sing,Fem
+440,Farní sbor Českobratrské církve evangelické v Teplé,Sing,Masc
+441,Ta'al,,
+442,Ústav etnologie a sociální antropologie Slovenské akademie věd,Sing,Masc
+443,Koch & Korselt,Sing,Masc
+444,Svoboda (nakladatelství),Sing,Masc
+445,Gruzínská národní akademie věd,Sing,Fem
+446,Association for Computing Machinery,,Fem
+447,The North Face,,
+448,Český svaz bojovníků za svobodu,Sing,Masc
+449,Vláda národní jednoty (Maďarsko),Sing,Fem
+450,Konstitučně demokratická strana,Sing,Fem
+451,Národní sjednocení,Sing,Neut
+452,Indian,Sing,Masc
+453,Knihovna města Mladá Boleslav,Sing,Fem
+454,Spojenecká kontrolní rada,Sing,Fem
+455,Berliner Verkehrsbetriebe,Sing,Neut
+456,Austin Rover Group,Sing,Masc
+457,Český rozhlas Rádio DAB Praha,Sing,Masc
+458,Asociace národních olympijských výborů,Sing,Fem
+459,Petiční výbor Věrni zůstaneme,Plur,
+460,Slovenski krščanski demokrati,Plur,Masc
+461,Seta,Sing,Fem
+462,Škoda (podnik),Sing,Fem
+463,Česká zbrojovka Uherský Brod,Sing,Fem
+464,Levicová fronta,Sing,Fem
+465,Tim Hortons,Sing,Masc
+466,Bojová organizace Horního Slezska,Sing,Fem
+467,Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften,Sing,Masc
+468,Irská republikánská armáda,Sing,Fem
+469,USIA,Sing,Fem
+470,Komatsu,,
+471,Harris & Ewing photo studio,Sing,Neut
+472,Soudní dvůr Evropské unie,Sing,Masc
+473,Royal Aero Club,Sing,Neut
+474,Kongres Poláků v České republice,Sing,Masc
+475,Stroukoff Aircraft,,Masc
+476,Sea Shepherd Conservation Society,Sing,Masc
+477,Farní sbor Českobratrské církve evangelické v Litomyšli,Sing,Masc
+478,Pěvecké sdružení pražských učitelů,Sing,Neut
+479,Farní sbor Českobratrské církve evangelické v Rokycanech,Sing,Masc
+480,Maďarská národní strana,Sing,Fem
+481,Omnipol,Sing,Masc
+482,L'Oréal,Sing,Masc
+483,Průmysl mléčné výživy,Sing,Masc
+484,3M,,
+485,Židovská občanská strana v Podkarpatské Rusi,Sing,Fem
+486,Techija,Sing,Fem
+487,Národní sdružení (Francie),Sing,Neut
+488,Národně-demokratická strana Německa (Německá demokratická republika),,
+489,Komunistim ivrim,Sing,Masc
+490,Nemocnice Frýdlant,Plur,Fem
+491,Mary Kay,,
+492,Mongolská lidová strana,Sing,Fem
+493,Levicová strana (Švédsko),Sing,Fem
+494,Československý šachový svaz,Sing,Masc
+495,Moravský ornitologický spolek,Sing,Masc
+496,Organizace africké jednoty,Sing,Fem
+497,The Wooster Group,,
+498,Auto Union,Sing,Neut
+499,Havlíčkova mládež,Sing,Fem
+500,Daewoo,,
+501,Parti frontiste,Plur,
+502,Progress (ruský letecký závod),Sing,Masc
+503,Autonomní zemědělský sojuz,Sing,Masc
+504,Červená sedma,Sing,Fem
+505,Benetton (firma),Sing,Masc
+506,Mezinárodní asociace výtvarných kritiků,Sing,Fem
+507,Evropa 2,Sing,Fem
+508,Amtrak,,
+509,Air India,Sing,Masc
+510,Svaz evangelických církví v Republice československé,Sing,Masc
+511,Demokratická strana (Srbsko),Sing,Fem
+512,Convair,Sing,Masc
+513,RCA Records,Plur,Masc
+514,Arc'teryx,Sing,Masc
+515,Bambini di Praga,Sing,Masc
+516,Mezinárodní federace stolního tenisu,Sing,Fem
+517,Fianna Fáil,Sing,Masc
+518,Túde,,
+519,Entomologický ústav Biologického centra Akademie věd České republiky,Sing,Masc
+520,De Havilland Engine Company,,
+521,Intersport,Sing,Masc
+522,Valné shromáždění OSN,Sing,Neut
+523,Demokratická fronta pro osvobození Palestiny,Sing,Fem
+524,Povodí Moravy (státní podnik),Sing,Neut
+525,Korporace prezidenta Církve Ježíše Krista Svatých Posledních dnů,Sing,Fem
+526,Německá lidová strana (Německo),Sing,Fem
+527,Státní ústav pro kontrolu léčiv,Sing,Masc
+528,Mora Moravia,Sing,Fem
+529,Státní fond pro zúrodnění půdy,Sing,Masc
+530,Fedcupový tým Sovětského svazu,Sing,Masc
+531,ABC Signature,,Neut
+532,Univerzitní nemocnice Louise Pasteura,Sing,Fem
+533,Albixon,Sing,Masc
+534,Likinský autobusový závod,Sing,Masc
+535,Slovenská akademie věd,Sing,Fem
+536,Bavaria Yachtbau,Sing,Masc
+537,Státní tiskárna cenin,Sing,Fem
+538,Jüdischer Kulturbund,Sing,Masc
+539,Československá letecká společnost,Sing,Fem
+540,Světová rada církví,Sing,Fem
+541,Zelený svaz,Sing,Masc
+542,Konzervativní lidová strana (Německo),Sing,Fem
+543,Výzkumný ústav vodohospodářský T. G. Masaryka,Sing,Masc
+544,Fronta Polisario,Sing,Fem
+545,Velamos,Sing,Masc
+546,Organizace pro hospodářskou spolupráci a rozvoj,Sing,Fem
+547,Consolidated Aircraft,,
+548,Židovská obranná liga,Sing,Fem
+549,Partido Independentista Puertorriqueño,,Masc
+550,Jihlavan,Sing,Masc
+551,SABCA,Sing,Fem
+552,Committee on Public Information,,
+553,Belga Rise,Sing,Fem
+554,Bärenreiter,Sing,Masc
+555,Tokyo Broadcasting System,Sing,Masc
+556,Ukrajinská radikální strana,Sing,Fem
+557,KFC,Sing,Masc
+558,Atos,Sing,Masc
+559,Garaventa,,
+560,Verve Records,,
+561,Aerowatch,Sing,Masc
+562,Ústřední jednota českých šachistů,Sing,Fem
+563,Amway,Sing,Fem
+564,Mejmad,Sing,Masc
+565,Cord,Sing,Masc
+566,Panevropská unie,Sing,Fem
+567,Zdravotní středisko Virginie Masonové,Sing,Neut
+568,Lanex,Sing,Masc
+569,Lesben- und Schwulenverband in Deutschland,Sing,Masc
+570,Jensen Motors,Sing,Masc
+571,Centrální banka Ruské federace,Sing,Fem
+572,VIA Technologies,Sing,Fem
+573,Městská knihovna Slavoj,Sing,Fem
+574,Korean Air,Sing,Masc
+575,Spořitelní a záložní spolek pro obec Slatinu,Sing,Masc
+576,Acció Catalana,Sing,Masc
+577,Ministerstvo spravedlnosti Spojených států amerických,Sing,Neut
+578,Vignale,,
+579,Société Nationale de Radiodiffusion et de Télévision,,Fem
+580,JR West,Sing,Masc
+581,Světová zdravotnická organizace,Sing,Fem
+582,Alaska Airlines,Plur,Fem
+583,Krejčovství Vývoj,Sing,Neut
+584,Norsk Hydro,Sing,Masc
+585,Progresivní kandidátka za mír,Sing,Fem
+586,Chrëschtlech Sozial Vollekspartei,Sing,Masc
+587,Charta 77,Sing,Fem
+588,"Karpatoruská strana pracujícího lidu, malorolníků a bezzemků",Sing,Fem
+589,Air Liquide,Sing,Masc
+590,Revoluční ukrajinská strana,Sing,Fem
+591,Evropský kulturní klub,Sing,Masc
+592,Radio Télévision Belge de la Communauté Française,Sing,Neut
+593,Federace mladých evropských zelených,Sing,Fem
+594,Ženijní skupinové velitelství III Králíky,Sing,Neut
+595,Alfa Romeo,Sing,Neut
+596,Hnutí za samosprávnou demokracii – Společnost pro Moravu a Slezsko,Sing,Neut
+597,Ústav experimentální biofarmacie,Sing,Masc
+598,Radiotelevizija Slovenija,Sing,Fem
+599,Magyar Dolgozók Pártja,Sing,Fem
+600,Kara Trutnov,Sing,Fem
+601,Dělnická stráž,Sing,Fem
+602,Skupina 1 (mobilizace 1938),Sing,Fem
+603,Spolek Komenský (Praha),Sing,Masc
+604,Arabská kandidátka pro beduíny a venkovany,Sing,Fem
+605,Arabská osvobozenecká fronta,Sing,Fem
+606,ARD,,Neut
+607,Caterpillar,Sing,Masc
+608,Výzkumný ústav lesního hospodářství a myslivosti,Sing,Masc
+609,Rada vysokých škol,Sing,Fem
+610,Vojenský oddíl Železo,Sing,Masc
+611,Oddíl vojenských astronautů USA,Sing,Masc
+612,Desigual,Sing,Masc
+613,DSV,,Neut
+614,Yemenia,Sing,Fem
+615,Evangelikální letniční jednota (Polsko),Sing,Fem
+616,Strana středu (Švédsko),Sing,Fem
+617,US Airways,,
+618,Amal,Sing,Masc
+619,Clifford Chance,Sing,Masc
+620,Zanussi,,
+621,Uponor,Sing,Masc
+622,Freikorps von Epp,Sing,Masc
+623,Airbus,Sing,Masc
+624,Fabryka Samochodów Rolniczych,Sing,Fem
+625,Psychiatrická nemocnice Havlíčkův Brod,Sing,Fem
+626,Farní sbor Českobratrské církve evangelické v Mariánských Lázních,Sing,Masc
+627,Svaz české mládeže,Sing,Masc
+628,Mapaj,Sing,Masc
+629,Kurčatovův institut,Sing,Masc
+630,Český rozhlas Ostrava,Sing,Masc
+631,International Air Transport Association,,Fem
+632,E.G.,,Masc
+633,Records,Plur,Masc
+634,Rassemblement démocratique révolutionnaire,,Masc
+635,Mezinárodní banka hospodářské spolupráce,Sing,Fem
+636,Aeritalia,Sing,Fem
+637,Hooters,Sing,Masc
+638,Deutscher Werkbund,Sing,Masc
+639,Farní sbor Českobratrské církve evangelické ve Stříbře,Sing,Masc
+640,Light for the World,,
+641,Komunistická strana Rumunska,Sing,Fem
+642,Zádruha (družstvo),Sing,Fem
+643,Mezinárodní vzpěračská federace,Sing,Fem
+644,Český radioklub,Sing,Masc
+645,Friedmann-Knoller,Sing,Masc
+646,Demokratický svaz Maďarů v Rumunsku,Sing,Masc
+647,Luxair,Sing,Masc
+648,World Wrestling Entertainment,,
+649,Lakovar,Sing,Masc
+650,Kurdská demokratická strana Iráku,Sing,Fem
+651,"Republikánská, radikální a radikálně socialistická strana",Sing,Fem
+652,Air New Zealand,Sing,Masc
+653,Centropen,Sing,Masc
+654,Královská belgická hokejová federace,Sing,Fem
+655,Fotbalová federace Austrálie,Sing,Fem
+656,Pionýrská organizace Socialistického svazu mládeže,Sing,Fem
+657,Vláda Andreje Bródyho,Sing,Fem
+658,33. granátnická divize SS „Charlemagne“ (1. francouzská),Sing,Fem
+659,Meri (politická strana),Sing,Masc
+660,18. dobrovolnická divize tankových granátníků SS „Horst Wessel“,Sing,Fem
+661,Jysk,Sing,Masc
+662,MV Agusta,,Neut
+663,Southwest Airlines,Plur,Fem
+664,Labouristická strana (Malta),Sing,Fem
+665,Tožské lidové hnutí,Sing,Neut
+666,Farní sbor Slezské církve evangelické augsburského vyznání v Třinci,Sing,Masc
+667,Plzeňsko-březenská dráha,Sing,Fem
+668,Zemský archiv v Opavě,Sing,Masc
+669,Berijev,Sing,Masc
+670,Agudat Jisra'el,Sing,Masc
+671,Monarch Airlines,,
+672,EUROSAI,,
+673,Evropská filmová akademie,Sing,Fem
+674,Revoluční scéna,Sing,Fem
+675,NHK,,Neut
+676,Abstraction-Création,Sing,Masc
+677,Strana slobody,Sing,Fem
+678,Moskvič,Sing,Masc
+679,Bear Stearns,Sing,Masc
+680,Evangelická luterská synoda,Sing,Fem
+681,Neodvislá radikální sociálně demokratická strana,Sing,Fem
+682,Fischerwerke,,
+683,Moderní studio (divadlo),Sing,Neut
+684,Bioderma,Sing,Fem
+685,Mifleget ha-ichud,Sing,
+686,Müller a Kapsa,Sing,Masc
+687,Arcidiecéze washingtonská,Sing,Fem
+688,NRK,Sing,Masc
+689,Hitlerjugend,Sing,Masc
+690,Hainan Airlines,Plur,Fem
+691,Vattenfall,,
+692,Technisches Hilfswerk,Sing,Masc
+693,Pierre Lannier,Sing,Masc
+694,Komunistická strana Sovětského svazu,Sing,Fem
+695,Thai Airways,,
+696,"Alfred Kunze, Továrna na stroje a osobní automobily",Sing,Masc
+697,Avro,Sing,Neut
+698,Ja'ad-Hnutí za lidská práva,,
+699,Diecéze Altava,Sing,Fem
+700,Jugoslávská muslimská organizace,Sing,Fem
+701,MI5,Sing,
+702,DARPA,Sing,Fem
+703,ISOCARP,Sing,Masc
+704,Revoluční výbor čínského Kuomintangu,Sing,Masc
+705,Samtökin '78,Sing,Masc
+706,Evropský olympijský výbor,Sing,Masc
+707,4. armáda (mobilizace 1938),,
+708,Mezinárodní tenisová federace,Sing,Fem
+709,Československá lidová armáda,Sing,Fem
+710,Doležalovo kvarteto,Sing,Neut
+711,Slovenska ljudska stranka,Plur,Neut
+712,Evropská basketbalová federace,Sing,Fem
+713,Junges Bern,Sing,Masc
+714,Fedcupový tým Jugoslávie,Sing,Masc
+715,Německá spolková banka,Sing,Fem
+716,FedEx,Sing,Masc
+717,Studio Ghibli,Sing,Neut
+718,Mezinárodní rada pro památky a sídla,Sing,Fem
+719,Nakladatelství Cor Jesu,Sing,Neut
+720,Na'amat,,
+721,Demokratické shromáždění,Sing,Neut
+722,Hells Angels,Sing,Masc
+723,Maltská politická unie,Sing,Fem
+724,Náboženská obec Církve československé husitské v Lužné,Sing,Fem
+725,Einsatzkommando 14,Sing,Neut
+726,Československá asociace fotbalová,Sing,Fem
+727,Chick-fil-A,Sing,Masc
+728,Bratrská jednota baptistů Ostrava,Sing,Fem
+729,Nadace Gerdy Henkelové,Sing,Fem
+730,Evropská asociace turistických klubů,Sing,Fem
+731,TSMC,Sing,Masc
+732,Mezinárodní judistická federace,Sing,Fem
+733,Munich Re,Sing,Masc
+734,David et Jonathan,Sing,Masc
+735,Občanské fórum Trutnov,Sing,Neut
+736,Flybe,Sing,Masc
+737,Deutsche Licenz Tatra,,Masc
+738,Spolkový úřad pro ochranu ústavy,Sing,Masc
+739,Dělnická strana Belgie,Sing,Fem
+740,Kamerunská lidová národní úmluva,Sing,Fem
+741,Londýnský filharmonický orchestr,Sing,Masc
+742,Česká vexilologická společnost,Sing,Fem
+743,Třetí vláda Milana Hodži,Sing,Fem
+744,Rhymers' Club,Sing,Masc
+745,Silicon Graphics,Sing,Masc
+746,Basler Electric,Sing,Masc
+747,Výzkumný ústav práce a sociálních věcí,Sing,Masc
+748,Státní zemědělské nakladatelství,Sing,Neut
+749,LATAM Chile,,
+750,Al-Káida,Sing,Masc
+751,Women's Social and Political Union,Sing,Masc
+752,Ústav pro výzkum radiotechniky Opočínek,Sing,Masc
+753,Jáchymovské doly,Plur,Masc
+754,Svenska Scoutrådet,Sing,Neut
+755,Československá fotbalová reprezentace,Sing,Fem
+756,Impulse!,,
+757,Records,Plur,Masc
+758,Vláda Adolfa Hitlera,Sing,Fem
+759,Pugwashské konference o vědě a světových záležitostech,Plur,Fem
+760,Virologický ústav Československé akademie věd,Sing,Masc
+761,Dermacol,Sing,Masc
+762,Przedsiębiorstwo Materiałów Podsadzkowych Przemysłu Węglowego,Sing,Neut
+763,"Bavorská správa státních zámků, zahrad a jezer",Sing,Fem
+764,Bolševici,Plur,Masc
+765,AJS,Sing,Masc
+766,De Grønne,,
+767,Telefunken,Sing,Masc
+768,Grumman,Sing,Masc
+769,Libertariánská strana (USA),Sing,Fem
+770,Komunistická strana Vietnamu,Sing,Fem
+771,Indická lidová strana,Sing,Fem
+772,Finská akademie věd,Sing,Fem
+773,Opinel,Sing,Masc
+774,Britský filmový institut,Sing,Masc
+775,Východoněmecká hokejová reprezentace,Sing,Fem
+776,Mapam,Sing,Masc
+777,Skeppshults Gjuteri,Sing,Masc
+778,Okťabristé,Plur,Masc
+779,Čeondoistická strana Ch'ŏngu,Sing,Fem
+780,Sizaire-Naudin,Sing,Masc
+781,Národní garda (ČSR),Sing,Fem
+782,Včelařský spolek v Rosicích,Sing,Masc
+783,Burger King,Sing,Masc
+784,Státní oblastní archiv v Litoměřicích,Sing,Masc
+785,Romská občanská iniciativa,Sing,Fem
+786,Messerschmitt,Sing,Masc
+787,Maschinenfabrik Bernard Krone,Sing,Masc
+788,Demeter International,Sing,Masc
+789,Astronomický ústav Akademie věd České republiky,Sing,Masc
+790,Latinská unie,Sing,Fem
+791,Muslimská liga,Sing,Fem
+792,Znojemská Beseda,Sing,Fem
+793,Státní divadlo v Drážďanech,Sing,Neut
+794,Unioni Shqiptare DemoKristiane,,
+795,Diora,Sing,Fem
+796,Německé pracovní a volební společenství,Sing,Neut
+797,Star,Sing,Masc
+798,Nezávislá sociálně demokratická strana Německa,Sing,Fem
+799,Jugoslávská hokejová reprezentace,Sing,Fem
+800,Amylon,Sing,Masc
+801,Britská akademie,Sing,Fem
+802,Aero (automobilka),Sing,Neut
+803,Skupina surrealistů v ČSR,Sing,Fem
+804,Sun D'Or,Sing,Masc
+805,Evropská asociace studentů farmacie,Sing,Fem
+806,Frýdlantské okresní dráhy,Plur,Fem
+807,Artěl,Sing,
+808,Si'at smol,Sing,Masc
+809,Kleinautowerke Fritz Hückel,,Masc
+810,Konzervativní strana (Česko),Sing,Fem
+811,Ha-Po'el ha-ca'ir,Sing,
+812,Westland Aircraft,,Masc
+813,The Trump Organization,,
+814,Polská socialistická dělnická strana v Československu,Sing,Fem
+815,Evangelická matice Třanovského,Sing,Fem
+816,Studio ND,Sing,Neut
+817,Obránci rudé ruky,Plur,Masc
+818,Adidas,Sing,Masc
+819,ZLIN Aircraft,,Masc
+820,Státní ústav památkové péče a ochrany přírody,Sing,Masc
+821,Královéhradecká přádelna bavlny Dr. Richard Anninger,Sing,Fem
+822,Metropole Orkest,Sing,Neut
+823,První vláda Jozefa Tisa,Sing,Fem
+824,Strana revolučního komunismu,Sing,Fem
+825,Kancléřství pařížských univerzit,Sing,Neut
+826,"Chasse, pêche, nature et traditions",Sing,Fem
+827,Fox Broadcasting Company,Sing,Masc
+828,Compagnies républicaines de sécurité,Plur,Masc
+829,Hraniční oblast 38 (mobilizace 1938),Sing,Fem
+830,A.,,
+831,"Fuchs v Kuklenách, obchod se surovými kožemi",Sing,Masc
+832,Irgun,Sing,Masc
+833,A&W Restaurants,,
+834,IAESTE,Plur,
+835,Las Vegas Metropolitan Police Department,Plur,Neut
+836,Rockstar North,Sing,Masc
+837,Universal Music Group,,
+838,Rottefella,,
+839,21. horská divize SS „Skanderbeg“ (1. albánská),Sing,Fem
+840,Mlékárna Chudobín,Sing,Fem
+841,VI. sbor (mobilizace 1938),Sing,Masc
+842,Mannerheimovo sdružení pro péči o děti,Sing,Neut
+843,Oral-B,,
+844,Mezinárodní federace bandy,Sing,Fem
+845,Dunajská pohraniční stráž,Sing,Fem
+846,Morija (politická strana),Sing,Fem
+847,Prakab,Sing,Masc
+848,Tresoria,Plur,Neut
+849,Základní umělecká škola Letovice,Sing,Fem
+850,Waffen-SS,Sing,Masc
+851,Atlantická rada,Sing,Fem
+852,Mezinárodní rada pro lov a ochranu zvěře,Sing,Fem
+853,Allard,Sing,Masc
+854,Electric Lady Studios,Sing,Masc
+855,Fondation Jean Dubuffet,Sing,Masc
+856,Belgicko-lucemburská ekonomická unie,Sing,Fem
+857,Archiv Ministerstva zahraničních věcí České republiky,Sing,Masc
+858,Organizace Gehlen,Sing,Fem
+859,DZBB,Sing,Masc
+860,Iberia,Sing,Fem
+861,Vláda Štefana Tisa,Sing,Fem
+862,Knotek Jičín,Sing,Masc
+863,Divadlo Jiřího Wolkera,Sing,Neut
+864,Čínská průmyslová a obchodní banka,Sing,Fem
+865,Associazione Nazionalista Italiana,Sing,
+866,Státní okresní archiv Karlovy Vary,Sing,Masc
+867,Gazprom,Sing,Masc
+868,Saviem,Sing,Masc
+869,Sdružení výtvarných umělců moravských,Sing,Neut
+870,Švédští demokraté,Plur,Masc
+871,Geo,Sing,Neut
+872,Esri,Sing,Neut
+873,Městská knihovna Hodonín,Sing,Fem
+874,Duesenberg,Sing,Masc
+875,Rumpler Tropfenwagen,Sing,Masc
+876,Advantech,Sing,Masc
+877,Národní bezpečnostní agentura,Sing,Fem
+878,United States Army Medical Research,,
+879,Institute of Infectious Diseases,,Neut
+880,Národní fronta Čechů a Slováků,Sing,Fem
+881,Evropská atletická asociace,Sing,Fem
+882,Libanonská komunistická strana,Sing,Fem
+883,Skotská národní strana,Sing,Fem
+884,The Lego Group,,
+885,Česká speleologická společnost,Sing,Fem
+886,Německá sociálně demokratická strana dělnická v ČSR,Sing,Fem
+887,Iran Air,Sing,Masc
+888,Ústav slovenské literatury Slovenské akademie věd,Sing,Masc
+889,Nizozemská organizace pro aplikovaný vědecký výzkum,Sing,Fem
+890,Lion-Peugeot,Sing,Masc
+891,První brněnská strojírna,Sing,Fem
+892,Pull & Bear,Sing,Masc
+893,Spišská německá strana,Sing,Fem
+894,Demokratická pokroková strana (Čínská republika),Sing,Fem
+895,Harley-Davidson,Sing,Masc
+896,Maki (historická politická strana),Sing,Masc
+897,Československá obchodní banka,Sing,Fem
+898,Air Transat,Sing,Masc
+899,Prestige Records,,
+900,Partia Shqiptare Demokristane e Kosovës,Sing,
+901,Takzvané divadlo poezie VUS,Sing,Neut
+902,Charita Rumburk,Sing,Fem
+903,Curtiss-Wright,Sing,Masc
+904,Hlinkova garda,Sing,Fem
+905,Drug Enforcement Administration,Sing,Masc
+906,Ennahda,Sing,Fem
+907,Ateljé Uggla,Sing,Masc
+908,Křesťanští demokraté (Švédsko),Plur,Masc
+909,Divadlo Vlasty Buriana,Sing,Neut
+910,První námořní letecké dílny v Jokosuce,Plur,Fem
+911,Vlastenecká unie (Lichtenštejnsko),Sing,Fem
+912,Groupe PSA,Sing,Masc
+913,Varšavské gay hnutí,Sing,Neut
+914,Americká socialistická strana,Sing,Fem
+915,Nouvelair,Sing,Masc
+916,Slaby-Beringer,Plur,Fem
+917,Republikánská unie,Sing,Fem
+918,Volksdeutsche Bewegung in Liechtenstein,,
+919,Lioré et Olivier,Sing,Masc
+920,Čeka,Sing,Fem
+921,TAAG Angola Airlines,Plur,Fem
+922,Děti Země,Plur,Fem
+923,Vsacan,Sing,Masc
+924,Sanctuary Records Group,,
+925,Sociální demokraté (Dánsko),Plur,Masc
+926,PFLAG,Sing,Masc
+927,BBC Symphony Orchestra,,Fem
+928,South African Airways,,
+929,Antonov,Sing,Masc
+930,Leadtek,Sing,Masc
+931,Národní strana práce (1938),Sing,Fem
+932,Pizza Hut,Plur,Fem
+933,Oracle Corporation,,
+934,Établissements Ballot,Plur,
+935,1. tanková divize (Československo),Sing,Fem
+936,Diecéze Altamura-Gravina-Acquaviva delle Fonti,,
+937,UNIMA,Sing,Fem
+938,Český muzejní spolek,Sing,Masc
+939,BBC,,Fem
+940,IKEA,Sing,Fem
+941,CTI Records,Plur,
+942,Cinema City,Sing,Neut
+943,Deutsche Reichsbahn,,
+944,Aprilia (společnost),Sing,Fem
+945,PepsiCo,Sing,Neut
+946,Komunistická strana Československa,Sing,Fem
+947,Israir,Sing,Masc
+948,Delage,,
+949,Os Verdes,Sing,Masc
+950,Teerag,Sing,Masc
+951,Izraelská strana práce,Sing,Fem
+952,Ústřední matice školská,Sing,Fem
+953,NKVD,,Fem
+954,Ecolo,Sing,Neut
+955,Svaz moderní kultury Devětsil,Sing,Masc
+956,Croatia Airlines,Plur,Fem
+957,Mezinárodní investiční banka,Sing,Fem
+958,Tesla Pardubice,Sing,Fem
+959,Deutsche Reichsbahn (Německá demokratická republika),,
+960,Zelena Partija (Bulharsko),Plur,"Fem,Neut"
+961,Blue Sky Studios,,
+962,Československá demokratická iniciativa,Sing,Fem
+963,"Jan Beneš a spol., továrna na hospodářské stroje v Pražském Předměstí u Hradce Králové",Sing,Masc
+964,General Motors,,
+965,Strojírenský zkušební ústav,Sing,Masc
+966,Löwenstamm & Spitz,Sing,Masc
+967,Café Hawelka,,Neut
+968,Farní sbor Českobratrské církve evangelické v Ostrově,Sing,Masc
+969,Lidová strana pokroková na Moravě,Sing,Fem
+970,Římský klub,Sing,Masc
+971,National Archives and Records Administration,,
+972,Liebherr,,
+973,Ostravsko-frýdlantská dráha,Sing,Fem
+974,Aerojet,Sing,Masc
+975,VOKD,Plur,Masc
+976,Brazilská katolická apoštolská církev,Sing,Fem
+977,Duracell,Sing,Masc
+978,Heinkel,Sing,Masc
+979,Socialistická alternativa Budoucnost,Sing,Fem
+980,Komsomol,Sing,Masc
+981,Příbramská filharmonie,Sing,Fem
+982,Druhá vláda Jozefa Tisa,Sing,Fem
+983,Beulas,Sing,Masc
+984,Nadace Codespa,Sing,Fem
+985,Evropská federace pro dopravu a životní prostředí,Sing,Fem
+986,Répertoire International des Sources Musicales,,
+987,Milestone Records,Sing,Masc
+988,La Perla,Sing,Fem
+989,Občanské fórum,Sing,Neut
+990,Evropská psychiatrická asociace,Sing,Fem
+991,Nasionale Instituut vir Oordraagbare Siektes,Sing,
+992,Zpravodajská správa Generálního štábu,Sing,Fem
+993,Český rozhlas Dvojka,Sing,Masc
+994,"Spolkové ministerstvo životního prostředí, ochrany přírody a bezpečnosti reaktorů",Sing,Neut
+995,Polská lidová strana,Sing,Fem
+996,Socialistická strana československého lidu pracujícího,Sing,Fem
+997,Klub železničních modelářů České Budějovice,Sing,Masc
+998,Symfonický orchestr Slovenského rozhlasu,Sing,Masc
+999,Sambandsflokkurin,Sing,Masc
+1000,Ghanská akademie umění a věd,Sing,Fem
+1001,Kingston Technology,,
+1002,Komunistická strana Řecka,Sing,Fem
+1003,Anheuser-Busch InBev,Sing,Masc
+1004,"Apoštolský exarchát Volyň, Polesí a Pidljašja",Sing,Masc
+1005,Square (firma),Sing,Masc
+1006,Kurdská strana dělníků,Sing,Fem
+1007,Spojené uměleckoprůmyslové závody,Plur,Masc
+1008,Jihošlesvický voličský svaz,Sing,Masc
+1009,Výbor pro světové dědictví,Sing,Masc
+1010,Strana demokratické akce,Sing,Fem
+1011,Organizace tajné armády,Sing,Fem
+1012,Říšská strana německé střední třídy,Sing,Fem
+1013,"Přítomnost, sdružení pro soudobou hudbu",Sing,Fem
+1014,Jurská federace,Sing,Fem
+1015,Albertinum Žamberk,Sing,Masc
+1016,Panelárna Plačice,Sing,Fem
+1017,UNESCO,,Neut
+1018,Kommando Nowotny,Sing,Masc
+1019,Evropská vysílací unie,Sing,Fem
+1020,Československá domobrana v Itálii,Sing,Fem
+1021,Büssing,Sing,Masc
+1022,The International Cat Association,,
+1023,Durex,Sing,Masc
+1024,Železná garda,Sing,Fem
+1025,Fotosecese,Sing,Fem
+1026,Ronal,Sing,Masc
+1027,Mezinárodní agentura pro energii,Sing,Fem
+1028,Slovenské komorné divadlo,Sing,Neut
+1029,Svaz českých filatelistů,Sing,Masc
+1030,Vlněna,Sing,Fem
+1031,Asociace pro podporu trůnu,Sing,Fem
+1032,Dragounský pluk 8,Sing,Masc
+1033,IBM,,Fem
+1034,Městská knihovna Mariánské Lázně,Sing,Fem
+1035,Makabejské hnutí mládeže,Sing,Neut
+1036,Ottovo nakladatelství,Sing,Neut
+1037,Česká společnost ornitologická,Sing,Fem
+1038,Police et Patrie,Sing,Fem
+1039,Stronnictwo Postępowo-Demokratyczne,Sing,Neut
+1040,Junker Gruppe,Sing,Masc
+1041,Evropské hospodářské společenství,Sing,Neut
+1042,Svobodná strana Rakouska,Sing,Fem
+1043,Velkoněmecká lidová strana,Sing,Fem
+1044,Ahold,Sing,Masc
+1045,Český rozhlas Hradec Králové,Sing,Masc
+1046,"Arab League Educational, Cultural and Scientific Organization",,Fem
+1047,Národní zpravodajská organizace,Sing,Fem
+1048,Hagana,Sing,Masc
+1049,Black Point,Sing,Masc
+1050,Hutní montáže,Plur,Fem
+1051,Packard,Sing,Masc
+1052,Muzeum duší z očistce,Sing,Neut
+1053,Národní fronta pro osvobození Angoly,Sing,Fem
+1054,Freiheitliche Deutsche Arbeiterpartei,,
+1055,TDK,Sing,Masc
+1056,Český svaz ochránců přírody Vlašim,Sing,Masc
+1057,"Východočeský průmysl masný, závod 01 masokombinát Březhrad",Sing,Masc
+1058,Lockheed Corporation,,Fem
+1059,Bangladesh Photographic Society,,
+1060,Hornby Railways,Plur,Fem
+1061,Fodera,Sing,Fem
+1062,Takata Corporation,Plur,
+1063,Internacionála anarchistických federací,Sing,Fem
+1064,Farní sbor Českobratrské církve evangelické v Bruntále,Sing,Masc
+1065,Gabonská lidová unie,Sing,Fem
+1066,KEMET Corporation,Sing,
+1067,Groen,Sing,Masc
+1068,Comité Para,Sing,Fem
+1069,Roland Corporation,,Fem
+1070,Svaz rakouských šlechticů,Sing,Masc
+1071,Starbucks,Plur,Masc
+1072,Ženijní skupinové velitelství IV Opava,Sing,Neut
+1073,Černosotněnci,Sing,Masc
+1074,Evropská plavecká liga,Sing,Fem
+1075,PTKiGK Zabrze,,Fem
+1076,Srbské kulturní centrum v Paříži,Sing,Neut
+1077,Demokratická kandidátka izraelských Arabů,Sing,Fem
+1078,Axel Springer SE,Sing,Masc
+1079,Lachema,Sing,Neut
+1080,Pražský komorní orchestr,Sing,Masc
+1081,Svaz československých spisovatelů,Sing,Masc
+1082,BlackRock,Sing,Masc
+1083,Generální zastoupení Québecu v Paříži,Sing,Neut
+1084,Geologický ústav Slovenské akademie věd,Sing,Masc
+1085,Izraelská liberální strana,Sing,Fem
+1086,UEFA,,Fem
+1087,Bestseller (firma),Sing,Masc
+1088,Ukrajinská národní rada Prjaševčiny,Sing,Fem
+1089,Mizrachi (politická strana),Sing,Masc
+1090,Městská knihovna Kadaň,Sing,Fem
+1091,Divadlo Thália,Sing,Neut
+1092,Národní strana lidová,Sing,Fem
+1093,Bristol Cars,Sing,Masc
+1094,Abarth,Sing,Masc
+1095,JR East,Sing,Masc
+1096,Trudovici,Sing,Masc
+1097,Zoo Mnichov,,Fem
+1098,Sicherheitspolizei,Sing,Fem
+1099,Strana slovenskej obrody,Sing,Fem
+1100,Ženijní skupinové velitelství XI Hrušovany nad Jevišovkou,Sing,Neut
+1101,Austrian Airlines,,
+1102,Národní fašistická strana,Sing,Fem
+1103,Českobratrská církev evangelická,Sing,Fem
+1104,United Airlines,,
+1105,Verbatim Corporation,,Fem
+1106,Land Rover,Sing,Masc
+1107,Micro-Star International,,
+1108,Afrikánské hnutí odporu,Sing,Neut
+1109,Pražsko-duchcovská dráha,Sing,Fem
+1110,Hraniční pásmo XIV (mobilizace 1938),Sing,Neut
+1111,Národní svaz za úplnou nezávislost Angoly,Sing,Masc
+1112,Air China,Sing,Masc
+1113,Brookhaven National Laboratory,Sing,Masc
+1114,Some Bizzare Records,,Masc
+1115,Československý svaz tělesné výchovy a sportu,Sing,Masc
+1116,Klub angažovaných nestraníků,Sing,Masc
+1117,Silicon Integrated Systems,,
+1118,Masarykovo demokratické hnutí,Sing,Neut
+1119,Citizen,Sing,Masc
+1120,Mezinárodní federace kolečkových sportů,Sing,Fem
+1121,EMI,,Fem
+1122,AOL,Sing,Masc
+1123,Caudron,Sing,Masc
+1124,Českomoravská konfederace odborových svazů,Sing,Fem
+1125,YKK Group,,Fem
+1126,Middle East Airlines,Plur,Fem
+1127,Bethesda Softworks,Plur,
+1128,Reformed Druids of North America,Sing,Masc
+1129,Evropské hnutí,Sing,Neut
+1130,Demokratická unionistická strana,Sing,Fem
+1131,Swissair,Sing,Masc
+1132,Křesťanská historická unie,Sing,Fem
+1133,Forbundet Frie Fotografer,Sing,
+1134,Spořitelní a záložní spolek pro Svobodné Dvory,Sing,Masc
+1135,Behringer,Sing,Masc
+1136,Českomoravské dráhy,Plur,Fem
+1137,Organizace OSN pro průmyslový rozvoj,Sing,Fem
+1138,1. železniční pluk,,
+1139,Svaz ruského lidu,Sing,Masc
+1140,Nord Aviation,Sing,Masc
+1141,Meindl (firma),Sing,Masc
+1142,Československá ženská fotbalová reprezentace,Sing,Fem
+1143,Nationaal-Socialistische Beweging,,
+1144,Evropská agentura pro životní prostředí,Sing,Fem
+1145,Heckler & Koch,Sing,Masc
+1146,Mezinárodní korfbalová federace,Sing,Fem
+1147,SAE International,Sing,Masc
+1148,Banka československých legií,Sing,Fem
+1149,Liberta,Sing,Fem
+1150,Mezinárodní velrybářská komise,Sing,Fem
+1151,Nová liberální strana (Izrael),Sing,Fem
+1152,Srb a Štys,Sing,Masc
+1153,Mezinárodní rudá pomoc,Sing,Fem
+1154,EgyptAir,Sing,Masc
+1155,Gutbrod,Sing,Masc
+1156,Sicherheitsdienst,Sing,Fem
+1157,Divadlo Orfeus,Sing,Neut
+1158,ESAB,,
+1159,De Havilland Canada,,
+1160,CITIC Group,Sing,Masc
+1161,Dornier Flugzeugwerke,Sing,Masc
+1162,Automobili Nazzaro,Plur,Masc
+1163,Pražští madrigalisté,Plur,Masc
+1164,Transavia,Sing,Fem
+1165,Československá obec legionářská,Sing,Fem
+1166,Deutsche Werke,,
+1167,Machane smol le-Jisra'el,Sing,Masc
+1168,Polygon (značka jízdních kol),Sing,Masc
+1169,Lexus,Sing,Masc
+1170,SoftBank Group,Sing,Masc
+1171,Vanguard Group,Sing,Masc
+1172,ZVU Strojírny,Sing,
+1173,Albatros Flugzeugwerke,Sing,Masc
+1174,Naděje (spolek),Plur,Fem
+1175,Foresta,Sing,Fem
+1176,Evropský účetní dvůr,Sing,Masc
+1177,Vláda Richarda Bienerta,Sing,Fem
+1178,Dopravní podnik města Pardubic,Sing,Masc
+1179,Alaska Air Group,Sing,Fem
+1180,Svaz účetních,Sing,Masc
+1181,Ja'ad (politická strana),,
+1182,Lee Cooper,Sing,Masc
+1183,Rotax,Sing,Masc
+1184,Akce národní obrody,Sing,Fem
+1185,Moravské občanské hnutí,Sing,Neut
+1186,Adaptec,Sing,Masc
+1187,Český rybářský svaz,Sing,Masc
+1188,Světová meteorologická organizace,Sing,Fem
+1189,Křesťanskonárodní strana rolníků a zemědělců,Sing,Fem
+1190,Jihotyrolská lidová strana,Sing,Fem
+1191,Pěší pluk 1,Sing,Masc
+1192,Mezinárodní cyklistická unie,Sing,Fem
+1193,Belairbus,Sing,Masc
+1194,Brewster Aeronautical Corporation,,
+1195,British Airways,,
+1196,Daimler Motoren Gesellschaft,Sing,Masc
+1197,Prozatímní vláda Státu Izrael,Sing,Fem
+1198,Horská služba České republiky,Sing,Fem
+1199,Dan Bus Company,,Fem
+1200,DEFA (film),Sing,Fem
+1201,Ženijní skupinové velitelství,Sing,Neut
+1202,I Staré Město pod Sněžníkem,Sing,Neut
+1203,Fokker,Sing,Masc
+1204,Ordnungspolizei,Sing,Fem
+1205,Ruský státní vojenský archiv,Sing,Masc
+1206,League for Programming Freedom,,Fem
+1207,Farní sbor Českobratrské církve evangelické v Horním Slavkově,Sing,Masc
+1208,Si'a soci'alistit acma'it,Sing,
+1209,Nejvyšší rada pro islámskou revoluci v Iráku,Sing,Fem
+1210,Bearsville Studios,Sing,Masc
+1211,Deutsche Volksunion,Sing,Masc
+1212,Československý ústav zahraniční,Sing,Masc
+1213,LIAZ,Sing,Masc
+1214,Akša,Sing,Fem
+1215,Světová federace dámy,Sing,Fem
+1216,Multisonic,,
+1217,Dm-drogerie markt,Sing,
+1218,Národní fronta osvobození Jižního Vietnamu,Sing,Fem
+1219,Islámská strana,Sing,Fem
+1220,Kika,Sing,Fem
+1221,Meade Instruments,Plur,
+1222,Minerva Motors,Plur,Masc
+1223,Rac,Sing,Masc
+1224,Ha-Cohar,Sing,Masc
+1225,Szabadcsapatok,Sing,Masc
+1226,Sociálně demokratická a labouristická strana,Sing,Fem
+1227,Česká státoprávní demokracie,Sing,Fem
+1228,Republikanische Wehr,,Masc
+1229,Legie slušnosti,Sing,Fem
+1230,Diecéze Ambia,Sing,Fem
+1231,Lonsdale (firma),Sing,Neut
+1232,OKD,Plur,Masc
+1233,Addamax,Sing,Masc
+1234,JLV,,Masc
+1235,Mezinárodní unie notářství,Sing,Fem
+1236,Minnesotská zemědělská strana práce,Sing,Fem
+1237,Zelená strana Anglie a Walesu,Sing,Fem
+1238,Bburago,Sing,Neut
+1239,Gyldendal Norsk Forlag,Sing,Masc
+1240,Korporacija IRKUT,Sing,Masc
+1241,Důchodci za životní jistoty,Plur,Masc
+1242,Polský institut v Paříži,Sing,Masc
+1243,Austro-Tatra,Sing,Fem
+1244,Kelme (firma),Sing,Masc
+1245,Halliburton,Sing,Masc
+1246,Armstrong Siddeley,Sing,Masc
+1247,"Kavoprůmysl spojených družstevních sušáren s.r.o., Hradec Králové II.",Sing,Masc
+1248,Svaz slezských katolíků v Československé republice,Sing,Masc
+1249,Divadélko Okap,Sing,Neut
+1250,SMC Corporation,,
+1251,Visa,Sing,Fem
+1252,Pep (firma),Sing,Masc
+1253,Piper Aircraft,,Masc
+1254,Subterra,Sing,Fem
+1255,Syrská sociálně nacionální strana,Sing,Fem
+1256,Motorová vozidla Walter,Plur,Neut
+1257,Mezinárodní sdružení pro dětskou knihu,Sing,Neut
+1258,Zippo,Sing,Neut
+1259,Evropská esperantská unie,Sing,Fem
+1260,Garuda Indonesia,Sing,Fem
+1261,Radiotelevisiun Svizra Rumantscha,Sing,Masc
+1262,Činoherní studio Ústí nad Labem,Sing,Neut
+1263,Nepálský kongres,Sing,Masc
+1264,ABS-CBN,Sing,Masc
+1265,Prozatímní irská republikánská armáda,Sing,Fem
+1266,Levá alternativa,Sing,Fem
+1267,Ministerstvo energetiky Spojených států amerických,Sing,Neut
+1268,Brjanský automobilový závod,Sing,Masc
+1269,Komorní orchestr Akademie Praha,Sing,Masc
+1270,Government Communications Headquarters,Sing,Masc
+1271,Svobodná demokratická strana,Sing,Fem
+1272,Arabská demokratická strana (Izrael),Sing,Fem
+1273,Svaz československého díla,Sing,Masc
+1274,AC (automobilka),,Masc
+1275,LVMH – Moët Hennessy Louis Vuitton,,Masc
+1276,TOFA,Sing,Fem
+1277,Česká akademie věd a umění,Sing,Fem
+1278,Supermarine,Sing,Masc
+1279,Izquierda Unida,Sing,Fem
+1280,Kaman Aircraft,,Masc
+1281,METRANS,Sing,Masc
+1282,Srbská národní obnova,Sing,Fem
+1283,Český rozhlas České Budějovice,Sing,Masc
+1284,Partido Verde (Brazílie),Sing,Masc
+1285,Qantas,Sing,Masc
+1286,Festool,Sing,Masc
+1287,Radiojournal,Sing,Masc
+1288,Lauda Air,Sing,Masc
+1289,Jazzová sekce,Sing,Fem
+1290,Severočeská vědecká knihovna,Sing,Fem
+1291,Hlavní správa státní bezpečnosti,Sing,Fem
+1292,Federace dělnických tělocvičných jednot,Sing,Fem
+1293,Moravská filharmonie Olomouc,Sing,Fem
+1294,Tchibo,Sing,Neut
+1295,Future Systems,,
+1296,Temperino,Sing,Neut
+1297,Česká unie karikaturistů,Sing,Fem
+1298,Pokrok a rozvoj,Sing,Masc
+1299,První vláda Rudolfa Berana,Sing,Fem
+1300,18 street gang,,
+1301,Nakladatelství Paseka,Sing,Neut
+1302,Státní výzkumný ústav ochrany materiálu,Sing,Masc
+1303,Svema,Sing,Neut
+1304,Miles Gordon Technology,Sing,Masc
+1305,Americká kardiologická asociace,Sing,Fem
+1306,Tábor nucené práce,Sing,Masc
+1307,Osram,Sing,Fem
+1308,ZON,Sing,Masc
+1309,Doktor Miroslav Tyrš (partyzánská jednotka),Sing,Masc
+1310,Kroll (firma),Sing,Masc
+1311,Mertenovo divadlo,Sing,Neut
+1312,Tygři osvobození tamilského Ílamu,Plur,Masc
+1313,Nadace Richarda Wagnera Bayreuth,Sing,Fem
+1314,Elektrizace železnic Praha,Sing,Fem
+1315,Piko (firma),Sing,Neut
+1316,Bratislavské bábkové divadlo,Sing,Neut
+1317,Sjednocená náboženská fronta,Sing,Fem
+1318,Douglas Aircraft,,Masc
+1319,Velvana,Sing,Fem
+1320,Werwolf,Sing,Masc
+1321,JUMO,Sing,Neut
+1322,Národní parlamentní knihovna Japonska,Sing,Fem
+1323,Maico,Sing,Neut
+1324,ITV,Sing,Masc
+1325,Partido Carlista (1970),Sing,Neut
+1326,Bristol Aeroplane Company,Sing,Masc
+1327,Baskin-Robbins,Sing,Masc
+1328,Parti radical de gauche,Sing,
+1329,Maison Margiela,Sing,Masc
+1330,Německá živnostenská strana,Sing,Fem
+1331,Strana demokratickej ľavice (1990),Sing,Fem
+1332,Církev sjednocení,Sing,Fem
+1333,Pohřební ústav hlavního města Prahy,Sing,Masc
+1334,Nikken Sekkei,Sing,Masc
+1335,Just Schweiz,Sing,Masc
+1336,Arkia,Sing,Fem
+1337,Farní sbor Českobratrské církve evangelické v Praze 3 – Žižkov II,Sing,Masc
+1338,Freedom From Religion Foundation,Sing,Masc
+1339,Charisma Records,Plur,Neut
+1340,Seoul Broadcasting System,Sing,Masc
+1341,Školní statek při Střední zemědělské škole Český Těšín,Sing,Masc
+1342,British Aircraft Corporation,,
+1343,Sadowsky,Sing,Masc
+1344,Ženijní skupinové velitelství II Hlučín,Sing,Neut
+1345,Institut klinické a experimentální medicíny,Sing,Masc
+1346,Chess Records,,Masc
+1347,Bullfrog Productions,Plur,Masc
+1348,Církev československá husitská,Sing,Fem
+1349,Air Serbia,Sing,Masc
+1350,Dopravní podnik měst Mostu a Litvínova,Sing,Masc
+1351,AGC Flat Glass Czech,,
+1352,Světová organizace skautského hnutí,Sing,Fem
+1353,Montblanc,Sing,Masc
+1354,British Aerospace,,
+1355,Úřad OSN pro palestinské uprchlíky na Blízkém východě,Sing,Masc
+1356,Správa národních parků,Sing,Fem
+1357,Awana,Sing,Fem
+1358,Nippon TV,,Fem
+1359,II. sbor (mobilizace 1938),Sing,Masc
+1360,Durrell Wildlife Conservation Trust,Sing,Masc
+1361,Organizace spojených národů,Sing,Fem
+1362,Huawei,Sing,Fem
+1363,Pokroková strana (Norsko),Sing,Fem
+1364,Nationaldemokratische Partei Deutschlands,Plur,Fem
+1365,Mensa ČR,,Fem
+1366,Československé státní aerolinie,Plur,Fem
+1367,Česká strana pokroková,Sing,Fem
+1368,Goddardův institut pro kosmický výzkum,Sing,Masc
+1369,Bell & Howell,Sing,Masc
+1370,KPMG,Sing,Masc
+1371,CJ CheilJedang,,
+1372,Jaguar Cars,Sing,Masc
+1373,Mazars,Sing,Masc
+1374,Hydrobiologický ústav Biologického centra Akademie věd České republiky,Sing,Masc
+1375,Van Hool,,
+1376,Electrolux,Sing,Masc
+1377,Neodvislá socialistická strana dělnická,Sing,Fem
+1378,Kadokawa Šoten,Sing,Fem
+1379,Hannibal Records,Sing,Masc
+1380,Ústřední rada Židů v Německu,Sing,Fem
+1381,Autobianchi,Sing,Masc
+1382,Komunistická strana Španělska,Sing,Fem
+1383,Bruder,Sing,Masc
+1384,Sony Music Latin,Plur,Masc
+1385,XXXLutz,,Masc
+1386,Sociálně demokratická fronta,Sing,Fem
+1387,Demokratická strana Nauru,Sing,Fem
+1388,Jednotná kandidátka – Rudo-zelení,Sing,Fem
+1389,International Falcon Movement – Socialist Educational International,Sing,Masc
+1390,Národní obec fašistická,Sing,Fem
+1391,Asiana Airlines,Plur,Fem
+1392,Cíl (firma),Sing,Masc
+1393,Fieseler,Sing,Masc
+1394,MirrorVision,Sing,Masc
+1395,Hapag-Lloyd,Sing,Masc
+1396,Binter Canarias,Sing,Masc
+1397,Evropská lidová strana (politická skupina),Sing,Fem
+1398,DKW,,
+1399,Norma (obchodní řetězec),Sing,Fem
+1400,H&M,,
+1401,Basídž,,
+1402,Tyrolean Airways,,
+1403,Likud,Sing,Masc
+1404,Handley Page,Sing,Masc
+1405,Ligue communiste révolutionnaire,Plur,
+1406,Legio angelica,Sing,Neut
+1407,Fondation Cartier pour l'art contemporain,,
+1408,Renovación Española,Sing,Masc
+1409,Komunistická strana Slovenska (1948),Sing,Fem
+1410,Fašistická strana republikánská,Sing,Fem
+1411,Demokratická kandidátka Nazaretu,Sing,Fem
+1412,United Kennel Clubs International,Sing,Masc
+1413,Zoologická zahrada Olomouc,Sing,Fem
+1414,Dům Matky Terezy (Hradec Králové),Sing,Masc
+1415,Lucernafilm,Sing,Masc
+1416,Industrieverband Fahrzeugbau,Sing,Masc
+1417,Canadian National Railway,,
+1418,"Sestry Ježíše, Dobrého pastýře",Plur,Fem
+1419,MSA (firma),Sing,Fem
+1420,Mazda,Sing,Fem
+1421,Reduta Jazz Club,Sing,Fem
+1422,Sananim,Sing,Fem
+1423,EVA Air,Sing,Masc
+1424,Motion Picture Association of America,,
+1425,BIBSYS,Sing,Masc
+1426,Parti républicain syndicaliste,Plur,
+1427,UFA,Sing,Fem
+1428,De Tomaso,,
+1429,"František Komárek, první továrna královéhradeckého zelí kyselého ve Svobodných Dvorech u Hradce Králové",Sing,Masc
+1430,Sinclair Oil Corporation,Sing,Masc
+1431,Svaz přátel SSSR v Československu,Sing,Masc
+1432,Společnost přátel Lužice,Sing,Fem
+1433,Esperanto klubo Prostějov,Sing,Neut
+1434,Hnutí DUHA,Sing,Neut
+1435,Vláda Jozefa Siváka,Sing,Fem
+1436,Divadélko Pod okapem,Sing,Neut
+1437,Druhá vláda Rudolfa Berana,Sing,Fem
+1438,Infiniti,Plur,Fem
+1439,Asociace evropských novinářů,Sing,Fem
+1440,Český hydrometeorologický ústav,Sing,Masc
+1441,Hnutí za Velký Izrael,Sing,Neut
+1442,British Sub-Aqua Club,Sing,Masc
+1443,Fatah,Sing,Masc
+1444,Pierce-Arrow,Sing,Masc
+1445,Společnost za veselejší současnost,Sing,Fem
+1446,Justicialistická strana,Sing,Fem
+1447,Vox Amplification,Sing,Masc
+1448,Česká lékařská společnost Jana Evangelisty Purkyně,Sing,Fem
+1449,Šúeiša,Sing,Fem
+1450,KALORIA,Sing,Fem
+1451,Polská akademie věd,Sing,Fem
+1452,Partyzánský pluk Ludvíka Svobody,Sing,Masc
+1453,Amati (firma),Sing,Masc
+1454,České aerolinie,Plur,Fem
+1455,VIA Rail Canada,Sing,Fem
+1456,NÁPOJA,Sing,Fem
+1457,Aero Vodochody,Sing,Neut
+1458,Humanic,,
+1459,Tnu'a demokratit,Sing,Masc
+1460,Labouristické fórum mládeže,Sing,Neut
+1461,Arado,Sing,Neut
+1462,TÜVASAŞ,Sing,Masc
+1463,Německá nacionální strana,Sing,Fem
+1464,Emco,,
+1465,Temco Aircraft,,Masc
+1466,Stronnictwo Narodowo-Demokratyczne,Sing,Neut
+1467,Nacionálně socialistický motoristický sbor,Sing,Masc
+1468,His Master's Voice,Sing,Masc
+1469,Brouwerij 't IJ,Sing,Fem
+1470,Umělecké studio (divadlo),Sing,Neut
+1471,"Josef Navrátil, továrna na knoflíky a perleťové zboží",Sing,Masc
+1472,Sudetoněmecká strana,Sing,Fem
+1473,Ars rediviva,Sing,Masc
+1474,Republic Aviation Company,,
+1475,Plymouth (automobilka),Sing,Masc
+1476,TVT Records,Sing,Masc
+1477,Maďarská nezávislá iniciativa,Sing,Fem
+1478,Maďarská socialistická dělnická strana,Sing,Fem
+1479,Sukův komorní orchestr,Sing,Masc
+1480,Compuware,Sing,Masc
+1481,Novosibirský letecký závod V. P. Čkalova,Sing,Masc
+1482,Ženijní skupinové velitelství,Sing,Neut
+1483,V Náchod,Sing,Masc
+1484,Universal Edition,,Neut
+1485,Reichenberger Automobil Fabrik,Sing,Masc
+1486,Condor Flugdienst,Sing,Masc
+1487,NOHAB,Sing,Masc
+1488,Automotive Industries,,
+1489,601. skupina speciálních sil,,
+1490,Vereinigte Flugtechnische Werke,Plur,
+1491,Akademie věd a umění Bosny a Hercegoviny,Sing,Fem
+1492,Kyoto Animation,,Neut
+1493,Madeta,Sing,Fem
+1494,Stihl,Sing,Masc
+1495,Enterbrain,,Fem
+1496,Nizozemský institut v Paříži,Sing,Masc
+1497,Městská knihovna v Přerově,Sing,Fem
+1498,20th Television,,Fem
+1499,Warner Bros.,Plur,Masc
+1500,Television Studios,Sing,Masc
+1501,Slovenská ľudová strana,Sing,Fem
+1502,Frakce nezávislá na Achdut ha-avoda,Sing,Fem
+1503,Interflug,Sing,Masc
+1504,Asia Motors,Plur,Masc
+1505,Mezinárodní asociace pro rozvoj,Sing,Fem
+1506,Národní demokratická strana (Egypt),Sing,Fem
+1507,Socialistische Partij Anders,Sing,Masc
+1508,THX,Sing,Masc
+1509,Petrohradský sovět dělnických a vojenských delegátů,Sing,Masc
+1510,Tigrajská lidově osvobozenecká fronta,Sing,Fem
+1511,MTU Turbomeca Rolls-Royce,,
+1512,Masarykova letecká liga,Sing,Fem
+1513,Kamerunský národní kongres,Sing,Masc
+1514,Mezinárodní federace hudebního průmyslu,Sing,Fem
+1515,Česká unie sportu,Sing,Fem
+1516,Melitta (společnost),Sing,Fem
+1517,Zelena Partija Ukrajiny,Plur,"Fem,Neut"
+1518,Moskevský vrtulníkový závod M. L. Mila,Sing,Masc
+1519,Singapore Airlines,Plur,Fem
+1520,Decathlon,Sing,Masc
+1521,Hraniční oblast 31,Sing,Fem
+1522,Radio Corporation of America,Sing,Neut
+1523,Strana moravského venkova,Sing,Fem
+1524,Sdružené židovské strany,Plur,Fem
+1525,Májovák,Sing,Masc
+1526,Lidová strana (Španělsko),Sing,Fem
+1527,Skautská asociace Nového Zélandu,Sing,Fem
+1528,Messerschmitt-Bölkow-Blohm,Sing,Masc
+1529,Vesnické divadlo,Sing,Neut
+1530,Český rozhlas Sever,Sing,Masc
+1531,Oddíl kosmonautů Institutu lékařsko-biologických problémů,Sing,Masc
+1532,Charita Česká Kamenice,Sing,Fem
+1533,PETA,Sing,Fem
+1534,Engl,Sing,Masc
+1535,Rumpler Flugzeugwerke,Sing,Masc
+1536,Slezské divadlo Opava,Sing,Neut
+1537,Lëtzebuerger Sozialistesch Arbechterpartei,,
+1538,Slovenský hydrometeorologický ústav,Sing,Masc
+1539,Rada pro opevňování,Sing,Fem
+1540,Diecéze nanterrská,Sing,Fem
+1541,III. sbor (mobilizace 1938),Sing,Masc
+1542,Spolek výtvarných umělců Vysočiny,Sing,Masc
+1543,Ditch Witch,Sing,Masc
+1544,Světová potápěčská konfederace,Sing,Fem
+1545,Strana socialistů-revolucionářů,Sing,Fem
+1546,Liberální strana (Srbsko),Sing,Fem
+1547,Nasjonal Samling,Sing,Masc
+1548,Německý fotbalový svaz pro Moravu a Slezsko,Sing,Masc
+1549,Ogar,Sing,Masc
+1550,UDBA,Sing,Fem
+1551,Liberálnědemokratická strana Německa,Sing,Fem
+1552,GUnaGU,Sing,Masc
+1553,Německá strana (Slovensko),Sing,Fem
+1554,Spolek Slováků v Polsku,Sing,Masc
+1555,Kloknerův ústav,Sing,Masc
+1556,Advent Records,Sing,Masc
+1557,Sbor pověřenců 21. února 1945 – 11. dubna 1945,Sing,Masc
+1558,British Overseas Airways Corporation,Plur,Fem
+1559,Československá hokejová reprezentace,Sing,Fem
+1560,Fronta národního osvobození (Řecko),Sing,Fem
+1561,PKP Cargo International,Sing,Masc
+1562,Farní sbor Českobratrské církve evangelické v Rumburku,Sing,Masc
+1563,Ústav dějin Univerzity Karlovy a archiv Univerzity Karlovy,Sing,Masc
+1564,Damen Group,Sing,Masc
+1565,Všeobecní sionisté,Plur,Masc
+1566,"Rudolf Stelšovský, výroba automobilů",Sing,Masc
+1567,Džemijet,Sing,Masc
+1568,Krispy Kreme,Sing,Masc
+1569,Systembolaget,Sing,Masc
+1570,Federace francouzského skautingu,Sing,Fem
+1571,Focke-Achgelis,Sing,Masc
+1572,Lidová monarchistická strana,Sing,Fem
+1573,Air Algérie,Sing,Fem
+1574,Šinuj,Sing,Masc
+1575,Sardinská strana akce,Sing,Fem
+1576,Kuomintang,Sing,Masc
+1577,Starý psi,Plur,Masc
+1578,Zelený kruh,Sing,Masc
+1579,Agon Orchestra,,
+1580,Dismanův rozhlasový dětský soubor,Sing,Masc
+1581,Navistar International,,
+1582,SIAD,Sing,Masc
+1583,Africká rozvojová banka,Sing,Fem
+1584,Vláda Karola Sidora,Sing,Fem
+1585,Kappa (firma),Sing,Fem
+1586,Hispano-Suiza,Sing,Neut
+1587,Charita Teplice,Sing,Fem
+1588,Slovenská advokátní komora,Sing,Fem
+1589,Mezinárodní federace motocyklistů,Sing,Fem
+1590,Diecézní charita Litoměřice,Sing,Fem
+1591,Kopalnia Piasku Kuźnica Warężyńska,Sing,Neut
+1592,Deathlike Silence Productions,,Neut
+1593,Montas Hradec Králové,Sing,Masc
+1594,Strana katolického lidu,Sing,Fem
+1595,Farní sbor Českobratrské církve evangelické v Kralovicích,Sing,Masc
+1596,Německá křesťansko sociální strana lidová,Sing,Fem
+1597,Jindřich Žid a spol.,Sing,Masc
+1598,Rasse- und Siedlungshauptamt,Sing,Fem
+1599,Mikov,Sing,Masc
+1600,Rassemblement du Peuple Français,Sing,Masc
+1601,Daihatsu,,
+1602,Vláda Jaroslava Krejčího,Sing,Fem
+1603,Komunistická strana Spojených států amerických,Sing,Fem
+1604,Japan Foundation,Sing,Masc
+1605,Farní sbor Českobratrské církve evangelické v Chebu,Sing,Masc
+1606,JR Hokkaidó,Sing,Masc
+1607,Blau-Weiss,Sing,
+1608,Sbor pověřenců 11. dubna 1945 – 18. září 1945,Sing,Masc
+1609,Fairey Aviation Company,Sing,Masc
+1610,Aegean Airlines,,
+1611,Razor 1911,Sing,Masc
+1612,United Press International,,
+1613,Air Ivoire,Sing,Masc
+1614,Armádní umělecký soubor Víta Nejedlého,Sing,Masc
+1615,Sociálnodemokratická strana Slovenska,Sing,Fem
+1616,Demokratická alternativa,Sing,Fem
+1617,Gestapo,Sing,Neut
+1618,Bridgewater Associates,Sing,Masc
+1619,Scandinavian Airlines,,
+1620,Šituf ve-pituach,Sing,Masc
+1621,Hansa-Brandenburg,Sing,Fem
+1622,Lázně Poděbrady,Plur,Fem
+1623,Městská divadla pražská,Plur,Neut
+1624,Finští křesťanští demokraté,Plur,Masc
+1625,Aero Mongolia,Sing,Neut
+1626,Liberální demokraté,Plur,Masc
+1627,Achdut lema'an ha-šalom ve-ha-alija,,
+1628,Music for Nations,Sing,Fem
+1629,Molucká protestantská církev,Sing,Fem
+1630,Opera Nazionale Dopolavoro,Sing,Fem
+1631,Německá demokratická strana,Sing,Fem
+1632,Phelon & Moore,Sing,Masc
+1633,Společnost pro obnovu Lidic,Sing,Fem
+1634,Česká Diakonie,Sing,Fem
+1635,Československá letecká akciová společnost,Sing,Fem
+1636,Ústřední církevní nakladatelství,Sing,Neut
+1637,Setra,Sing,Fem
+1638,Fosfa,Sing,Fem
+1639,Farní sbor Českobratrské církve evangelické ve Frýdku-Místku,Sing,Masc
+1640,Skotští zelení,Plur,Masc
+1641,Ukrajinská autokefální pravoslavná církev,Sing,Fem
+1642,New Line Cinema,,
+1643,Organizace nezávislých Rumunů,Sing,Fem
+1644,Laboratoř evoluční biologie ČSAV,Sing,Fem
+1645,Svaz svobodných demokratů,Sing,Masc
+1646,Rakouská lidová strana,Sing,Fem
+1647,Vysočina (nakladatelství),Sing,Fem
+1648,Nu Skin Enterprises,,
+1649,William Hill,Sing,Masc
+1650,Československé státní dráhy,Plur,Fem
+1651,Československá plavba labská,Sing,Fem
+1652,Jollibee,Sing,Neut
+1653,Syrská arabská tisková agentura,Sing,Fem
+1654,Bristol Siddeley,Sing,Masc
+1655,Century Media Records,Plur,Fem
+1656,MPLA,Sing,Masc
+1657,Chakla'ut ve-pituach,Plur,"Fem,Neut"
+1658,Western Digital,Sing,Masc
+1659,Nomura Holdings,Sing,Fem
+1660,Farní sbor Slezské církve evangelické augsburského vyznání v Karviné 2,Sing,Masc
+1661,Motorwagenfabrik Excelsior,Sing,Masc
+1662,Bilderberg,Sing,Masc
+1663,Black Panther Party,Sing,Masc
+1664,Sudetoněmecký sbor dobrovolníků,Sing,Masc
+1665,Target,Sing,Masc
+1666,Farní sbor Českobratrské církve evangelické v Nejdku,Sing,Masc
+1667,Koch Industries,Plur,Masc
+1668,Mikrotechna,Plur,Neut
+1669,Slovenská národná strana,Sing,Fem
+1670,Kuzmányho kruh evanjelických akademikov,Sing,Masc
+1671,Dunkin' Donuts,Sing,Masc
+1672,Air Vítkovice,Sing,Masc
+1673,Mezinárodní sportovní arbitráž,Sing,Fem
+1674,Cicli Sannino,Plur,Masc
+1675,Nezávislá jednota československých legionářů,Sing,Fem
+1676,Neodvislá strana komunistická v ČSR,Sing,Fem
+1677,Fólkaflokkurin,Sing,Masc
+1678,Contax,Sing,Masc
+1679,Auto-Ordnance Company,Sing,Neut
+1680,TVR,Sing,Masc
+1681,Mezinárodní selská unie,Sing,Fem
+1682,Memorial,Sing,Masc
+1683,Asijská olympijská rada,Sing,Fem
+1684,Arby's,,
+1685,Tichá pomoc,Sing,Fem
+1686,Skupina Světové banky,Sing,Fem
+1687,Severoatlantická aliance,Sing,Fem
+1688,World Championship Wrestling,,Masc
+1689,Eesti Rahvusringhääling,Plur,Fem
+1690,Praga,Sing,Fem
+1691,Indies Records,Plur,Masc
+1692,Dolby Laboratories,Plur,Fem
+1693,Český rozhlas Vltava,Sing,Masc
+1694,Esta,Sing,Fem
+1695,Vlčnovjan,Sing,Masc
+1696,Karibské společenství,Sing,Neut
+1697,Kidma ve-avoda,Sing,Neut
+1698,25. granátnická divize SS „Hunyadi“ (1. maďarská),Sing,Fem
+1699,"Národně liberální strana (Spojené království, 1931)",Sing,Fem
+1700,Union démocratique du travail,Sing,Masc
+1701,Česká marketingová společnost,Sing,Fem
+1702,Basilejský výbor pro bankovní dohled,Sing,Masc
+1703,Jihoasijské sdružení pro regionální spolupráci,Sing,Neut
+1704,Mezinárodní konference katolických skautů,Sing,Fem
+1705,Česká unie židovské mládeže,Sing,Fem
+1706,Ženská tenisová asociace,Sing,Fem
+1707,Planned Parenthood,Sing,Masc
+1708,Farní sbor Slezské církve evangelické augsburského vyznání v Gutech,Sing,Masc
+1709,Goethe-Institut,,Masc
+1710,Illegal Records,,
+1711,Vlastenecké sdružení čínských katolíků,Sing,Neut
+1712,Kearney (firma),Sing,Masc
+1713,Novell,Sing,Masc
+1714,Verlag Dashöfer,Sing,Masc
+1715,Český rozhlas Vysočina,Sing,Masc
+1716,Krátký film Praha,Sing,Masc
+1717,Brněnský rozhlasový orchestr,Sing,Masc
+1718,Sopwith Aviation Company,,
+1719,Fabryka Samochodów Osobowych,Sing,Fem
+1720,Národní fronta (Belgie),Sing,Fem
+1721,Les Arts Florissants,,
+1722,Icelandair,Sing,Masc
+1723,Rudolf Kämpf,Sing,Masc
+1724,Miflaga po'alim ha-Šomer ha-ca'ir,Sing,Fem
+1725,Evangelická luterská církev v Americe,Sing,Fem
+1726,Interier Praha,,
+1727,Hlas Ruska,Sing,Masc
+1728,Zündapp,Sing,Masc
+1729,Tegula,Sing,Fem
+1730,Hamer Guitars,Sing,Masc
+1731,Národní kulturní komise,Sing,Fem
+1732,Charita Ústí nad Labem,Sing,Fem
+1733,Revoluční ozbrojené síly Kolumbie,Plur,Masc
+1734,Saudia,Sing,Masc
+1735,Elf Aquitaine,Sing,Masc
+1736,Farní sbor Českobratrské církve evangelické v Orlové,Sing,Masc
+1737,In-N-Out Burger,,
+1738,Samyang,Sing,Masc
+1739,Československý rozhlas,Sing,Masc
+1740,Air Europa,Sing,Masc
+1741,Československá námořní plavba,Sing,Fem
+1742,Evropský literární klub,Sing,Masc
+1743,Square Enix,,
+1744,Unie pro francouzskou demokracii,Sing,Fem
+1745,Munhwa Broadcasting Corporation,Sing,Fem
+1746,Klub sběratelů autogramů,Sing,Masc
+1747,Evropská komise,Sing,Fem
+1748,Svaz výborů matek ruských vojáků,Sing,Masc
+1749,Colnago,Sing,Neut
+1750,Brawa,Sing,Fem
+1751,Rainbow Arts,Sing,Masc
+1752,Radiodiffusion-Television Gabonaise,Sing,Masc
+1753,Starokatolická farnost Děčín-Podmokly,Sing,Fem
+1754,Vojenský technický ústav elektroniky,Sing,Masc
+1755,Ha-Po'el ha-Mizrachi,Sing,Masc
+1756,Barkas,Sing,Masc
+1757,Teilhol,Sing,Masc
+1758,Po'alej Cijon,Sing,Masc
+1759,Mondelēz International,,
+1760,TAROM,Sing,Masc
+1761,Polská lidová strana Levice,Sing,Fem
+1762,Ford Mercury,Sing,Masc
+1763,Nadace Charty 77,Sing,Fem
+1764,Živnostensko-občanská záložna Slezské Předměstí,Sing,Neut
+1765,Socialistická lidová strana,Sing,Fem
+1766,Divadlo 5. května,Sing,Neut
+1767,Mezinárodní zápasnická federace,Sing,Fem
+1768,DR (mediální společnost),Sing,Masc
+1769,Fermilab,Sing,Masc
+1770,Moravská strana pokroková,Sing,Fem
+1771,Slovenská Grafia,Sing,Fem
+1772,Skotští liberální demokraté,Plur,Masc
+1773,Česká archivní společnost,Sing,Fem
+1774,Nigerská pokroková strana – Africké demokratické shromáždění,Sing,Fem
+1775,Ha-Si'a ha-druzit ha-jisra'elit,Sing,Masc
+1776,Ministerstvo práce Spojených států amerických,Sing,Neut
+1777,Génération écologie,Sing,Fem
+1778,INTERGRAM,Sing,Fem
+1779,Institut Alberta Schweitzera,Sing,Masc
+1780,Radikální liberální strana,Sing,Fem
+1781,Lotus,Sing,Masc
+1782,Zbrojovka Brno,Sing,Fem
+1783,ELVO,Sing,Neut
+1784,Heimatschutz Slowakei,Sing,Masc
+1785,GE Aviation,,
+1786,Švýcarská strana zelených,Sing,Fem
+1787,Communauté urbaine,Sing,
+1788,Polská sociálně demokratická strana v Československu,Sing,Fem
+1789,Eurofighter GmbH,Sing,Masc
+1790,Národní souručenství,Sing,Neut
+1791,Agence Rol,Sing,Fem
+1792,"„VELTON“, textilní podniky Kubeš a Douda v Hradci Králové",,
+1793,Jindřich Wimmer & spol.,Sing,Masc
+1794,Československá rolnická jednota,Sing,Fem
+1795,Pernod Ricard,Sing,Masc
+1796,Rafi,,
+1797,Iraqi Airways,Plur,Fem
+1798,"Strana práce (Slovensko, 1946)",Sing,Fem
+1799,Decca Records,,
+1800,Italská skautská federace,Sing,Fem
+1801,"Gaia, Inc.",Sing,Fem
+1802,Asociace umělců medailérů,Sing,Fem
+1803,All Nippon Airways,,
+1804,Fairchild Aircraft,,
+1805,Pratt & Whitney,Sing,Masc
+1806,Evropská lidová strana,Sing,Fem
+1807,Mercedes-AMG,Sing,Masc
+1808,Wafd,Sing,Masc
+1809,Kamerunská unie,Sing,Fem
+1810,Tokina,Sing,Fem
+1811,Abbott (automobilka),Sing,Masc
+1812,Panton,Sing,Masc
+1813,Skyline Studios,Sing,Masc
+1814,Protialkoholní oddělení Horní Holčovice,Sing,Neut
+1815,Československá živnostensko-obchodnická strana středostavovská,Sing,
+1816,Alma littera,Sing,Fem
+1817,Rostvertol,Sing,Masc
+1818,Sudetoněmecká nadace,Sing,Fem
+1819,Opavský živnostenský spolek,Sing,Masc
+1820,Národní olympijský a sportovní výbor Burkiny Faso,Sing,Masc
+1821,Vodní záchranná služba ČČK,Sing,Fem
+1822,Nuselská mlékárna,Sing,Fem
+1823,Lao Airlines,Plur,Fem
+1824,17. divize tankových granátníků SS „Götz von Berlichingen“,Sing,Fem
+1825,Sklářská muzika,Sing,Fem
+1826,Spanair,Sing,Masc
+1827,Hayastani hanrayin rradio,Sing,Masc
+1828,Symfonický orchestr hlavního města Prahy FOK,,
+1829,Jihostroj,Sing,Fem
+1830,Gloster Aircraft Company,,Masc
+1831,Nauru Airlines,Sing,Fem
+1832,Engelbert Strauss,Sing,Masc
+1833,Socialistické sjednocení,Sing,Neut
+1834,Waltrovka,Sing,Fem
+1835,Katolická biskupská konference Spojených států amerických,Sing,Fem
+1836,United Tasmania Group,,Fem
+1837,ČEBUS,Sing,Masc
+1838,Tatran (vydavatelství),Sing,Masc
+1839,Avro Canada,Sing,Neut
+1840,Banka pro mezinárodní vypořádání,Sing,Fem
+1841,Mesa Boogie,Sing,Fem
+1842,Goethe-Institut Česko,,Masc
+1843,Bioveta,Sing,Fem
+1844,Orient Watch,Sing,Masc
+1845,Pražákovo kvarteto,Sing,Neut
+1846,Spolužitie,Sing,Fem
+1847,Velšská národní opera,Sing,Fem
+1848,FromSoftware,Sing,Masc
+1849,GRAITEC,Sing,Masc
+1850,Aikikai Honbu,Sing,Masc
+1851,Dódžó,,
+1852,NPO Lavočkina,Sing,Neut
+1853,Air France,,
+1854,Samfoto,Sing,Neut
+1855,Demokratická strana Albánie,Sing,Fem
+1856,Gachal,Sing,Masc
+1857,Katáib,Sing,Masc
+1858,Mezinárodní banka pro obnovu a rozvoj,Sing,Fem
+1859,Mezinárodní mineralogická asociace,Sing,Fem
+1860,Edimax,Sing,Masc
+1861,Danone,Sing,
+1862,Edelman,Sing,Masc
+1863,Ústav informatiky Akademie věd České republiky,Sing,Masc
+1864,Folklórní soubor Úsměv,Sing,Masc
+1865,Ferrari,,
+1866,LKAB,,
+1867,Rounder Records,Plur,Masc
+1868,Český svaz karate,Sing,Masc
+1869,SEPECAT,Sing,Masc
+1870,Diakonie Českobratrské církve evangelické,Sing,Fem
+1871,Socialistická strana (Nizozemsko),Sing,Fem
+1872,Eparchie olomoucko-brněnská,Sing,Fem
+1873,Cato Institute,Sing,
+1874,Air Canada,Sing,Masc
+1875,Zemská křesťansko-socialistická strana,Sing,Fem
+1876,Ženijní skupinové velitelství VI Trutnov,Sing,Neut
+1877,Motor Sič,Sing,Masc
+1878,Národní hnutí pracující mládeže,Sing,Neut
+1879,Filharmonie Bohuslava Martinů,Sing,Fem
+1880,Svoboda motor,Sing,Masc
+1881,Liberální lidová strana,Sing,Fem
+1882,Dolce & Gabbana,Sing,Masc
+1883,Polární výzkumná stanice mys Baranov,Sing,Fem
+1884,Moraša,Sing,Fem
+1885,Volkssport,Sing,Masc
+1886,VONAPO 20,Sing,Neut
+1887,Domowina (nakladatelství),Sing,Fem
+1888,Spolek Adalberta Stiftera,Sing,Masc
+1889,Spojené koželužské závody A. & J. Nejedlý v Kuklenách,Plur,Masc
+1890,Národní vlastenecká strana,Sing,Fem
+1891,Madshus,Sing,Masc
+1892,Policie (Polsko),Sing,Fem
+1893,Mezinárodní archivní rada,Sing,Fem
+1894,Atassut,Sing,Masc
+1895,Církev v nouzi,Sing,Fem
+1896,Bodum,Sing,Masc
+1897,Walgreens,Sing,Masc
+1898,Ultimate Play The Game,,
+1899,Parti socialiste (Belgie),Plur,
+1900,"Nadání Josefa, Marie a Zdenky Hlávkových",Sing,Neut
+1901,Rolls-Royce Motors,Sing,Masc
+1902,Ge'ulat Jisra'el,,
+1903,Polská lidová strana (Československo),Sing,Fem
+1904,Česká numismatická společnost,Sing,Fem
+1905,Fotbalová asociace České republiky,Sing,Fem
+1906,Novavax,Sing,Masc
+1907,Bezpečnostní letectvo,Sing,Neut
+1908,Křesťanskodemokratická lidová strana (Maďarsko),Sing,Fem
+1909,Reichssicherheitshauptamt,Sing,Masc
+1910,Rexair LLC,Sing,Masc
+1911,Walmart,Sing,Masc
+1912,Československý státní soubor písní a tanců,Sing,Masc
+1913,Rozhněvaní mladí muži,Plur,Masc
+1914,Air Bleu,Sing,Masc
+1915,Fabryka Samochodów Ciężarowych,Sing,Fem
+1916,Nadace Konrada Adenauera,Sing,Fem
+1917,Židovská hospodářská strana,Sing,Fem
+1918,United States Census Bureau,,
+1919,Clerget,Sing,
+1920,Nongshim,Plur,
+1921,Váh (folklorní soubor),Sing,Masc
+1922,Konfederace afrického fotbalu,Sing,Fem
+1923,Všeruská státní televizní a rozhlasová společnost,Sing,Fem
+1924,Wiener Werkstätte,Sing,Masc
+1925,Arménská tajná armáda pro osvobození Arménie,Sing,Fem
+1926,Wikana (firma),Sing,Fem
+1927,Arcidiecéze bratislavsko-trnavská,,
+1928,Internační tábor Terezín,Sing,Masc
+1929,Mezinárodní federace korespondenčního šachu,Sing,Fem
+1930,Císařsko-královské státní dráhy,Plur,Fem
+1931,Umění ve veřejném prostoru (agentura),Sing,Neut
+1932,American National Standards Institute,,
+1933,Brněnská Kemka,Sing,Fem
+1934,Mezinárodní hokejová federace,Sing,Fem
+1935,ABB,,Fem
+1936,Četnické letecké hlídky,Plur,Fem
+1937,Československá akademie věd,Sing,Fem
+1938,Polská dělnická strana,Sing,Fem
+1939,11. protiletadlový raketový oddíl Točná,,
+1940,Československá pošta,Sing,Fem
+1941,DéFI,,
+1942,Český svaz hádankářů a křížovkářů,Sing,Masc
+1943,Farní sbor Českobratrské církve evangelické v Hořovicích,Sing,Masc
+1944,Asylum Records,Plur,Masc
+1945,Husa Transportation Railway Service,Sing,Fem
+1946,Britská národní strana,Sing,Fem
+1947,Korejská strana práce,Sing,Fem
+1948,Musavat,,
+1949,Kadokawa Future Publishing,Sing,Fem
+1950,Norská pobřežní správa,Sing,Fem
+1951,Svaz mládeže Karpat,Sing,Masc
+1952,Pan American World Airways,Sing,Masc
+1953,ZyXEL,Sing,Masc
+1954,Ministerstvo zemědělství (Prozatímní státní zřízení),Sing,Neut
+1955,Medellínský kartel,Sing,Masc
+1956,Britská unie fašistů,Sing,Fem
+1957,České studio (divadlo),Sing,Neut
+1958,Five Guys,,
+1959,Gartner Inc.,Sing,Masc
+1960,Narodowe Odrodzenie Polski,Plur,
+1961,Abwehr,Sing,Masc
+1962,Sbor dobrovolných hasičů Bezděkov pod Třemšínem,Sing,Masc
+1963,Reichsarbeitsdienst,Sing,Fem
+1964,Česká obchodní inspekce,Sing,Fem
+1965,Židovská strana,Sing,Fem
+1966,Everlast,Sing,Fem
+1967,Organizace amerických států,Sing,Fem
+1968,Komunistická strana Rakouska,Sing,Fem
+1969,D-Link,Sing,Masc
+1970,Světlana (odbojová skupina),Sing,Fem
+1971,Společnost pro soukromá hudební vystoupení,Sing,Fem
+1972,Fotbalová reprezentace Sárska,Sing,Fem
+1973,ΟΙΚΟΥΜΕΝΗ,Sing,Masc
+1974,Litomyšlský symfonický orchestr,Sing,Masc
+1975,Divadlo pod Plachtou,Sing,Neut
+1976,Křesťanská církev esejská,Sing,Fem
+1977,Pohotovostní pluk Veřejné bezpečnosti,Sing,Masc
+1978,"Karel Macoun, továrna na perleťové a kovové knoflíky a galanterní zboží",Sing,Masc
+1979,Hawker Aircraft,,Masc
+1980,Embraer,Sing,Masc
+1981,Komunistická strana Číny,Sing,Fem
+1982,Ulsterská speciální policie,Sing,Fem
+1983,Mezinárodní agentura pro atomovou energii,Sing,Fem
+1984,Trnavské automobilové závody,Plur,Fem
+1985,Metabo,,
+1986,Český rozhlas,Sing,Masc
+1987,Ruská národní jednota,Sing,Fem
+1988,Státní bezpečnost,Sing,Fem
+1989,Vývoj nábytkářského průmyslu,Sing,Masc
+1990,Mezinárodní asociace Světových her,Sing,Fem
+1991,Public Broadcasting Service,,
+1992,Moravské kolo spisovatelů,Sing,Neut
+1993,Československá národní demokracie,Sing,Fem
+1994,Ústřední banka Indie,Sing,Fem
+1995,Sconto,Sing,Neut
+1996,Ubisoft,Sing,Masc
+1997,Kominforma,Sing,Neut
+1998,Oberkommando des Heeres,Sing,Neut
+1999,Strana středu (Norsko),Sing,Fem
+2000,Vysokoškolský soubor lidových písní a tanců Poľana Brno,Sing,Masc
+2001,Světový potravinový program,Sing,Masc
+2002,Národní úřad pro oceán a atmosféru,Sing,Masc
+2003,Univerzitní knihovna Svetozara Markoviće,Sing,Fem
+2004,Divadlo Jonáše Záborského,Sing,Neut
+2005,Sigma Corporation,Sing,Fem
+2006,Finská socialistická dělnická republika,Sing,Fem
+2007,Sandia National Laboratories,Sing,Fem
+2008,Kandidátka bojovníků,Sing,Fem
+2009,Diecéze Alba (Numidie),,
+2010,Komsomolskoamurské letecké výrobní sdružení J. A. Gagarina,Sing,Masc
+2011,Aeroflot,Sing,Masc
+2012,Český svaz ledního hokeje,Sing,Masc
+2013,Jive Records,,
+2014,Acme (firma),Sing,Masc
+2015,Hanwag,,Masc
+2016,Bouygues,Sing,Masc
+2017,Skautská asociace,Sing,Fem
+2018,Northrop,Sing,Masc
+2019,Venstre (Dánsko),,
+2020,Crystalex,Sing,Masc
+2021,2,,
+2022,TV,,Fem
+2023,Tibetská pokroková strana,Sing,Fem
+2024,Sefardové a orientální komunity,Sing,Masc
+2025,Air Botswana,Sing,Fem
+2026,Pracovní skupina Alpy-Jadran,Sing,Fem
+2027,Partyzánský oddíl Olga,Sing,Masc
+2028,Ruská prozatímní vláda,Sing,Fem
+2029,Lucky Strike,,
+2030,Ajinomoto,Sing,Neut
+2031,Moravská nacionální sociální strana,Sing,Fem
+2032,Kato Precision Railroad Models,Sing,
+2033,Česká komorní filharmonie,Sing,Fem
+2034,Túfaranka,Sing,Fem
+2035,"Orban, závod 4 Těchonín",Sing,Masc
+2036,Jeune Nation,Sing,Masc
+2037,Skupina Máj 57,Sing,Fem
+2038,Strana zelených (Švédsko),Sing,Fem
+2039,Ústredňa štátnej bezpečnosti,Sing,Fem
+2040,Mezinárodní ženská sionistická organizace,Sing,Fem
+2041,LGBT Danmark,Sing,Masc
+2042,Československá státní automobilová doprava,Sing,Fem
+2043,Vlnařský průmysl,Sing,Masc
+2044,Reportéři bez hranic,Plur,Masc
+2045,Pokroková strana (Grónsko),Sing,Fem
+2046,Armstrong Whitworth Aircraft,,Masc
+2047,Perot Systems,Sing,Masc
+2048,Aldi,,
+2049,Mezinárodní unie pro geodézii a geofyziku,Sing,Fem
+2050,Fraunhoferova společnost,Sing,Fem
+2051,Lech (pivovar),Sing,Masc
+2052,Světová luterská federace,Sing,Fem
+2053,Charita Litoměřice,Sing,Fem
+2054,PAMP (společnost),Sing,Masc
+2055,Československé státní lázně a zřídla,Plur,Fem
+2056,Žďas,Sing,Masc
+2057,DB Cargo Polska,Sing,Masc
+2058,Junge Union,Sing,Masc
+2059,Súdánská lidově osvobozenecká armáda,Sing,Fem
+2060,Costa Coffee,,Masc
+2061,Partyzánská brigáda Mistr Jan Hus,Sing,Fem
+2062,New Yorker (firma),Sing,Masc
+2063,Vojenská hudba Hradec Králové,Sing,Fem
+2064,Shell Oil Company,Sing,Masc
+2065,Český komorní orchestr,Sing,Masc
+2066,Quanta Computer,Sing,Fem
+2067,Mezinárodní bobová a skeletonová federace,Sing,Fem
+2068,BauMax,Sing,Masc
+2069,Frente Popular Galega,Sing,Masc
+2070,Kamerunská strana demokratů,Sing,Fem
+2071,Farma čínsko-československého přátelství,Sing,Fem
+2072,Světová asociace novin,Sing,Fem
+2073,Rakouská společnost místních drah,Sing,Fem
+2074,Rada vzájemné hospodářské pomoci,Sing,Fem
+2075,Český svaz ochránců přírody,Sing,Masc
+2076,Labouristická strana,Sing,Fem
+2077,Charita Sobotka,Sing,Fem
+2078,FIPRESCI,,Fem
+2079,Evropské společenství uhlí a oceli,Sing,Neut
+2080,Brisa,Sing,Fem
+2081,Vatican Media,Plur,Neut
+2082,Morgan Stanley,Sing,Masc
+2083,Slovenska demokratska stranka,Plur,Neut
+2084,Fendt,Sing,Masc
+2085,Universal Television,,Fem
+2086,Německý historický institut v Paříži,Sing,Masc
+2087,První vláda Augustina Vološina,Sing,Fem
+2088,Oddíl kosmonautů RKK Energija,Sing,Masc
+2089,Leica,Sing,Fem
+2090,Achva jehudit-aravit,,
+2091,Hokejová reprezentace Protektorátu Čechy a Morava,Sing,Fem
+2092,Televisa,Sing,Fem
+2093,Brazilský olympijský výbor,Sing,Masc
+2094,Petrimex,Sing,Masc
+2095,Islámská fronta spásy,Sing,Fem
+2096,"Archeologický ústav Akademie věd České republiky, Brno",Sing,Masc
+2097,Zürcher Kantonalbank,Sing,Masc
+2098,Ríkisútvarpið,Sing,Masc
+2099,Chorvatské demokratické společenství,Sing,Neut
+2100,Chandos Records,Plur,Masc
+2101,Svaz levice,Sing,Masc
+2102,Ivčenko-Progress,Sing,Masc
+2103,Lucasfilm,Sing,Masc
+2104,Jemenitské sdružení,Sing,Neut
+2105,Regeneron (firma),Sing,Masc
+2106,Nezávislí liberálové (Izrael),Plur,Masc
+2107,Mitsubishi,,
+2108,Gešer –,Sing,Masc
+2109,Merkaz cijoni dati,Sing,Masc
+2110,Kantiléna (sbor dětí a mládeže při Filharmonii Brno),Sing,Fem
+2111,Krajská hvězdárna a planetárium Maximiliána Hella v Žiaru nad Hronom,Sing,Fem
+2112,Jako,,
+2113,Organizace vědeckého a průmyslového výzkumu Commonwealthu,Sing,Fem
+2114,Černé košile,Plur,Fem
+2115,Ústřední půjčovna filmů,Sing,Fem
+2116,SWAPO,Sing,Neut
+2117,Rolls-Royce,Sing,Masc
+2118,Svaz náčelníků a lidu severu,Sing,Masc
+2119,Buick,Sing,Masc
+2120,Mezinárodní letecká federace,Sing,Fem
+2121,Chase Aircraft,,Masc
+2122,Savoy Records,Plur,Masc
+2123,Ústřední rada odborů,Sing,Fem
+2124,Německá lidová strana (Slovensko),Sing,Fem
+2125,Slovenská národní a rolnická strana,Sing,Fem
+2126,Fakultní nemocnice Ostrava,Sing,Fem
+2127,Televizní studio Brno,Sing,Neut
+2128,Grade Automobilwerke,,
+2129,Lietuvos nacionalinis radijas ir televizija,Sing,Masc
+2130,Gulf+Western,Sing,Masc
+2131,Partyzánská brigáda Jana Žižky – Pola,Sing,Fem
+2132,Internationaler Volkssportverband,Sing,Masc
+2133,Židovská strana Podkarpatské Rusi,Sing,Fem
+2134,Šafrán (sdružení),Sing,Masc
+2135,Maďarské kresťanskodemokratické hnutie,Plur,Fem
+2136,Air Dolomiti,,
+2137,Ankst,Sing,Fem
+2138,Dual-Ghia,Sing,Masc
+2139,Čtvrtá vláda Konrada Adenauera,Sing,Fem
+2140,Zelení (Lucembursko),Plur,Masc
+2141,MIAT Mongolian airlines,Sing,Masc
+2142,Acer (firma),Sing,Masc
+2143,Klášter milosrdných sester sv. Vincenta z Paula ve Splitu,Sing,Masc
+2144,Pontiac (automobilka),Sing,Masc
+2145,Fidesz –,Sing,Masc
+2146,Maďarská občanská unie,Sing,Fem
+2147,Pecka-Modelář,Sing,Fem
+2148,Farní sbor Slezské církve evangelické augsburského vyznání v Těrlicku,Sing,Masc
+2149,Motobécane,Sing,Masc
+2150,DELAG,Sing,Masc
+2151,Brouk a Babka,Sing,Masc
+2152,Les Disques du Crépuscule,,
+2153,Mattel,Sing,Masc
+2154,Ředitelství opevňovacích prací,Sing,Neut
+2155,Národní hnutí pro rozvoj společnosti,Sing,Neut
+2156,Švédské zdravotní středisko,Sing,Neut
+2157,Vojenské lesy a statky ČR,Plur,Masc
+2158,Permanentní opozicí za demokracii,Sing,Fem
+2159,Telem (politická strana),Sing,Masc
+2160,Národní koaliční strana,Sing,Fem
+2161,Shaft (studio),Sing,Masc
+2162,"Fr. Odkolek, akciová společnost parní mlýn a továrna na chléb, Vysočany",,Masc
+2163,Trident Microsystems,Sing,Masc
+2164,Electronic Frontier Foundation,Sing,Masc
+2165,The Hertz Corporation,,
+2166,TAP Portugal,Sing,Masc
+2167,Mezinárodní federace učitelů živých jazyků,Sing,Fem
+2168,Mezinárodní pracovní společenství socialistických stran,Sing,Neut
+2169,Ženská národní rada,Sing,Fem
+2170,Bioster,Sing,Masc
+2171,Český rozhlas Brno,Sing,Masc
+2172,Křesťanskodemokratická strana (Chile),Sing,Fem
+2173,Sjednocená maďarská strana,Sing,Fem
+2174,Ha-Po'el,Sing,Masc
+2175,Strana práce (Nizozemsko),Sing,Fem
+2176,Kruh nezávislých spisovatelů,Sing,Masc
+2177,Orpa,Sing,Fem
+2178,Carrier Corporation,,
+2179,Panhelénské socialistické hnutí,Sing,Neut
+2180,Československé státní statky,Plur,Masc
+2181,Kadaňské místní dráhy,Plur,Fem
+2182,SIAL,Sing,Masc
+2183,INTERACTIVE Systems Corporation,,
+2184,Mniejszość Niemiecka,Sing,Masc
+2185,Český statistický úřad,Sing,Masc
+2186,Bell Aircraft Corporation,,Masc
+2187,Nakadžima,Sing,Fem
+2188,Vereniging Martijn,Sing,Masc
+2189,Městská knihovna Děčín,Sing,Fem
+2190,Antverpský symfonický orchestr,Sing,Masc
+2191,Sjednocená socialistická strana Německa,Sing,Fem
+2192,Hnutí za národní osvobození,Sing,Neut
+2193,Východoněmecká fotbalová reprezentace,Sing,Fem
+2194,Česká geologická služba,Sing,Fem
+2195,Kosmos Čáslav,Sing,Masc
+2196,Charita Česká Lípa,Sing,Fem
+2197,Paccar,Sing,Masc
+2198,Šlomcijon (politická strana),Sing,Masc
+2199,Československá myslivecká jednota,Sing,Fem
+2200,Malaysia Airlines,Sing,Fem
+2201,SEAT,Sing,Masc
+2202,Benzina,Sing,Fem
+2203,Strana národní jednoty,Sing,Fem
+2204,Československá obec legionářská Jednota Hradec Králové,Sing,Fem
+2205,Nová demokracie,Sing,Fem
+2206,"Národní asociace leseb, gayů, bisexuálů a translidí",Sing,Fem
+2207,Evropská geografická asociace,Sing,Fem
+2208,Farní sbor Českobratrské církve evangelické v Podbořanech,Sing,Masc
+2209,Pěvecké sdružení severočeských učitelů,Sing,Neut
+2210,Arola,Sing,Fem
+2211,Horizon Air,Sing,Masc
+2212,Filmexport,Sing,Masc
+2213,Chorvatská rolnická strana,Sing,Fem
+2214,Ha-Liga ha-soci'alistit,Sing,Fem
+2215,Societatea Românǎ de Televiziune,,
+2216,Comme des Garçons,,Masc
+2217,Bergamská botanická zahrada Lorenzo Rota,Sing,Fem
+2218,Flying Nun Records,Sing,Masc
+2219,Oman Air,Sing,Masc
+2220,American International Group,,
+2221,Družina československých válečných poškozenců,Sing,Fem
+2222,Asociace sociálních demokratů,Sing,Fem
+2223,BirdLife International,Sing,Masc
+2224,Mezinárodní společenství skautů a skautek,Sing,Neut
+2225,Pokračující Irská republikánská armáda,Sing,Fem
+2226,Národně sociální liga (USA),Sing,Fem
+2227,Bayernpartei,Sing,Fem
+2228,Svatováclavská rota,Sing,Fem
+2229,Serco,,
+2230,Diecéze Acufida,,
+2231,Československý svaz fotbalový,Sing,Masc
+2232,Evangelická luterská církev Ghany,Sing,Fem
+2233,Parti d'unité prolétarienne,Sing,
+2234,Strana nezávislosti (Island),Sing,Fem
+2235,SPY Records,Plur,Masc
+2236,EKO Kobra,Sing,Neut
+2237,Národní labouristická organizace,Sing,Fem
+2238,Evropská spolupráce ve vědeckém a technologickém výzkumu,Sing,Fem
+2239,Svazarm,Sing,Masc
+2240,Skupina kosmonautů CKBM,Sing,Fem
+2241,Polský kulturně-osvětový svaz v České republice,Sing,Masc
+2242,Vauxhall Motors,Sing,Masc
+2243,Unie českých pěveckých sborů,Sing,Fem
+2244,Mezinárodní svaz ochrany přírody,Sing,Masc
+2245,Altria Group,,
+2246,Škoda Air,Sing,Fem
+2247,První vláda Jana Syrového,Sing,Fem
+2248,Farní sbor Českobratrské církve evangelické v Aši,Sing,Masc
+2249,Hawker Siddeley,Sing,Masc
+2250,Lidhja Demokratike e Kosovës,Sing,Fem
+2251,TotalEnergies,Sing,Masc
+2252,Dell,,
+2253,Námořní pěchota Vietnamské republiky,Sing,Fem
+2254,Divadlo Waterloo,Sing,Neut
+2255,Mezinárodní policejní asociace,Sing,Fem
+2256,Pivovar Poutník,Sing,Masc
+2257,Maxis,Sing,Masc
+2258,Kazaňský vrtulníkový závod,Sing,Masc
+2259,Konference velvyslanců,Sing,Fem
+2260,Les Compagnons de la chanson,,
+2261,Svaz komunistů Jugoslávie,Sing,Masc
+2262,Státní filharmonie Košice,Sing,Fem
+2263,Compagnie internationale de navigation aérienne,Sing,Fem
+2264,Sestry od adorace Nejsvětější svátosti (syrsko-malabarský ritus),Plur,Fem
+2265,Brněnský rozhlasový orchestr lidových nástrojů,Sing,Masc
+2266,Konopa,Sing,Fem
+2267,Shimano,Sing,Masc
+2268,CAL Cargo Air Lines,,
+2269,Union Movement,Sing,Masc
+2270,Diecéze Amaia,Sing,Fem
+2271,McLaren Automotive,Sing,Masc
+2272,Wihanovo kvarteto,Sing,Neut
+2273,Asociace konferenčních tlumočníků,Sing,Fem
+2274,Azrieli Group,Sing,Masc
+2275,Abadal,Sing,Masc
+2276,FleishmanHillard,Sing,Masc
+2277,Křesťansko-sociální unie Bavorska,Sing,Fem
+2278,Hvězdárna a planetárium Plzeň,Sing,Fem
+2279,Hokejová reprezentace Čech,Sing,Fem
+2280,Maďarská dělnická strana,Sing,Fem
+2281,Pokroková strana pracujícího lidu,Sing,Fem
+2282,Nonesuch Records,Sing,Masc
+2283,Eparchie pražská,Sing,Fem
+2284,Gucci,Sing,Masc
+2285,Národní ústav pro otázky zneužívání drog,Sing,Masc
+2286,Lorraine-Dietrich,Sing,Masc
+2287,Passport Records,Sing,Masc
+2288,Haribo,,
+2289,WestJet,Sing,
+2290,Brazilská komunistická strana,Sing,Fem
+2291,Wanzl,Sing,Masc
+2292,Media Factory,Sing,Masc
+2293,Falck,Sing,Masc
+2294,Arcidiecézní pastorační ústředí,Sing,Neut
+2295,Organizace pro výživu a zemědělství,Sing,Fem
+2296,Polská sjednocená dělnická strana,Sing,Fem
+2297,Wirtschaftliche Forschungsgesellschaft,Sing,Masc
+2298,Commerzbank,Sing,Masc
+2299,DHL,Sing,Masc
+2300,Festo,,
+2301,Skupina M 57,Sing,Fem
+2302,Smetanovo kvarteto,Sing,Neut
+2303,Nuclear Blast,Sing,Masc
+2304,Freiwilliger Schutzdienst,Sing,Masc
+2305,2. divize (mobilizace 1938),Sing,Fem
+2306,McDonald's,Sing,Masc
+2307,SsangYong,Sing,Masc
+2308,Geoindustria,Sing,Fem
+2309,DB Schenker Rail Rybnik,Sing,Masc
+2310,ABC News,Plur,Fem
+2311,Charita Most,Sing,Fem
+2312,Focke-Wulf,Sing,Masc
+2313,Nieuport,Sing,Masc
+2314,Španělská socialistická dělnická strana,Sing,Fem
+2315,Ardie,Sing,Fem
+2316,Unie evropských federalistů,Sing,Fem
+2317,Virgin Atlantic,Sing,Masc
+2318,OEZ,Sing,Masc
+2319,Cukrovar Vrbátky,Sing,Masc
+2320,Československé státní pivovary,Plur,Masc
+2321,Korg,Sing,Masc
+2322,Trilaterální komise,Sing,Fem
+2323,Edsel,Sing,Masc
+2324,Schutzstaffel,Sing,Masc
+2325,Crips,Sing,Masc
+2326,Společnost přátel žehu,Sing,Fem
+2327,KGB,,Fem
+2328,Itar,Sing,Masc
+2329,"Jaroslav Šibrava, Továrna motorových vozidel",Sing,Masc
+2330,"Buřil, Švagerka a spol.",Sing,Masc
+2331,"Kukleny, továrna na kovové zboží, elektrotechnické závody, slévárna kovů, zvonárna",Sing,Masc
+2332,Stichting INGKA Foundation,Sing,Masc
+2333,Rassemblement pour la République,Sing,Masc
+2334,Pomocný technický prapor,Sing,Masc
+2335,Jagdgeschwader 134,Sing,Masc
+2336,Rozmarné divadlo,Sing,Neut
+2337,Tanková divize Kempf,Sing,Fem
+2338,Československá domkářsko-malozemědělská strana,Sing,Fem
+2339,NexGen,Sing,Masc
+2340,Deichmann,Sing,Masc
+2341,Opavský studentský orchestr,Sing,Masc
+2342,Jugoslávské radikální společenství,Sing,Neut
+2343,Omec (politická strana),Sing,Masc
+2344,Christiánie,Sing,Fem
+2345,Závody elektrotepelných zařízení,Plur,Masc
+2346,Arnold (firma),Sing,Masc
+2347,Landbund (Německo),Sing,Masc
+2348,Automobiles Charron,Sing,Masc
+2349,Qualcomm,Sing,Masc
+2350,Avast Software,Sing,Fem
+2351,Secret Intelligence Service,,
+2352,Metal Blade Records,Sing,Masc
+2353,2. armáda (mobilizace 1938),,
+2354,My Father's Place,Sing,Masc
+2355,Bonprix,Sing,
+2356,Pražské nakladatelství V. Poláčka,Sing,Neut
+2357,Sinn Féin,,Fem
+2358,RENAMO,Sing,Neut
+2359,Národní agentura pro podvodní a námořní činnost,Sing,Fem
+2360,Lagonda,Sing,Fem
+2361,Farní sbor Českobratrské církve evangelické v Suchdole nad Odrou,Sing,Masc
+2362,"Josef Doucek, továrna papírového zboží, tiskárna a velkoobchod papírem",Sing,Masc
+2363,Cummins,Sing,Masc
+2364,Continental Airlines,,
+2365,Rotary International,,
+2366,Sakartvelos Mcvaneta Partia,,
+2367,Cessna,Sing,Fem
+2368,Svaz skautů a skautek České republiky,Sing,Masc
+2369,Sencor,Sing,Masc
+2370,Socialistická strana Srbska,Sing,Fem
+2371,Červené eso,Sing,Neut
+2372,Mezinárodní federace fotbalových historiků a statistiků,Sing,Fem
+2373,AUMA Riester,Sing,Fem
+2374,Xiamen Air,Sing,
+2375,Partia Parlamentare e Kosovës,Plur,Neut
+2376,Chrysler,Sing,Masc
+2377,Foxconn,Sing,Masc
+2378,Evropská volejbalová konfederace,Sing,Fem
+2379,Polskie Centrum Ludowe,Sing,Neut
+2380,Spolek pracovníků v umění a ve vědě Purkyně,Sing,Masc
+2381,Slovenský šachový svaz,Sing,Masc
+2382,Jerevanský automobilový závod,Sing,Masc
+2383,Fuldamobil,Sing,Masc
+2384,Mezinárodní plavecká federace,Sing,Fem
+2385,4. rychlá divize (mobilizace 1938),,
+2386,Siebel,Sing,Masc
+2387,Papcel,Sing,Masc
+2388,Čechie-Böhmerland,Sing,Fem
+2389,Unicorn,Sing,Masc
+2390,Remington Rand,Sing,Masc
+2391,Klub sociálních demokratů Občanského fóra,Sing,Masc
+2392,Lidoví mudžáhedíni,Plur,Masc
+2393,Symbionese Liberation Army,Sing,
+2394,Bamberger Symphoniker,Sing,Masc
+2395,Ryanair,Sing,Masc
+2396,SARTA,Sing,Fem
+2397,Ensemble intercontemporain,Plur,Masc
+2398,Sociálně demokratická strana Chorvatska,Sing,Fem
+2399,Csemadok,Sing,Masc
+2400,American Motors,,
+2401,Abú Sajjáf,Sing,Masc
+2402,El Al,,
+2403,Národní knihovna Koreje,Sing,Fem
+2404,Světová atletika,Sing,Fem
+2405,Německo-francouzská organizace mládeže,Sing,Fem
+2406,Reichswerke Hermann Göring,Sing,Masc
+2407,Konzervativní strana (Wales),Sing,Fem
+2408,Institucionální revoluční strana,Sing,Fem
+2409,Víra a Světlo,Sing,Fem
+2410,Old.,,
+2411,Bendl a ing. Jos. Rusý.,Sing,Masc
+2412,"První královéhradecká továrna na překližované desky, dýhy a parní pila",Plur,"Fem,Neut"
+2413,Fedcupový tým Československa,Sing,Masc
+2414,Deutsche Zentrumspartei,,
+2415,Falanga (Španělsko),Sing,Masc
+2416,Thomson Airways,Plur,Fem
+2417,Komunistická strana Ázerbájdžánu,Sing,Fem
+2418,Československá napoleonská společnost,Sing,Fem
+2419,Mezinárodní železniční unie,Sing,Fem
+2420,Klub 231,Sing,Masc
+2421,Weleda,,
+2422,Alvis,Sing,Masc
+2423,Ligier,Sing,Masc
+2424,Australská federace ledního hokeje,Sing,Fem
+2425,Avala-Modrý kruh,Sing,Masc
+2426,National Health Service,,
+2427,Německá národně lidová strana,Sing,Fem
+2428,ARP-SAPC,,Neut
+2429,Talbot-Darracq,Sing,Masc
+2430,Centrální institut dějin umění,Sing,Masc
+2431,Židovská republikánská strana,Sing,Fem
+2432,Asociace profesionálních fotografů České republiky,Sing,Fem
+2433,Slovinská unie,Sing,Fem
+2434,Origin Systems,Plur,Masc
+2435,Třetí vláda Augustina Vološina,Sing,Fem
+2436,Mezinárodní federace ledního hokeje,Sing,Fem
+2437,Lidová fronta pro osvobození Palestiny,Sing,Fem
+2438,Alea,Sing,Fem
+2439,Muslimské bratrstvo,Sing,Neut
+2440,Virgin Group,,Fem
+2441,IG Port,Sing,Masc
+2442,Nové divadlo (Praha),Sing,Neut
+2443,Černý lev,Sing,Masc
+2444,Lietuvos skaučių seserija,Sing,Masc
+2445,Černí panteři (Izrael),Plur,Masc
+2446,Strana demokratického socialismu (Německo),Sing,Fem
+2447,Švédská asociace šachových počítačů,Sing,Fem
+2448,Sklo Union,Sing,Neut
+2449,"Národní liga – strana radikální, národní a demokratická",Sing,Fem
+2450,Polská lidová strana „Piast”,Sing,Fem
+2451,Ministerstvo zahraničních věcí Izraele,Sing,Neut
+2452,Demokraté 66,Plur,Masc
+2453,Farní sbor Českobratrské církve evangelické v Chrástu u Plzně,Sing,Masc
+2454,Noční vlci,Plur,Masc
+2455,Alpine (automobilka),,
+2456,ČTV,,Fem
+2457,Lékaři bez hranic,Plur,Masc
+2458,Bärenreiter Praha,Sing,Masc
+2459,Orban (firma),Sing,Masc
+2460,Ateliéry Bonton Zlín,Plur,Masc
+2461,Deutsche Bank,Sing,Masc
+2462,Vládní vojsko,Sing,Neut
+2463,Enstrom Helicopter Corporation,,
+2464,VEDA,Sing,Fem
+2465,Mezinárodní hydrografická organizace,Sing,Fem
+2466,Melchitská eparchie Nejsvětějšího Spasitele v Montréalu,Sing,Fem
+2467,Stadler Rail,Sing,Masc
+2468,Lowe Alpine,Sing,Masc
+2469,Německý svaz zemědělců,Sing,Masc
+2470,Sociálně demokratická strana (Portugalsko),Sing,Fem
+2471,Transall,Sing,Masc
+2472,Carrozzeria Ghia,,
+2473,Hudba Hradní stráže a Policie České republiky,Sing,Fem
+2474,Komunistická strana Indie,Sing,Fem
+2475,Kódanša,Sing,Fem
+2476,Royal Jordanian,Sing,Masc
+2477,Chama Cha Mapinduzi,Sing,Fem
+2478,Emirates SkyCargo,Sing,Masc
+2479,Mezinárodní kanoistická federace,Sing,Fem
+2480,Unilever,Sing,Masc
+2481,Mooncrest Records,Plur,Masc
+2482,NASA,,Fem
+2483,Eni,Plur,Masc
+2484,Ethiopian Airlines,,
+2485,Institut national de la santé et de la recherche médicale,Sing,Masc
+2486,Motor Jikov,Sing,Masc
+2487,Obranné sdružení občanů Derry,Sing,Neut
+2488,Loutkové divadlo Starost,Sing,Neut
+2489,Árijské bratrstvo,Sing,Neut
+2490,Sdružení pro republiku – Republikánská strana Československa Miroslava Sládka,Sing,Neut
+2491,Demokratické hnutí za změnu,Sing,Neut
+2492,Evropské sdružení studentů práva,Sing,Neut
+2493,American Locomotive Company,,
+2494,Hospodářská strana dlužníků,Sing,Fem
+2495,Německá demokratická svobodomyslná strana,Sing,Fem
+2496,Druhá vláda Augustina Vološina,Sing,Fem
+2497,M-Audio,Sing,Neut
+2498,Cosworth,Sing,Masc
+2499,Česká boxerská asociace,Sing,Fem
+2500,Izquierda Republicana,Sing,Fem
+2501,Směr (družstvo),Sing,Masc
+2502,Okresní soud Plzeň-jih,Sing,Masc
+2503,Studio Deen,Sing,Neut
+2504,Bavorská lidová strana,Sing,Fem
+2505,Světová federace demokratické mládeže,Sing,Fem
+2506,Nezávislé divadlo,Sing,Neut
+2507,Dia-film Praha,Sing,Masc
+2508,Svaz německých dívek,Sing,Masc
+2509,Bulharská komunistická strana,Sing,Fem
+2510,Nissan,Sing,Masc
+2511,Sbor pověřenců 7. února 1945 – 21. února 1945,Sing,Masc
+2512,Odborný léčebný ústav Jevíčko,Sing,Masc
+2513,Továrna automobilů Start,Sing,Fem
+2514,Mercer (konzultační společnost),Sing,Masc
+2515,Jazykovědný ústav Ľudovíta Štúra,Sing,Masc
+2516,Crammed Discs,Sing,Masc
+2517,Recitační skupina Vpřed,Sing,Fem
+2518,Vietnam Television,Sing,Masc
+2519,Výbor dobré vůle – Nadace Olgy Havlové,Sing,Masc
+2520,Zetor,Sing,Masc
+2521,Air Malta,Sing,Masc
+2522,English Electric,,
+2523,Filharmonici města Prahy,Sing,Fem
+2524,První vláda Zdeňka Fierlingera,Sing,Fem
+2525,Einsatzgruppe H,Sing,Masc
+2526,Zelená strana (Spojené království),Sing,Fem
+2527,Ženijní skupinové velitelství X Rokytnice v Orlických horách,Sing,Neut
+2528,Německá říšská strana,Sing,Fem
+2529,Nansenův mezinárodní úřad pro uprchlíky,Sing,Masc
+2530,Léčebné lázně Jáchymov,Plur,Fem
+2531,SodaStream,Sing,Masc
+2532,Canon,Sing,Masc
+2533,Kryštof 07,,
+2534,Luther & Heyer,Sing,Masc
+2535,Bronze Records,Sing,Masc
+2536,Lúčnica,Sing,Fem
+2537,Apple,Sing,Masc
+2538,McKinsey & Company,Sing,Masc
+2539,Borland,Sing,Masc
+2540,Slovenska demokratična zveza,Sing,Neut
+2541,NeXT,Sing,Masc
+2542,Český rozhlas Plzeň,Sing,Masc
+2543,Národní strana práce (1925),Sing,Fem
+2544,Stavoprojekt,Sing,Masc
+2545,AEGEE,Sing,Neut
+2546,Egged,Sing,Masc
+2547,22. dobrovolnická jízdní divize SS „Maria Theresia“,Sing,Fem
+2548,Interhelpo,Sing,Neut
+2549,Robinson Helicopter Company,Sing,Masc
+2550,Hradní stráž,Sing,Fem
+2551,Mezinárodní úřad pro výstavnictví,Sing,Masc
+2552,Talbot (automobilka),Sing,Masc
+2553,Archiv města Ostravy,Sing,Masc
+2554,Český báňský úřad,Sing,Masc
+2555,Peredvižnici,Sing,Masc
+2556,Adria Airways,Plur,Fem
+2557,MIT Press,Sing,Masc
+2558,Taneční orchestr Československého rozhlasu,Sing,Masc
+2559,Západoněmecká hokejová reprezentace,Sing,Fem
+2560,KONE,Sing,
+2561,Tnu'a le-hitchadšut cijonit chevratit,Sing,Masc
+2562,KaVo Dental,,
+2563,Farní sbor Českobratrské církve evangelické v Pardubicích,Sing,Masc
+2564,Miramax,Sing,Masc
+2565,Farní sbor Českobratrské církve evangelické ve Varnsdorfu,Sing,Masc
+2566,Cadillac,Sing,Masc
+2567,Svornost (pracovní tábor),Sing,Fem
+2568,Národní LGBT federace,Sing,Fem
+2569,Mezinárodní šermířská federace,Sing,Fem
+2570,Agence de presse Meurisse,Sing,Fem
+2571,C.,,
+2572,Benz Söhne,Sing,Masc
+2573,Ukrajinská povstalecká armáda,Sing,Fem
+2574,Banverket,Sing,Masc
+2575,Spolek českých bibliofilů,Sing,Masc
+2576,Družstevní mlékárna Mlékařského a hospodářského družstva v Hradci Králové,Sing,Fem
+2577,Český rozhlas Pardubice,Sing,Masc
+2578,Socialistický svaz mládeže,Sing,Masc
+2579,Mezinárodní asociace účastníků kosmických letů,Sing,Fem
+2580,Český svaz vědeckotechnických společností,Sing,Masc
+2581,Achva (politická strana),Sing,Fem
+2582,Nezávislá frakce izraelských Arabů,Sing,Fem
+2583,Sikorsky Aircraft Corporation,Sing,Masc
+2584,Statens institut för rasbiologi,Sing,Masc
+2585,Šas,Sing,Masc
+2586,Jura Elektroapparate,Sing,Fem
+2587,Japonská fotbalová reprezentace,Sing,Fem
+2588,Roudnické strojírny a slévárny,Plur,Fem
+2589,Domowina,Sing,Fem
+2590,Sdružení sportovních svazů České republiky,Sing,Neut
+2591,Wilier Triestina,Sing,Masc
+2592,Divadlo Petra Bezruče,Sing,Neut
+2593,Vláda Júlia Révaye,Sing,Fem
+2594,Československý svaz těžké atletiky,Sing,Masc
+2595,Orchestre national d'Île-de-France,Sing,Masc
+2596,Křesťanská demokracie (Itálie),Sing,Fem
+2597,Světová organizace cestovního ruchu,Sing,Fem
+2598,Allianz,Sing,Masc
+2599,Friedrich Deckel,Sing,Masc
+2600,Andělské dílo,Sing,Neut
+2601,Hraniční pásmo XII (mobilizace 1938),Sing,Neut
+2602,De Havilland Aircraft Company,,
+2603,Foma,Sing,Fem
+2604,British Leyland,,
+2605,L. Beckmann a spol.,,Masc
+2606,Světová asociace skautek,Sing,Fem
+2607,Ministerstvo pošt a telegrafů,Sing,Neut
+2608,Komunistická strana Slovenska (1939),Sing,Fem
+2609,Slovenská národná strana (historická),Sing,Fem
+2610,Švédská lidová strana,Sing,Fem
+2611,Konfederace evropských skautů,Sing,Fem
+2612,Radošinské naivné divadlo,Sing,Neut
+2613,Chicago Film Critics Association,Sing,Neut
+2614,Výzkumný ústav pro sdělovací techniku A. S. Popova,,Masc
+2615,Moravská národní strana,Sing,Fem
+2616,MOST (iniciativa),Sing,Masc
+2617,Maison de l'Europe de Paris,,
+2618,Křesťanské společenství,Sing,Neut
+2619,Komunistická strana Kuby,Sing,Fem
+2620,Jednota nemajetného a pokrokového studentstva,Sing,Fem
+2621,Kord Ptáčník,Sing,Masc
+2622,Farní sbor Českobratrské církve evangelické v Sokolově,Sing,Masc
+2623,Hudson Motor Car Company,Sing,Masc
+2624,American Legislative Exchange Council,,
+2625,Fabryka Broni „Łucznik”,Sing,Masc
+2626,Nejvyšší správní soud Československa,Sing,Masc
+2627,Český svaz mariáše,Sing,Masc
+2628,Klub výtvarných umělců Aleš,Sing,Masc
+2629,Los Zetas,Sing,Masc
+2630,Jeden Izrael (1980),Sing,Masc
+2631,Moravský rybářský svaz,Sing,Masc
+2632,Riverside Records,,
+2633,Mezinárodní unie pro čistou a užitou chemii,Sing,Fem
+2634,Obscure Records,Plur,Masc
+2635,Světová banka,Sing,Fem
+2636,Porsche,,Masc
+2637,Pickwick Records,Sing,Masc
+2638,Německá volební pospolitost,Sing,Fem
+2639,Bertone,Sing,Masc
+2640,Aerolíneas Argentinas,Sing,Masc
+2641,YIT,Sing,Masc
+2642,Sanyo,Sing,Neut
+2643,Zajatecký tábor Jindřichovice,Sing,Masc
+2644,Církev Satanova,Sing,Fem
+2645,Arup,Sing,Masc
+2646,Centrolew,Sing,Masc
+2647,Alleanza Monarchica,Sing,Masc
+2648,Geneva International Peace Research Institute,Sing,Fem
+2649,AIESEC,Sing,Masc
+2650,Kuratorium pro výchovu mládeže v Čechách a na Moravě,Sing,Neut
+2651,Ústav mezinárodních vztahů,Sing,Masc
+2652,Komunistický svaz mládeže,Sing,Masc
+2653,Confederación Nacional del Trabajo,Sing,Masc
+2654,Prostor (nakladatelství),Sing,Masc
+2655,Severská rada,Sing,Fem
+2656,Casablanca Records,Sing,Masc
+2657,JR Šikoku,Sing,Masc
+2658,Korean Broadcasting System,Sing,Masc
+2659,Světová organizace pro zdraví zvířat,Sing,Fem
+2660,Pražský lingvistický kroužek,Sing,Masc
+2661,Folklórní soubor Hořeňák,Sing,Masc
+2662,Asociace MOV uznaných mezinárodních sportovních federací,Sing,Fem
+2663,Koncentrační tábor Dachau,Sing,Masc
+2664,Petěrburgskij tramvajno-mechaničeskij zavod,,
+2665,SPV GmbH,Sing,Masc
+2666,Festeticsovo smyčcové kvarteto,Sing,Neut
+2667,Biologický ústav ČSAV,Sing,Masc
+2668,Euler (letecký výrobce),Sing,Masc
+2669,Partei der deutschsprachigen Belgier,,
+2670,Národní unie Jihozápadní Afriky,Sing,Fem
+2671,Africký národní kongres,Sing,Masc
+2672,Costco,,
+2673,Organizace Todt,Sing,Fem
+2674,Československý svaz mládeže,Sing,Masc
+2675,Audio-Technica,Sing,Neut
+2676,Volksdeutsche Mittelstelle,,
+2677,Glenn L. Martin Company,Sing,Masc
+2678,Ultraphon,Sing,Masc
+2679,Italská demokratická socialistická strana,Sing,Fem
+2680,MÁVAG,Sing,Masc
+2681,Federace skautů Evropy,Sing,Fem
+2682,Autodesk,Sing,Masc
+2683,Cedar Fair Entertainment,Sing,Masc
+2684,Les Verts,,
+2685,Royal Aircraft Establishment,,
+2686,North American Aviation,Sing,Masc
+2687,Fine Gael,Sing,Masc
+2688,Dětský pěvecký sbor Českého rozhlasu,Sing,Masc
+2689,Brough Superior,Sing,Masc
+2690,Skupina G15,Sing,Fem
+2691,Erato,Sing,Neut
+2692,BBC National Orchestra of Wales,,Fem
+2693,Narex,Sing,Masc
+2694,Fronta za osvobození zvířat,Sing,Fem
+2695,Foot Locker,,
+2696,Prüftechnik,Sing,Masc
+2697,Farní sbor Českobratrské církve evangelické v Mělníku,Sing,Masc
+2698,Český rozhlas Olomouc,Sing,Masc
+2699,Čtyřlístek (nakladatelství),Sing,Masc
+2700,5. divize (mobilizace 1938),Sing,Fem
+2701,Pegasus Airlines,,
+2702,Hartwig & Vogel,Sing,Masc
+2703,Pokroková socialistická strana,Sing,Fem
+2704,Pantone,Sing,Masc
+2705,Švýcarská lidová strana,Sing,Fem
+2706,Česká astronomická společnost,Sing,Fem
+2707,DASA,Sing,Fem
+2708,7. politbyro ústředního výboru Komunistické strany Číny,Sing,Neut
+2709,Slezský institut v Opolí,Sing,Masc
+2710,Mensa International,,
+2711,American Airlines,,
+2712,Lázeňské lesy Karlovy Vary (organizace),Plur,Masc
+2713,Asociace tygřích letek států NATO,Sing,Fem
+2714,Pražské dětské divadlo,Sing,Neut
+2715,Standard Oil,Sing,Masc
+2716,Rolls-Royce Holdings,Sing,Masc
+2717,Tridentsko tyrolská autonomistická strana,Sing,Fem
+2718,Méray Motorkerékpárgyár,Sing,Masc
+2719,Caritas Christi,Sing,Masc
+2720,Latvijas Radio,,
+2721,Kovoslužba,Sing,Fem
+2722,Germania (letecká společnost),Sing,Fem
+2723,Divadlo Jaroslava Průchy,Sing,Neut
+2724,Mezinárodní geografická unie,Sing,Fem
+2725,"Josef Ježek, elektrotechnický závod v Hradci Králové",Sing,Masc
+2726,Hornolužická knihovna věd,Sing,Fem
+2727,World Federation of Great Towers,,
+2728,Socialistická strana Spojených států amerických,Sing,Fem
+2729,Maďarské demokratické fórum,Sing,Neut
+2730,ZTE,Plur,
+2731,Svaz mládeže českomoravského venkova,Sing,Masc
+2732,Encyklopedický ústav Československé akademie věd,Sing,Masc
+2733,Achdut ha-avoda,Sing,Masc
+2734,Antirevoluční strana,Sing,Fem
+2735,Art And Animation studio,Sing,Masc
+2736,Ha-No'ar ha-oved ve-ha-lomed,Sing,Fem
+2737,Blackburn Aircraft Limited,,Masc
+2738,Automobilka Gatter,Sing,Fem
+2739,Ukrajinská fotografická společnost,Sing,Fem
+2740,Živnostenská záložna pro Plotiště nad Labem a okolí,Sing,Fem
+2741,Wales Green Party,Sing,Masc
+2742,JZD Slušovice,Plur,Fem
+2743,Koito Manufacturing,Sing,Neut
+2744,Partido Obrero de Unificación Marxista,Sing,Neut
+2745,Panda Express,Sing,Fem
+2746,Jolana (kytara),Sing,Fem
+2747,Birra Tirana,Sing,Fem
+2748,Divadlo Na korze,Sing,Neut
+2749,Národní knihovna Kosova,Sing,Fem
+2750,Strana mírného pokroku v mezích zákona,Sing,Fem
+2751,Česká školní inspekce,Sing,Fem
+2752,Dynamitka Bohnice,Sing,Fem
+2753,Tata Motors,Plur,
+2754,Vought,Sing,Masc
+2755,"Německá evangelická církev v Čechách, na Moravě a ve Slezsku",Sing,Fem
+2756,Lidová strana Polska,Sing,Fem
+2757,Jungheinrich,Sing,Masc
+2758,Chadaš,Sing,Fem
+2759,Chazit datit Toratit,,
+2760,Muzejní spolek v Třešti,Sing,Masc
+2761,Rada Evropy,Sing,Fem
+2762,Ha-Merkaz ha-chofši,Sing,Masc
+2763,Redken,Sing,Masc
+2764,Svaz československých muzeí,Sing,Masc
+2765,Citroën,Sing,Masc
+2766,Linhartova nadace,Sing,Fem
+2767,U. S. Steel Košice,,Masc
+2768,Alianční strana Severního Irska,Sing,Fem
+2769,Kamaz,Sing,Masc
+2770,Farní sbor Českobratrské církve evangelické v Karlových Varech,Sing,Masc
+2771,Rossmann,Sing,Masc
+2772,Greenpeace,Sing,Fem
+2773,Lincoln Motor Company,Sing,Masc
+2774,Illusion,Sing,Masc
+2775,Catbird Press,Sing,Masc
+2776,Sorel (firma),Sing,Masc
+2777,Fudžimi Šobó,,
+2778,Snow Leopard Trust,Sing,Masc
+2779,Lidové hnutí 13. května,Sing,Neut
+2780,Mikrobiologický ústav Akademie věd České republiky,Sing,Masc
+2781,Chloé,,
+2782,Vydavatelství A-Alef,Sing,Neut
+2783,"Národně liberální strana (Spojené království, 1922)",Sing,Fem
+2784,DAF,,Masc
+2785,Versace (společnost),Sing,Fem
+2786,BOSMAL,Sing,Masc
+2787,Slezská expozitura země Moravskoslezské,Sing,Fem
+2788,FIFA,,Fem
+2789,Moledet,Sing,Masc
+2790,Folkways Records,Plur,Masc
+2791,Hlinkova slovenská ľudová strana,Sing,Fem
+2792,Arménské divadlo opery a baletu v Jerevanu,Sing,Neut
+2793,Sony,Plur,Masc
+2794,Bulharská nacionálně socialistická dělnická strana,Sing,Fem
+2795,Mezinárodní automobilová federace,Sing,Fem
+2796,Charita Liberec,Sing,Fem
+2797,Nová alija,Sing,Fem
+2798,TEN The Movie Channel,,
+2799,Grameen Bank,Sing,Masc
+2800,Irská lidově osvobozenecká organizace,Sing,Fem
+2801,Novozélandská strana práce,Sing,Fem
+2802,Vickers-Armstrongs,Plur,Masc
+2803,Čínská aliance,Sing,Fem
+2804,Mezinárodní asociace pracujících,Sing,Fem
+2805,Spořitelní a záložní spolek pro Slezské Předměstí a okolí,Sing,Masc
+2806,Kohlberg Kravis Roberts,Sing,Masc
+2807,Hermes-Simplex,Sing,Masc
+2808,Český kynologický svaz,Sing,Masc
+2809,Německá národně socialistická strana dělnická,Sing,Fem
+2810,Folland Aircraft,,Masc
+2811,Gützold,Sing,Masc
+2812,Chantiers Aéro-Maritimes de la Seine,,
+2813,Liberálně demokratická strana (Československo),Sing,Fem
+2814,Soudcovská unie České republiky,Sing,Fem
+2815,"Josef Seyfried, továrna na kůže v Kuklenách",Sing,Masc
+2816,Evropská geovědní unie,Sing,Fem
+2817,Bombardier Transportation,Sing,Masc
+2818,Emirates,Sing,Masc
+2819,Slatiňanská továrna automobilů R. A. Smekal,Sing,Fem
+2820,Hooverův institut,Sing,Masc
+2821,Beneš-Mráz,Sing,Masc
+2822,Faxe,Sing,Fem
+2823,Vlastenecká unie Kurdistánu,Sing,Fem
+2824,Bloomberg L.P.,Sing,Masc
+2825,Monsanto,Sing,Neut
+2826,Walker Books,Plur,Fem
+2827,Garmin,Sing,Masc
+2828,Hnutí,Sing,Neut
+2829,Na vlastních nohou – Stonožka,Plur,Fem
+2830,Televizní studio Ostrava,Sing,Neut
+2831,Pye Records,Sing,Masc
+2832,Pituach ve-šalom,Sing,Masc
+2833,UPS (firma),Sing,Masc
+2834,Hollywood Records,Plur,Masc
+2835,Plaid Cymru,Sing,Masc
+2836,Balluff,Sing,Masc
+2837,Mudd Club,Sing,Masc
+2838,17. protiletadlová baterie Klement Gottwald,,
+2839,Jonhap,,
+2840,Kazeto,Sing,Neut
+2841,CFM International,,
+2842,Mezinárodní agentura pro výzkum rakoviny,Sing,Fem
+2843,Prag-Film AG,Sing,Masc
+2844,Rockwell International,Sing,Masc
+2845,Mebyon Kernow,Sing,Masc
+2846,Wikov,Sing,Masc
+2847,Strana přátel piva,Sing,Fem
+2848,Matice česká,Sing,Fem
+2849,Graphisoft,Sing,Masc
+2850,Divadlo U mostu,Sing,Neut
+2851,Archieparchie Hajdúdorog,Sing,Masc
+2852,Ferrero,Sing,Neut
+2853,Klub Za starou Prahu,Sing,Masc
+2854,Nigerská strana pro demokracii a socialismus,Sing,Fem
+2855,Technický a zkušební ústav stavební Praha,Sing,Masc
+2856,Farní sbor Slezské církve evangelické augsburského vyznání v Albrechticích,Sing,Masc
+2857,Alfa (vydavatelství),Sing,Fem
+2858,Frakce Rudé armády,Sing,Fem
+2859,"Alfred Ippen, mostárna a strojírna",Sing,Masc
+2860,Spartakovi skauti práce,Plur,Masc
+2861,THQ,,
+2862,Kostnická jednota,Sing,Fem
+2863,Německý národní svaz,Sing,Masc
+2864,Útvar rychlého nasazení,Sing,Masc
+2865,Stráž obrany státu,Sing,Fem
+2866,Favorit (firma),Sing,Masc
+2867,Peter Owen Publishers,Sing,Masc
+2868,Orgelbau Wünning,Sing,Masc
+2869,Svaz židovských zemědělců v Podkarpatské Rusi,Sing,Masc
+2870,Práce (nakladatelství),Sing,Fem
+2871,United Artists,,
+2872,Zveno,Sing,Neut
+2873,CILANE,,Fem
+2874,DIAMO,Sing,Neut
+2875,Demokratická strana (Slovensko),Sing,Fem
+2876,Demokratický svaz Slováků a Čechů v Rumunsku,Sing,Masc
+2877,Komunistická strana Německa,Sing,Fem
+2878,Vesna (spolek),Sing,Fem
+2879,Sudetoněmecké krajanské sdružení,Sing,Neut
+2880,Société Pour L'Aviation et ses Dérivés,,Fem
+2881,Air Koryo,Sing,Masc
+2882,Realtek,Sing,Masc
+2883,Všesvazová pionýrská organizace V. I. Lenina,Sing,Fem
+2884,Srbské hnutí obnovy,Sing,Neut
+2885,Světová federace karate,Sing,Fem
+2886,HellermannTyton,Sing,Masc
+2887,Valentino (módní značka),Sing,Masc
+2888,Fronta národní spásy,Sing,Fem
+2889,Kaufland,Sing,Masc
+2890,Bělehradské výstaviště,Sing,Neut
+2891,Tjóðveldi,,
+2892,Porcelanosa Grupo,Sing,Fem
+2893,Státoprávní pokroková strana,Sing,Fem
+2894,Mezinárodní společnost pro hudební výchovu,Sing,Fem
+2895,JRC,Sing,Fem
+2896,Loganair,Sing,Masc
+2897,Avid Technology,Sing,Masc
+2898,7-Eleven,,
+2899,Accenture,Sing,Fem
+2900,Isuzu,Sing,Masc
+2901,Continental,Sing,Masc
+2902,Landbund (Rakousko),Sing,Masc
+2903,Föreningen Vetenskap och Folkbildning,Sing,Masc
+2904,"Výzkumný ústav geodetický, topografický a kartografický",Sing,Masc
+2905,Maybach,Sing,Masc
+2906,Ruská fašistická strana,Sing,Fem
+2907,Dánská lidová strana (1941–43),Sing,Fem
+2908,Bavorský rolnický svaz,Sing,Masc
+2909,LINET,Sing,Masc
+2910,White Panther Party,Plur,Masc
+2911,UMAX,Sing,Masc
+2912,Mezinárodní federace orientačního běhu,Sing,Fem
+2913,Český filmový a televizní svaz FITES,Sing,Masc
+2914,Divadelní spolek Jezírko,Sing,Masc
+2915,Ziehl-Abegg,Sing,Masc
+2916,Hay Group,,
+2917,Strana demokratické levice,Sing,Fem
+2918,Kanadská pobřežní stráž,Sing,Fem
+2919,Rayton Fissore,Sing,Masc
+2920,Spyker (automobilka),Sing,Masc
+2921,Zelení –,Plur,Masc
+2922,Zelená alternativa,Sing,Fem
+2923,Comet (politická strana),Sing,Masc
+2924,Rockstar San Diego,,
+2925,Fabryka Samochodów Małolitrażowych,Sing,Fem
+2926,Moked,Sing,Masc
+2927,Středočeské sdružení výtvarníků Unie výtvarných umělců,Sing,Neut
+2928,Československá strana agrární a konservativní,Sing,Fem
+2929,Air Seychelles,Sing,Masc
+2930,Mezinárodní komise pro ochranu průmyslového dědictví,Sing,Fem
+2931,Maki (současná politická strana),Sing,Masc
+2932,Jagdgeschwader 301,Sing,Masc
+2933,Brit ha-birjonim,Sing,Masc
+2934,German-American Bund,Sing,Masc
+2935,Spirit Airlines,Plur,Fem
+2936,Aer Lingus,Sing,Masc
+2937,Poundland,Sing,Masc
+2938,New Rose Records,Plur,Masc
+2939,Dallas–Fort Worth Film Critics Association,Sing,Masc
+2940,Konzervativní lidová strana,Sing,Fem
+2941,Farní sbor Slezské církve evangelické augsburského vyznání ve Stonavě,Sing,Masc
+2942,Rešima mamlachtit,,
+2943,Státní okresní archiv Semily,Sing,Masc
+2944,DeSoto,Sing,Neut
+2945,Mezinárodní svaz architektů,Sing,Masc
+2946,Lawrence Livermore National Laboratory,Sing,Masc
+2947,Cathay Pacific,Sing,Fem
+2948,Blue1,,
+2949,Komise pro kontrolu cenných papírů Spojených států,Sing,Fem
+2950,PERI,Sing,Neut
+2951,"Eternitas, akciové továrny dehtových výrobků a krycích hmot Hradec Králové",Sing,Masc
+2952,Mezinárodní organizace pro tropické dřevo,Sing,Fem
+2953,20th Century Studios,,
+2954,Továrna dětských vozidel,Sing,Fem
+2955,Věznice Vinařice,Sing,Fem
+2956,Venstre (Norsko),,
+2957,Národní liga pro demokracii,Sing,Fem
+2958,Marriott International,,
+2959,Regionální knihovna Teplice,Sing,Fem
+2960,Iveco,,
+2961,Zdravotní středisko Washingtonské univerzity,Sing,Neut
+2962,Letov,Sing,Masc
+2963,Německý horský spolek pro Ještědské a Jizerské hory,Sing,Masc
+2964,Druhá exilová vláda Jana Šrámka,Sing,Fem
+2965,Die Linkspartei.PDS,,
+2966,Ahnenerbe,Sing,Masc
+2967,JAA,Sing,Fem
+2968,Slovinská akademie věd a umění,Sing,Fem
+2969,Maďarská socialistická strana,Sing,Fem
+2970,Beechcraft,Sing,Masc
+2971,Toyota,Sing,Fem
+2972,Sony Music Entertainment,Plur,Masc
+2973,Jachad (nefunkční politická strana),Sing,Masc
+2974,Československá strana křesťansko-sociální,Sing,Fem
+2975,Austro-Cyclecar,,
+2976,Simca,Sing,Fem
+2977,Piriou,Sing,Masc
+2978,Pěšky městem,,
+2979,Strana socialistické levice,Sing,Fem
+2980,ČKD Hradec Králové,,Neut
+2981,Sabena,Sing,Fem
+2982,Tenneco,,
+2983,LR Health & Beauty Systems,Sing,Masc
+2984,Aircraft Manufacturing Company,,Masc
+2985,ZIL,Sing,Masc
+2986,SONACA,Sing,Fem
+2987,Aérospatiale,Sing,Fem
+2988,Die Brücke,,
+2989,Oddíl kosmonautů CPK,Sing,Masc
+2990,Values Party,Plur,Masc
+2991,Delta Air Lines,Sing,Fem
+2992,Addison-Wesley,Sing,Masc
+2993,"Skidmore, Owings and Merrill",Sing,Neut
+2994,Československá televize,Sing,Fem
+2995,LOT,Sing,Masc
+2996,Makedonska radiotelevizija,Sing,Fem
+2997,DaKine,Sing,Masc
+2998,Kurzweil Music Systems,Sing,Masc
+2999,SunExpress,Sing,Masc
+3000,Society of Independent Artists,,Fem
+3001,Leyat,Sing,Masc
+3002,Národní náboženská strana,Sing,Fem
+3003,Oxfam,Sing,Masc
+3004,Světová lukostřelecká federace,Sing,Fem
+3005,Turkish Airlines,,
+3006,Pokrokové spojenectví socialistů a demokratů,Sing,Neut
+3007,Fernsehsender Paul Nipkow,Sing,Masc
+3008,Čtvrtá vláda Jozefa Tisa,Sing,Fem
+3009,Umírněná strana,Sing,Fem
+3010,GMM Grammy,,
+3011,Zakład Samochodów Dostawczych,,
+3012,Mount Baldy Zen Center,Sing,Masc
+3013,Iberská federace anarchistické mládeže,Sing,Fem
+3014,Hraniční oblast 32 (mobilizace 1938),Sing,Fem
+3015,Arsenal de l'Aéronautique,,
+3016,Soubor písní a tanců Javořina,Sing,Masc

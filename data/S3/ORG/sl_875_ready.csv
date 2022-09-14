@@ -1,0 +1,886 @@
+,entity,number,gender
+0,Glavni obveščevalni center (NKKJ),Sing,Masc
+1,Fakulteta za osnovno medicino v Moskvi,Sing,Fem
+2,Japonska agencija za raziskovanje vesolja,Sing,Fem
+3,Palača Argentinskega narodnega kongresa,Sing,Neut
+4,Veleposlaništvo Republike Slovenije v Izraelu,Sing,Fem
+5,Preiskovalna komisija za parlamentarno preiskavo o vpletenosti in odgovornosti javnih funkcij v zvezi z najdbo orožja na mariborskem letališču,Sing,Fem
+6,Univerza v Tübingenu,Sing,Masc
+7,Apostolska nunciatura v Eritreji,Sing,Fem
+8,Moskovska maneža,Sing,Fem
+9,Univerza v Osijeku,Sing,Masc
+10,Baksanski nevtrinski observatorij,Sing,Masc
+11,Kanadske oborožene sile,Plur,Fem
+12,Apostolska nunciatura v Mozambiku,Sing,Fem
+13,Odbor za mednarodne odnose Državnega zbora Republike Slovenije,Sing,Masc
+14,Univerza v Bayreuthu,Sing,Masc
+15,Papeška biblična komisija,Sing,Fem
+16,"Fakulteta za elektrotehniko, strojništvo in ladjedelništvo v Splitu",Sing,Neut
+17,Fakulteta za strojništvo in ladjedelništvo v Zagrebu,Sing,Fem
+18,Univerza v Trstu,Sing,Masc
+19,Apostolska nunciatura na Češkoslovaškem,Sing,Fem
+20,Trgovski dom,Sing,Masc
+21,ESCP Business School,Sing,Masc
+22,Organizacija Todt,Sing,Fem
+23,Teatro Massimo,Plur,
+24,Komisija po Zakonu o nezdružljivosti opravljanja javne funkcije s pridobitno dejavnostjo Državnega zbora Republike Slovenije,Plur,Fem
+25,Galleria dell'Accademia,Sing,Fem
+26,BMW muzej,Sing,
+27,Veleposlaništvo Republike Slovenije v Severni Makedoniji,Sing,Fem
+28,Visoka zdravstvena šola v Tuzli,Sing,Fem
+29,Apostolska nunciatura v Izraelu,Sing,Fem
+30,"Palača Residenz, München",Sing,Masc
+31,Visoka zdravstvena šola v Sarajevu,Sing,Fem
+32,Klub parlamentark Državnega zbora Republike Slovenije,Sing,Masc
+33,Zvezni urad za spomenike Avstrije,Sing,Masc
+34,Fakulteta za gospodarske znanosti na Dunaju,Sing,
+35,Fakulteta za življenjske znanosti na Dunaju,Sing,Fem
+36,Vojaški ordinariat Hrvaške,Sing,Masc
+37,"Preiskovalna komisija o domnevnem škodljivem, nedopustnem in nezakonitem ter neustavnem delovanju in poslovanju Izvršnega sveta Skupščine mesta Ljubljana, izvršnih svetov Skupščin občin Postojna, Trbovlje in Izola (...)",Plur,Masc
+38,Nemška mednarodna šola v Zagrebu,Sing,Fem
+39,Vojaška akademija Vorošilov,Sing,Fem
+40,9. državni zbor Republike Slovenije,Plur,Fem
+41,"Kolidž svete Trojice, Dublin",Plur,
+42,Protiletalsko artilerijsko vojaško učilišče JLA,Sing,Fem
+43,Ildebrando Antoniutti,,
+44,Fakulteta za kriminalistične vede v Sarajevu,Plur,Fem
+45,Kemijska fakulteta v Moskvi,Sing,Neut
+46,Apostolska nunciatura v Ukrajini,Sing,Fem
+47,Fakulteta za psihologijo in pedagogiko v Münchnu,Sing,Fem
+48,Univerza za glasbo in uprizoritvene umetnosti Dunaj,,
+49,Pergamonski muzej,Sing,
+50,Ekonomska fakulteta v Münchnu,Sing,Neut
+51,Gozdarska fakulteta v Banja Luki,Sing,Neut
+52,8. državni zbor Republike Slovenije,Plur,Fem
+53,Slovaška filharmonija,Sing,Fem
+54,Komisija za narodni skupnosti Državnega zbora Republike Slovenije,Plur,Fem
+55,Medicinska fakulteta v Tuzli,Sing,Neut
+56,Apostolska nunciatura v Litvi,Sing,Fem
+57,Mednarodni filmski festival v Berlinu,Sing,Masc
+58,Gledališče opere in baleta Tbilisi,Plur,Fem
+59,Jezuitski kolegij v Zagrebu,Sing,Masc
+60,Apostolska nunciatura v Latviji,Sing,Fem
+61,Urad za preprečevanje korupcije in organiziranega kriminala,Sing,Masc
+62,(Hrvaška),,
+63,Filozofska fakulteta v Banja Luki,Sing,Neut
+64,Fakulteta za kemijo in farmacijo v Würzburgu,Sing,Fem
+65,Odbor za zdravstvo Državnega zbora Republike Slovenije,Sing,Masc
+66,Licej v Gradcu,Sing,Masc
+67,Teatro Colón,Sing,Masc
+68,Apostolska nunciatura v Španiji,Sing,Fem
+69,Univerza McGill,Sing,Masc
+70,Univerza v Innsbrucku,Sing,Masc
+71,Vojaška akademija raketnih sil Dzeržinski,Sing,Fem
+72,Nemško fizikalno društvo,Sing,Fem
+73,Akademija dramskih umetnosti v Tuzli,Sing,Fem
+74,Pravna fakulteta v Osijeku,Sing,Masc
+75,Litovsko narodno gledališče Opera in balet,Sing,Neut
+76,École Normale Supérieure,Plur,Fem
+77,Fakulteta za matematiko in naravne vede v Kölnu,Sing,Masc
+78,Akademija znanosti Češke republike,Sing,
+79,Univerza Ernsta Moritza Arndta Greifswald,Sing,Fem
+80,Filozofska fakulteta v Splitu,Sing,Neut
+81,Muzej biblijskih dežel,Sing,Masc
+82,Generalni konzulat Republike Slovenije v Torontu,Sing,Masc
+83,Naravoslovno-matematična fakulteta v Tuzli,Sing,Neut
+84,Apostolska nunciatura v Belgiji,Sing,Fem
+85,Umetnostna fakulteta v Osijeku,Sing,Masc
+86,Odbor za kmetijstvo in gozdarstvo Državnega zbora Republike Slovenije,Sing,Masc
+87,Komisija za politiko enakih možnosti Državnega zbora Republike Slovenije,Sing,Fem
+88,Preiskovalna komisija Državnega zbora Republike Slovenije o sumu zlorabe javnih pooblastil v procesu lastninskega preoblikovanja in privatizacije nekdanje družbene lastnine,Sing,Masc
+89,Musée d'Orsay,,
+90,Fakulteta za fiziko v Münchnu,Sing,Masc
+91,Univerza Versailles,Sing,Fem
+92,Mehansko-matematična fakulteta v Moskvi,Sing,Neut
+93,Fakulteta za šport in telesno vzgojo v Sarajevu,Sing,Masc
+94,Apostolska nunciatura v Uzbekistanu,Sing,Fem
+95,Vojaški ordinariat Francije,Sing,
+96,Observatorij Tičan,Sing,Masc
+97,Veleposlaništvo Republike Slovenije v Avstraliji,Sing,Fem
+98,Teološka fakulteta v izseljenstvu,Sing,Masc
+99,Finančna oficirska šola JLA,Sing,Fem
+100,Veleposlaništvo Republike Slovenije New Delhi,,
+101,"Odbor za znanost, tehnologijo in razvoj Državnega zbora Republike Slovenije",Sing,Fem
+102,"Stara pinakoteka, München",Sing,Fem
+103,Slovenski raziskovalni inštitut,Sing,Masc
+104,École centrale de Lille,Plur,Fem
+105,Apostolska nunciatura v Salvadorju,Sing,Fem
+106,Apostolska nunciatura v San Marinu,Sing,Fem
+107,Apostolska nunciatura v Kazahstanu,Sing,Fem
+108,Gruzijski narodni muzej,Sing,Masc
+109,Matematična fakulteta na Dunaju,Sing,Neut
+110,Kraljeva kanadska vojna mornarica,Sing,Fem
+111,Šola za rezervne artilerijske častnike JLA,Sing,Fem
+112,Metropolija Montréal,Sing,Masc
+113,Vojaška akademija zvez Budjoni,Sing,Fem
+114,Fakulteta za jezikovne in književne vede v Münchnu,Sing,Fem
+115,Patristični inštitut Augustinianum,Sing,Masc
+116,Generalni konzulat Republike Slovenije v Münchnu,Sing,Masc
+117,Arhitekturna fakulteta v Zagrebu,Sing,Neut
+118,Komisija za nadzor proračuna in drugih javnih financ Državnega zbora Republike Slovenije,Sing,Masc
+119,Palacio de Aguas Corrientes,Sing,
+120,Vojaška akademija oklepnih sil Malinovski,Sing,Fem
+121,Vojaški ordinariat Kenije,Sing,Masc
+122,Kartuzija Notre-Dame de Corée,Sing,Fem
+123,Narodna knjižnica (Poljska),Sing,Fem
+124,Apostolska nunciatura v Katarju,Sing,Fem
+125,Slovenska matica,Sing,Fem
+126,Fakulteta za biologijo v Würzburgu,Sing,Fem
+127,Državni izpitni center,Sing,Masc
+128,Apostolska nunciatura na Novi Zelandiji,Sing,Fem
+129,Fakulteta za matematiko in informatiko v Würzburgu,Sing,Masc
+130,Terezijanska vojaška akademija,Sing,Fem
+131,Fakulteta prometnih znanosti v Zagrebu,Sing,Fem
+132,Fakulteta za kulturološke vede v Münchnu,Plur,Fem
+133,Mednarodna farmacevtska zveza,Sing,Fem
+134,Univerza v Bologni,Sing,Fem
+135,Jordanski muzej,Sing,
+136,Farmacevtsko-biokemična fakulteta v Zagrebu,Sing,Neut
+137,Apostolska nunciatura na Filipinih,Sing,Fem
+138,Halska vrata,Sing,Fem
+139,Pokrajinski arhiv Maribor,Sing,Masc
+140,Odbor za okolje in prostor Državnega zbora Republike Slovenije,Sing,Masc
+141,Preiskovalna komisija za ugotovitev politične odgovornosti nosilcev javnih funkcij v zvezi z domnevnim oškodovanjem državnega premoženja pri prodaji deležev Kapitalske družbe d.d. in Slovenske odškodninske družbe d. d. (...),,
+142,"Fakulteta za zemeljske znanosti, geografijo in astronomijo na Dunaju",Plur,
+143,Elektrotehniška fakulteta v Banja Luki,Sing,Fem
+144,École nationale supérieure,Plur,Fem
+145,d'arts et métiers,Sing,Masc
+146,Veleposlaništvo Republike Slovenije v Franciji,Sing,Fem
+147,Apostolska nunciatura v Demokratični republiki Kongo,Sing,Fem
+148,Apostolska nunciatura na Poljskem,Sing,Fem
+149,Štirje okronani,Plur,Masc
+150,"Vojaška akademija za radiacijsko, kemijsko in biološko zaščito Timošenko",Sing,Fem
+151,Apostolska nunciatura v Tanzaniji,Sing,Fem
+152,Pravna fakulteta v Tuzli,Sing,Fem
+153,Biblioteca Guarneriana,Sing,Fem
+154,Musée national de la Marine,Sing,Masc
+155,Fakulteta za gradbeništvo in arhitekturo v Splitu,Sing,Fem
+156,Nacionalni muzej Irana,Sing,Fem
+157,Musée de l'Armée,Sing,Masc
+158,Apostolska nunciatura v Dominikanski republiki,Sing,Fem
+159,Geološka fakulteta v Moskvi,Sing,Fem
+160,Vojaški ordinariat Koreje,Sing,
+161,Fakulteta za filozofijo in pedagogiko na Dunaju,Sing,Fem
+162,"Verband der Elektrotechnik, Elektronik und Informationstechnik",Sing,Masc
+163,Državna univerza v Moskvi,Sing,Fem
+164,Pravna fakulteta v Mostarju,Sing,Neut
+165,Apostolska nunciatura v Bosni in Hercegovini,Sing,Fem
+166,Vojaški ordinariat Litve,Sing,Masc
+167,Medicinska fakulteta v Banja Luki,Sing,Neut
+168,Pri srebrnem novčiču,Sing,Masc
+169,Apostolska nunciatura na Trinidadu in Tobagu,Sing,Fem
+170,Veleposlaništvo Republike Slovenije v Iranu,Sing,Fem
+171,Veterinarska fakulteta v Sarajevu,Sing,Neut
+172,Fakulteta naravoslovnih matematičnih znanosti in kineziologije v Splitu,Sing,
+173,Univerza v Vilni,Sing,Fem
+174,Rimska univerza La Sapienza,Sing,Fem
+175,Geografska fakulteta v Moskvi,Sing,Neut
+176,Novi list (Reka),Sing,Masc
+177,Konservatorium Wien,Sing,Masc
+178,Filmski festival v Cannesu,Sing,Masc
+179,Univerza Bocconi,Sing,Fem
+180,Fakulteta islamskih ved v Sarajevu,Plur,Fem
+181,Naravoslovno-matematična fakulteta v Zagrebu,Sing,Neut
+182,Vojaški ordinariat Nizozemske,Sing,Masc
+183,Vatikanska knjižnica,Sing,Fem
+184,Makedonska akademija znanosti in umetnosti,Sing,Fem
+185,Apostolska nunciatura na Šrilanki,Sing,Fem
+186,Veleposlaništvo Republike Slovenije na Slovaškem,Sing,Fem
+187,Škofija Montréal,Sing,Masc
+188,"Preiskovalna komisija o ugotavljanju domnevnega pranja denarja v NKBM d.d., domnevnega nezakonitega financiranja politične stranke SDS in domnevnega nezakonitega financiranja volilne kampanije SDS za predčasne volitve poslancev v Državni zbor 2018",Sing,Fem
+189,Apostolska nunciatura v Kirgizistanu,Sing,Fem
+190,Elektrotehniška fakulteta v Osijeku,Sing,Masc
+191,Konzulat Republike Slovenije v Saint-Étiennu,Sing,Masc
+192,Apostolska nunciatura v Republiki Kongo,Sing,Fem
+193,Gradbena fakulteta v Mostarju,Sing,Neut
+194,Stalno arbitražno sodišče,Sing,Neut
+195,Pravna fakulteta v Banja Luki,Sing,Neut
+196,"Egipčanski muzej, Berlin",Sing,Masc
+197,Geotehniška fakulteta v Varaždinu,Sing,Masc
+198,Fakulteta za javno upravo v Sarajevu,Sing,Fem
+199,Univerza v Kielu,Sing,Masc
+200,Komisija za peticije Državnega zbora Republike Slovenije,Plur,Masc
+201,Tekstilno–tehnološka fakulteta v Zagrebu,Sing,Masc
+202,Medicinska fakulteta v Würzburgu,Sing,Neut
+203,Preiskovalna komisija Državnega zbora Republike Slovenije o vpletenosti in odgovornosti nosilcev javnih funkcij v zvezi z najdbo orožja na mariborskem letališču ter v zvezi z opremo in orožjem v skladišču Ložnica,Plur,
+204,"Sodna palača, Bruselj",Sing,Masc
+205,Apostolska nunciatura v Združenem kraljestvu,Sing,Fem
+206,Skupina Coimbra,Sing,Fem
+207,"Odbor za notranjo politiko,",Sing,Masc
+208,javno upravo in pravosodje Državnega zbora Republike Slovenije,Sing,Neut
+209,Pedagoška fakulteta v Zagrebu,Sing,Masc
+210,Palača Golestan,Sing,Masc
+211,Komunistična univerza narodnih manjšin zahoda,Sing,Fem
+212,Odbor za obrambo Državnega zbora Republike Slovenije,Sing,Masc
+213,Agronomska fakulteta v Sarajevu,Sing,Neut
+214,Kraljeva knjižnica Nizozemske,Sing,Fem
+215,Slovaška akademija znanosti,Sing,Fem
+216,Odbor za znanost in tehnologijo Državnega zbora Republike Slovenije,Sing,Masc
+217,Ekonomska fakulteta v Sarajevu,Sing,Neut
+218,Securitate,,
+219,Fakulteta za socialne znanosti na Dunaju,Sing,Fem
+220,Organizacija dogovora o skupni varnosti,Sing,Fem
+221,Apostolska nunciatura v Indiji,Sing,Fem
+222,Intendantska oficirska šola JLA,Sing,Fem
+223,7. državni zbor Republike Slovenije,Plur,Fem
+224,Konzulat Republike Slovenije v Mendozi,Sing,Masc
+225,Institut polytechnique des sciences avancées,,
+226,Biblioteca Marciana,Sing,Fem
+227,Apostolska nunciatura v Monaku,Sing,Fem
+228,Univerza v Sieni,Sing,Fem
+229,Filozofska fakulteta v Würzburgu II,,
+230,"Odbor za zdravstvo, delo, družino in socialno politiko Državnega zbora Republike Slovenije",,
+231,Agronomska fakulteta v Osijeku,Sing,Neut
+232,Jad Vašem,Sing,
+233,Komisija po Zakonu o preprečevanju korupcije Državnega zbora Republike Slovenije,Sing,
+234,Vojaški ordinariat Brazilije,Sing,
+235,Vojaška akademija Frunze,Sing,Fem
+236,Pehotno vojaško učilišče JLA,Sing,Fem
+237,Apostolska nunciatura na Slonokoščeni obali,Plur,Masc
+238,Univerza v Mostarju,Sing,Neut
+239,"Mestni arheološki muzej, Bologna",Sing,Fem
+240,Vojaški ordinariat Poljske,Sing,Masc
+241,Avguštinej,,
+242,Medicinska fakulteta v Mostarju,Sing,Neut
+243,Univerza v Lillu,Sing,Masc
+244,Naravoslovno-matematična fakulteta v Banja Luki,Sing,Neut
+245,Nemško matematično društvo,Sing,Fem
+246,Fakulteta za zgodovinske in umetnostne vede v Münchnu,Sing,Fem
+247,Fakulteta za fizikalno kemijo v Moskvi,Sing,Fem
+248,Goriška Mohorjeva družba,Sing,Fem
+249,Medicinska fakulteta v Kölnu,Sing,Neut
+250,Apostolska nunciatura v Dominiki,Sing,Fem
+251,Tri srca,Sing,Fem
+252,"Palača Zecca, Benetke",Sing,
+253,Univerza Friedricha Schillerja v Jeni,Sing,Fem
+254,Odbor za lokalno samoupravo in regionalni razvoj Državnega zbora Republike Slovenije,Sing,Masc
+255,Fizikalna fakulteta v Moskvi,Sing,Fem
+256,Svetovni program za hrano,Sing,
+257,Konzulat Republike Slovenije v Haifi,Sing,Masc
+258,Astronomsko-geofizikalni observatorij Golovec,Sing,Masc
+259,Univerza Juraja Dobrile v Pulju,Plur,Fem
+260,Preiskovalna komisija o preiskavi politične odgovornosti posameznih nosilcev javnih funkcij v izvršnih svetih občin in republike za razkroj gospodarskega sistema Iskre,Sing,Fem
+261,Generalštab Oboroženih sil Republike Hrvaške,Plur,Fem
+262,Apostolska nunciatura v Bolgariji,Sing,Fem
+263,Obnova,Sing,Fem
+264,(časopis),,
+265,Apostolska nunciatura v Azerbajdžanu,Sing,Fem
+266,Apostolska nunciatura v Panami,Sing,Fem
+267,Univerza v Würzburgu,Sing,Masc
+268,Fakulteta za znanost o prsti v Moskvi,Sing,Fem
+269,Odbor za nadzor proračuna in drugih javnih financ Državnega zbora Republike Slovenije,Sing,Masc
+270,Pobuda za sodelovanje v jugovzhodni Evropi,Sing,Neut
+271,Vrhovno državno tožilstvo Republike Slovenije,Sing,Neut
+272,Narodna in univerzitetna knjižnica v Zagrebu,Sing,Fem
+273,Medicinska fakulteta v Osijeku,Sing,Neut
+274,Bildindex der Kunst und Architektur,Sing,Masc
+275,Podiplomska šola za inovativne posle v Moskvi,Sing,Fem
+276,Strojna fakulteta v Banja Luki,Sing,Neut
+277,BMEWS,Sing,Masc
+278,Nikkei 225,Plur,
+279,Podiplomska šola za javno upravo v Moskvi,Sing,Fem
+280,Abbey Theatre,Sing,Masc
+281,Vojni muzej v Budimpešti,Sing,Fem
+282,"Haus der Natur, Salzburg",Sing,Masc
+283,Konzulat Republike Slovenije v Innsbrucku,Sing,Masc
+284,Odbor za spremljanje uresničevanja Resolucije o izhodiščih zasnove nacionalne varnosti Republike Slovenije Državnega zbora Republike Slovenije,Sing,Masc
+285,Šola za novejše družbene vede v Moskvi,Sing,Fem
+286,Filološka fakulteta v Moskvi,Sing,Fem
+287,Univerza v Bambergu,Sing,Masc
+288,Krška škofija,Sing,Fem
+289,Artilerijsko vojaško učilišče JLA,Sing,Fem
+290,Fakulteta za poslovno upravo v Münchnu,Sing,Fem
+291,Papeška univerza Gregoriana,Sing,Fem
+292,Rudarsko-geološko-naftna fakulteta v Zagrebu,Sing,Masc
+293,Izobraževalno-rehabilitacijska fakulteta v Zagrebu,Sing,Neut
+294,École nationale d'administration,Sing,Masc
+295,Univerza za glasbo in uprizoritvene umetnosti Gradec,Sing,Fem
+296,"Odbor za kulturo, šolstvo, mladino, znanost in šport Državnega zbora Republike Slovenije",Sing,Fem
+297,3. državni zbor Republike Slovenije,Plur,Fem
+298,Univerza v Parizu,Sing,Masc
+299,Gozdarska fakulteta v Zagrebu,Sing,Neut
+300,Državno pravobranilstvo Republike Slovenije,Sing,Neut
+301,Center 505,Sing,Masc
+302,Fakulteta za znanost o materialih v Moskvi,Sing,Fem
+303,Apostolska nunciatura v Lihtenštajnu,Sing,Fem
+304,Apostolska nunciatura na Japonskem,Sing,Fem
+305,Vojaška pomorska strojna oficirska šola JLA,Sing,Fem
+306,Ekonomska fakulteta v Würzburgu,Sing,Neut
+307,Univerza v Leobnu,Sing,Masc
+308,Univerza na Reki,Sing,Fem
+309,Apostolska nunciatura v Kostariki,Sing,Fem
+310,Združenje poljskih električarjev,Plur,Neut
+311,Pehotna oficirska šola JLA,Sing,Fem
+312,Konzulat Republike Slovenije v Minas Geraisu,Sing,Masc
+313,"Odbor za visoko šolstvo, znanost in tehnološki razvoj Državnega zbora Republike Slovenije",Sing,Masc
+314,Univerza v Tokiu,Sing,Masc
+315,Narodna knjižnica Koreje,Sing,
+316,Fakulteta za nadaljnje izobraževanje v Moskvi,Sing,Neut
+317,Strojna fakulteta v Sarajevu,Sing,Neut
+318,Narodna knjižnica Grčije,Sing,Fem
+319,SISDE,Plur,Fem
+320,Apostolska nunciatura na Danskem,Sing,Fem
+321,Odbor za finance in kreditno-monetarno politiko Državnega zbora Republike Slovenije,Sing,Masc
+322,Pontifícia Universidade Católica de Minas Gerais,Sing,Fem
+323,Apostolska nunciatura v Ekvatorialni Gvineji,Sing,Fem
+324,Apostolska nunciatura v Urugvaju,Sing,Fem
+325,Umetnostna akademija v Splitu,Sing,Fem
+326,Académie française,,
+327,Medicinska fakulteta v Sarajevu,Sing,Neut
+328,Izobraževalno-rehabilitacijska fakulteta v Tuzli,Sing,Neut
+329,Fakulteta za telesno vzgojo in šport v Banja Luki,Sing,Fem
+330,Kineziološka fakulteta v Zagrebu,Sing,Masc
+331,Sigurimi,,
+332,Apostolska nunciatura v Indoneziji,Sing,Fem
+333,Fakulteta za bioinženiring in bioinformatiko v Moskvi,Sing,Masc
+334,Univerza v Dubrovniku,Sing,Masc
+335,Ustavna komisija Državnega zbora Republike Slovenije,Sing,Fem
+336,Organizacija za prepoved kemičnega orožja,Sing,Fem
+337,Korean Broadcasting System,Sing,Masc
+338,Tržna vrata Mileta,Sing,Fem
+339,"Knjižnica Kolidža svete Trojice, Dublin",Sing,Fem
+340,Hiša evropske zgodovine,Sing,Fem
+341,Gozdarska fakulteta v Sarajevu,Sing,Neut
+342,Apostolska nunciatura v Siriji,Sing,Fem
+343,Apostolska nunciatura v Albaniji,Sing,Fem
+344,"Sodna palača, München",Sing,Masc
+345,Konzulat Republike Slovenije v Manili,Sing,Masc
+346,5. državni zbor Republike Slovenije,Plur,Fem
+347,Pravna fakulteta v Münchnu,Sing,Masc
+348,Apostolska nunciatura v Ekvadorju,Sing,Fem
+349,Apostolska nunciatura v Hondurasu,Sing,Fem
+350,Apostolska nunciatura v Koreji,Sing,Fem
+351,Apostolska nunciatura v Avstraliji,Sing,Fem
+352,Arhitekturno-gradbena fakulteta v Banja Luki,Sing,Masc
+353,Apostolska nunciatura v Etiopiji,Sing,Fem
+354,Apostolska nunciatura na Madagaskarju,Sing,Fem
+355,Univerza v Augsburgu,Sing,Masc
+356,Veleposlaništvo Republike Slovenije v Ruski federaciji,Sing,Fem
+357,Fakulteta za družbene vede v Münchnu,Sing,Fem
+358,Protiletalska artilerijska oficirska šola JLA,Sing,Fem
+359,Apostolska nunciatura na Cipru,Sing,Fem
+360,Ekonomska fakulteta v Moskvi,Sing,Neut
+361,4. državni zbor Republike Slovenije,Plur,Fem
+362,Tbilisijski,,
+363,metro,,
+364,SISMI,,
+365,Fakulteta za biologijo v Münchnu,Sing,Fem
+366,Veleposlaništvo Republike Slovenije na Madžarskem,Sing,Fem
+367,Costantino Patrizi Naro,,
+368,1. državni zbor Republike Slovenije,Plur,Fem
+369,Meddržavno sodišče,Sing,Neut
+370,Francoska akademija znanosti,Sing,Fem
+371,Komisija za evropske zadeve Državnega zbora Republike Slovenije,Sing,Fem
+372,Vojaški ordinariat Italije,Sing,
+373,"Komisija za volitve, imenovanja in administrativne zadeve Državnega zbora Republike Slovenije",Plur,Fem
+374,Odbor za promet Državnega zbora Republike Slovenije,Sing,Masc
+375,Papeška akademija znanosti,Sing,Fem
+376,Jordanski arheološki muzej,Sing,
+377,Evropsko sodišče za človekove pravice,Sing,Neut
+378,Vojaškopomorsko tehniško vojaško učilišče JLA,Sing,Fem
+379,Odbor za finance in monetarno politiko Državnega zbora Republike Slovenije,Sing,Masc
+380,Absolom,,
+381,(prostozidarska loža),Sing,Fem
+382,Državna duma,Sing,Fem
+383,Karlova univerza v Pragi,Sing,Fem
+384,Fakulteta za elektrotehniko v Tuzli,Sing,Fem
+385,Univerza v Banja Luki,Plur,Masc
+386,Fakulteta organizacije in informatike v Varaždinu,Plur,Fem
+387,Veleposlaništvo Republike Slovenije v Črni gori,Sing,Fem
+388,Pravna fakulteta v Splitu,Sing,Masc
+389,Konzulat Republike Slovenije v Vancouvru,Sing,Masc
+390,Komisija za nadzor nad delom varnostnih in obveščevalnih služb Državnega zbora Republike Slovenije,Sing,Masc
+391,Generalni konzulat Republike Slovenije v Sydneyju,Sing,Masc
+392,Komisija za žensko politiko Državnega zbora Republike Slovenije,Sing,Fem
+393,Izraelski muzej,Sing,
+394,Nacionalni komite Kraljevine Jugoslavije,Plur,
+395,Filološko-kulturološka fakulteta na Dunaju,Sing,Neut
+396,Veleposlaništvo Republike Slovenije na Hrvaškem,Sing,Fem
+397,Semenišče Leopoldinum,Sing,Masc
+398,Informacijska služba Združenih narodov na Dunaju,Sing,Fem
+399,Komisija za nadzor obveščevalnih in varnostnih služb Državnega zbora Republike Slovenije,Sing,Masc
+400,Jezuitski kolegij v Gradcu,Sing,Masc
+401,Konzulat Republike Slovenije v Erevanu,Sing,Masc
+402,Narodni tehnični muzej (Praga),,
+403,Apostolska nunciatura v Zimbabveju,Sing,Fem
+404,Zgodovinski arhiv Ljubljana,Sing,Fem
+405,Veleposlaništvo Republike Slovenije v Avstriji,Sing,Fem
+406,Univerza v Rostocku,Sing,Masc
+407,Apostolska nunciatura v Ruski federaciji,Sing,Fem
+408,NATO,Sing,Masc
+409,Pedagoška fakulteta v Osijeku,Sing,Masc
+410,Ekonomska fakulteta v Tuzli,Sing,Neut
+411,Narodni zgodovinski muzej (Albanija),,
+412,Apostolska nunciatura v Boliviji,Sing,Fem
+413,Komisija za lokalno samoupravo Državnega zbora Republike Slovenije,Sing,Fem
+414,Kraljeva vojaška akademija (Belgija),Sing,Fem
+415,Fakulteta za kulturologijo v Celovcu,Sing,Fem
+416,Narodna knjižnica Češke republike,Sing,Fem
+417,Seznam šol v Gorici,Sing,
+418,Knafljeva ustanova,Sing,Fem
+419,Geodetska fakulteta v Zagrebu,Sing,Neut
+420,Francoska narodna knjižnica,Sing,Fem
+421,Srednja vojaškoglasbena šola JLA,Sing,Fem
+422,Glasbena akademija v Zagrebu,Sing,Fem
+423,Eduardo Martínez Somalo,Sing,Fem
+424,Cesarska zakladnica,Sing,Fem
+425,Center 501,Sing,Masc
+426,Evangeličanska teološka fakulteta v Münchnu,Sing,Fem
+427,Nadškofija Montréal,Sing,Masc
+428,Comedy Central (Poljska),Sing,Masc
+429,Univerza Grenoble Alpes,Plur,Fem
+430,Komisija za peticije ter za človekove pravice in enake možnosti Državnega zbora Republike Slovenije,Plur,Masc
+431,Univerza v Splitu,Sing,Masc
+432,"Odbor za kulturo, šolstvo in šport Državnega zbora Republike Slovenije",Sing,Fem
+433,Preiskovalna komisija o ugotavljanju zlorab v slovenskem bančnem sistemu ter ugotavljanju vzrokov in odgovornosti za že drugo sanacijo bančnega sistema v samostojni Sloveniji,Sing,Fem
+434,Stomatološka fakulteta v Sarajevu,Sing,Masc
+435,Agronomska fakulteta v Zagrebu,Sing,Neut
+436,Fakulteta za interdisciplinarno raziskovanje in nadaljnje šolanje v Celovcu,Sing,Neut
+437,Centro Federal de Educação Tecnológica de Minas Gerais,Sing,Masc
+438,Društvo Ketani,Sing,
+439,Branko Janc,Plur,Neut
+440,Apostolska nunciatura v Džibutiju,Sing,Fem
+441,Odbor za gospodarstvo Državnega zbora Republike Slovenije,Sing,Masc
+442,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Sing,Masc
+443,École nationale des ponts et chaussées,Sing,Masc
+444,"Stolica za slovenski jezik, Licej v Gradcu",Sing,
+445,"Cabildo, Buenos Aires",,
+446,Veleposlaništvo Republike Slovenije v Belgiji,Sing,Fem
+447,Katoliška teološka fakulteta na Dunaju,Sing,Fem
+448,"Fakulteta za matematiko, informatiko in statistiko v Münchnu",Sing,Masc
+449,239. fizikalno-matematični licej,Plur,
+450,Pravna fakulteta v Zagrebu,Sing,Masc
+451,Katoliška teološka fakulteta v Splitu,Sing,Fem
+452,Šola za prevajanje in tolmačenje v Moskvi,Sing,Neut
+453,Pomorsko vojaško učilišče JLA,Sing,Fem
+454,Papeški slovenski zavod v Rimu,Sing,Masc
+455,Seminar Maxa Reinhardta,Sing,Fem
+456,Konzulat Republike Slovenije v Salzburgu,Sing,Masc
+457,Agronomska fakulteta v Banja Luki,Sing,Neut
+458,Češki hokejski hram slavnih,Sing,
+459,Apostolska nunciatura na Kubi,Sing,Fem
+460,Organizacija držav izvoznic nafte,Sing,Fem
+461,Šola za televizijo v Moskvi,Sing,Fem
+462,Univerza v Tuzli,Sing,Fem
+463,Slovaška narodna knjižnica,Sing,Fem
+464,Filozofska fakulteta v Tuzli,Sing,Neut
+465,Preiskovalna komisija o ugotavljanju zlorab v zadevi Franc Kangler in drugi,Sing,Fem
+466,Univerza v Kjotu,Sing,Masc
+467,Veleposlaništvo Republike Slovenije pri Svetem sedežu,Sing,Fem
+468,Univerza PSL,Sing,Masc
+469,Apostolska nunciatura v Keniji,Sing,Fem
+470,Frontex,,
+471,Fakulteta za ekonomijo in informatiko v Celovcu,Sing,Fem
+472,Apostolska nunciatura v Senegalu,Sing,Fem
+473,Apostolska nunciatura v Nemčiji,Sing,Fem
+474,Medicinska fakulteta v Münchnu,Sing,Neut
+475,Apostolska nunciatura v Venezueli,Sing,Fem
+476,Apostolska nunciatura v Gruziji,Sing,Fem
+477,Vojaški ordinariat Kanade,Sing,Masc
+478,Apostolska nunciatura v Bahrajnu,Sing,Fem
+479,Intendantsko vojaško učilišče JLA,Sing,Fem
+480,Fakulteta za kemijsko tehnologijo v Splitu,Sing,Fem
+481,Veleposlaništvo Republike Slovenije na Irskem,Sing,Fem
+482,Pomorska fakulteta v Splitu,Sing,Neut
+483,Odbor za zadeve Evropske unije Državnega zbora Republike Slovenije,Sing,Masc
+484,Vojaški ordinariat Argentine,Sing,Masc
+485,Stalno predstavništvo Republike Slovenije pri Svetu Evrope,Sing,Neut
+486,"Preiskovalna komisija za ugotovitev politične odgovornosti nosilcev javnih funkcij, ki so sodelovali pri pripravi in izvedbi pogodbe o nakupu pehotnih bojnih oklepnih vozil - srednjih oklepnih kolesnih vozil 8x8 (...)",Sing,
+487,Univerza v Leidnu,Sing,Masc
+488,Apostolska nunciatura v Romuniji,Sing,Fem
+489,École supérieure des techniques aéronautiques et de construction automobile,Sing,
+490,Parlament Finske,Sing,Masc
+491,Jean Jérôme Hamer,Sing,Masc
+492,Apostolska nunciatura v Belizeju,Sing,Fem
+493,Fakulteta za izobraževalne študije v Moskvi,Plur,Masc
+494,Döblinška gimnazija,Sing,Fem
+495,Ekonomska fakulteta v Banja Luki,Sing,Neut
+496,Arhiv Muzeja narodne osvoboditve Maribor,Plur,Fem
+497,Apostolska nunciatura v Gvineji,Sing,Fem
+498,Apostolska nunciatura v Črni gori,Sing,Fem
+499,Prehrambeno-biotehnološka fakulteta v Zagrebu,Sing,Masc
+500,Mednarodno kazensko sodišče,Sing,Neut
+501,Ekonomska fakulteta v Osijeku,Sing,Neut
+502,Mednarodno središče Abdusa Salama za teoretično fiziko,Sing,Neut
+503,Konzulat Republike Slovenije v Torunju,Sing,Masc
+504,"Preiskovalna komisija za parlamentarno preiskavo o sumu zlorabe javnih pooblastil v poslovanju podjetij HIT d.o.o., Nova Gorica, Elan, Slovenske železarne, (...)",Sing,Fem
+505,Apostolska nunciatura v Sudanu,Sing,Fem
+506,Preiskovalna komisija o zagotavljanju zaščitne opreme ter ukrepih institucij in nosilcev javnih funkcij za zajezitev širjenja bolezni COVID-19 od 1. 2. 2020 do odreditve predmetne parlamentarne preiskave,Sing,Fem
+507,Narodni muzej novejše umetnosti Romunije,Sing,
+508,Arhitekturna fakulteta v Sarajevu,Sing,Neut
+509,Konzulat Republike Slovenije v Tirani,Sing,Masc
+510,Pravna fakulteta v Moskvi,Sing,Neut
+511,Šola za državno računovodstvo v Moskvi,Sing,Fem
+512,Veleposlaništvo Republike Slovenije v Grčiji,Sing,Fem
+513,Filozofska fakulteta v Osijeku,Sing,Neut
+514,Schola Cantorum,Sing,Masc
+515,Parlament Gruzije,Sing,Masc
+516,Vojaški ordinariat Belgije,Sing,
+517,Generalni konzulat Republike Slovenije v Trstu,Sing,Masc
+518,Mednarodna leninska šola,Sing,Fem
+519,Papeški biblični inštitut,Sing,Masc
+520,"Fakulteta za menedžment, ekonomijo in družbene vede v Kölnu",Plur,
+521,Apostolska nunciatura v Jordaniji,Sing,Fem
+522,Moskovska šola ekonomije,Sing,Fem
+523,Institut supérieur de l’aéronautique et de l’espace,Plur,Fem
+524,"Preiskovalna komisija o politični odgovornosti posameznih nosilcev javnih funkcij za aretacijo, obsodbe ter izvršitev obsodb proti Janezu Janši, Ivanu Borštnerju, Davidu Tasiču in Franciju Zavrlu",Sing,Fem
+525,Apostolska nunciatura v Kanadi,Sing,Fem
+526,Astronomski observatorij Palermo,Plur,
+527,1. padalski bataljon,Sing,Masc
+528,(Kanadska,,
+529,kopenska vojska),Sing,Fem
+530,Konzulat Republike Slovenije v Sao Paulu,Sing,Masc
+531,Apostolska nunciatura v Mehiki,Sing,Fem
+532,Apostolska nunciatura v Iraku,Sing,Fem
+533,Komisija za nadzor lastninskega preoblikovanja in privatizacije Državnega zbora Republike Slovenije,Sing,Masc
+534,Stomatološka fakulteta v Zagrebu,Sing,Masc
+535,Jezuitski kolegij na Dunaju,Sing,Masc
+536,"Muzej lepih umetnosti, Strasbourg",Plur,Masc
+537,Apostolska nunciatura na Madžarskem,Sing,Fem
+538,Graška škofija,Sing,Fem
+539,Vojaški ordinariat Madžarske,Sing,Masc
+540,Akademija dramskih umetnosti Sarajevo,Sing,Fem
+541,Eduardo Francisco Pironio,Sing,Fem
+542,Kabinet medalj,Sing,Masc
+543,Hrvaško narodno gledališče v Splitu,Sing,
+544,Apostolska nunciatura v Čadu,Sing,Fem
+545,Universidade Federal de Minas Gerais,Sing,Masc
+546,Tehnološka fakulteta v Banja Luki,Sing,Fem
+547,Veleposlaništvo Republike Slovenije v Kanadi,Sing,Fem
+548,"Gemäldegalerie, Berlin",,
+549,Ustanova patra Stanislava Škrabca,Sing,Fem
+550,Fakulteta za politične vede v Sarajevu,Plur,Fem
+551,Apostolska nunciatura v Gani,Sing,Fem
+552,Apostolska nunciatura na Portugalskem,Sing,Fem
+553,Komisija za odnose s Slovenci v zamejstvu in po svetu Državnega zbora Republike Slovenije,Plur,Masc
+554,Vojaški ordinariat Čila,Sing,Fem
+555,Astronomski observatorij Padova,Sing,Masc
+556,Katoliška teološka fakulteta v Münchnu,Sing,Fem
+557,Apostolska nunciatura v Turčiji,Sing,Fem
+558,École nationale supérieure des mines de Paris,Plur,Fem
+559,Apostolska nunciatura na Švedskem,Sing,Fem
+560,Apostolska nunciatura v Švici,Sing,Fem
+561,Fakulteta za fiziko in astronomijo v Würzburgu,Sing,Masc
+562,Apostolska nunciatura v Franciji,Sing,Fem
+563,Konzulat Republike Slovenije v Monaku,Sing,Masc
+564,L'Union Parfaite,Sing,Masc
+565,Protestantska teološka fakulteta na Dunaju,Sing,Fem
+566,Apostolska nunciatura v Čilu,Sing,Fem
+567,Fakulteta za kemijsko inženirstvo in tehnologijo v Zagrebu,Sing,Fem
+568,Univerza v Hamburgu,Sing,Masc
+569,2. državni zbor Republike Slovenije,Plur,Fem
+570,Gledališče Rustaveli,Plur,Masc
+571,Hrvaško narodno gledališče v Zagrebu,Sing,
+572,Apostolska nunciatura na Slovaškem,Sing,Fem
+573,Elektrotehniška fakulteta v Sarajevu,Sing,Masc
+574,Zgodovinsko-kulturološka fakulteta na Dunaju,Sing,Neut
+575,Škofija Trst,Sing,Fem
+576,Ministrstvo za turizem in šport Republike Hrvaške,Sing,Neut
+577,Apostolska nunciatura v Ugandi,Sing,Fem
+578,Konzulat Republike Slovenije v Atenah,Sing,Masc
+579,"Narodni muzej, Praga",Sing,
+580,Stalno predstavništvo Republike Slovenije pri Evropski uniji,Sing,Neut
+581,Podiplomska šola za menedžment in inovacijo v Moskvi,Sing,Fem
+582,Generalni konzulat Republike Slovenije v Tirani,Sing,Masc
+583,Univerza na Dunaju,Sing,Masc
+584,"Prudentia, Zagreb",Sing,Masc
+585,6. državni zbor Republike Slovenije,Plur,Fem
+586,Okronano upanje,Sing,Neut
+587,Apostolska nunciatura v Egiptu,Sing,Fem
+588,Knjižnica Božidar Kantušer,,
+589,Teatro Massimo Bellini,Plur,
+590,Nadškofijska klasična gimnazija Zagreb,Sing,Fem
+591,Licejski pol Primoža Trubarja in Simona Gregorčiča,Sing,Fem
+592,Carlo Odescalchi,,
+593,Fakulteta političnih znanosti v Zagrebu,Sing,Fem
+594,Fakulteta za promet in komunikacije v Sarajevu,Sing,Masc
+595,Ekonomska fakulteta v Splitu,Sing,Neut
+596,Univerza v Benetkah,Plur,Fem
+597,Komisija za spremljanje in nadzor lastninskega preoblikovanja družbene lastnine Državnega zbora Republike Slovenije,Sing,Neut
+598,Konzulat Republike Slovenije v Buenos Airesu,Sing,Masc
+599,Apostolska nunciatura na Irskem,Sing,Fem
+600,Kraljevi obveščevalni center (NKKJ),Sing,Masc
+601,Jezuitski kolegij v Trstu,Sing,Masc
+602,"Državni zgodovinski muzej, Moskva",Sing,Fem
+603,Fakulteta za tuje jezike in študij okolja v Moskvi,Sing,
+604,Tri počela,Sing,Fem
+605,Generalni konzulat Republike Slovenije v Celovcu,Sing,Masc
+606,Alma Mater Europaea,,
+607,Katoliška teološka fakulteta v Zagrebu,Sing,Fem
+608,Muzej poljske vojske,Sing,
+609,Avstralska narodna univerza,Sing,Fem
+610,Letalska vojaška gimnazija Maršal Tito,Sing,Masc
+611,Institut d'études politiques de Paris,Sing,Masc
+612,Apostolska nunciatura v Peruju,Sing,Fem
+613,Casa Rosada,,
+614,Agronomska fakulteta v Mostarju,Sing,Neut
+615,Vojaškopomorska oficirska šola JLA,Sing,Fem
+616,Medicinska fakulteta v Splitu,Sing,Neut
+617,Konzulat Republike Slovenije v Hamburgu,Sing,Masc
+618,Inštitut za avstrijsko zgodovinsko raziskovanje,Sing,Neut
+619,Apostolska nunciatura v Ruandi,Sing,Fem
+620,Apostolska nunciatura v Bangladešu,Sing,Fem
+621,Konzulat Republike Slovenije v Splitu,Sing,Masc
+622,Apostolska nunciatura v Belorusiji,Sing,Fem
+623,Izraelska narodna knjižnica,Sing,Fem
+624,Univerza v Heidelbergu,Sing,Masc
+625,Odbor za notranjo politiko in pravosodje Državnega zbora Republike Slovenije,Sing,Masc
+626,Fakulteta za človeške vede v Kölnu,Plur,Fem
+627,Gradbena fakulteta v Osijeku,Sing,Masc
+628,Stalna misija Republike Slovenije pri OVSE,Sing,Fem
+629,Konzulat Republike Slovenije v Santiagu de Chile,Sing,Masc
+630,Observatorij Berlin,Sing,Masc
+631,Narodna knjižnica Čila,Sing,Fem
+632,Istituto Nazionale di Statistica,Plur,Fem
+633,Louvre,,
+634,Odbor za infrastrukturo in okolje Državnega zbora Republike Slovenije,Sing,Masc
+635,Artilerijska tehniška oficirska šola JLA,Sing,Fem
+636,Apostolska nunciatura v Nigeriji,Sing,Fem
+637,Filozofska fakulteta v Kölnu,Sing,Neut
+638,Gledališče Romen,Plur,Neut
+639,Pariški glasbeni konservatorij,Sing,Masc
+640,Univerza v Münchnu,Sing,Masc
+641,Državni ruski muzej,Sing,
+642,Univerza v Kölnu,Sing,Masc
+643,Apostolska nunciatura v Paragvaju,Sing,Fem
+644,Mednarodno združenje za zračni transport,Sing,Neut
+645,Inštitut za azijske in afriške študije v Moskvi,Plur,Fem
+646,Državna univerza v Erevanu,Sing,Fem
+647,Fakulteta za psihologijo na Dunaju,Sing,Fem
+648,Institut de France,Plur,Fem
+649,Club Arc Alpin,Sing,Masc
+650,Pedagoška akademija v Sarajevu,Sing,Fem
+651,Apostolska nunciatura na Hrvaškem,Sing,Fem
+652,Akademija likovnih umetnosti v Mostarju,Sing,Fem
+653,Collège de France,Plur,Fem
+654,Fakulteta za fiziko na Dunaju,Sing,Fem
+655,Univerza v Leipzigu,Sing,Masc
+656,Filozofska fakulteta v Würzburgu I,Sing,Neut
+657,Veleposlaništvo Republike Slovenije v Albaniji,Sing,Fem
+658,Veleposlaništvo Republike Slovenije v Italiji,Sing,Fem
+659,Katoliška teološka fakulteta v Würzburgu,Sing,Fem
+660,Pravna fakulteta v Kölnu,Sing,Masc
+661,ART.Welten,Sing,Masc
+662,Gradbena fakulteta v Zagrebu,Sing,Masc
+663,Madžarska državna opera,Sing,Fem
+664,Fakulteta za politologijo v Moskvi,Sing,Fem
+665,Univerza »Nikolaj Kuzanski«,Sing,Fem
+666,Medicinska fakulteta v Zagrebu,Sing,Neut
+667,Fakulteta za elektrotehniko in računalništvo v Zagrebu,Sing,Fem
+668,Veleposlaništvo Republike Slovenije v Romuniji,Sing,Fem
+669,Fakulteta za svetovno politiko v Moskvi,Sing,Fem
+670,Albertina (muzej),,
+671,Evropska agencija za kemikalije,Sing,Fem
+672,Ekonomska fakulteta v Zagrebu,Sing,Neut
+673,Bogoslovska smotra,Sing,Fem
+674,Humboldtova univerza v Berlinu,Sing,Fem
+675,Apostolska nunciatura v Nikaragvi,Sing,Fem
+676,Gradbena fakulteta v Sarajevu,Sing,Masc
+677,Tri krone,Plur,Fem
+678,"Nemški muzej, München",Sing,Masc
+679,Fakulteta za strojništvo in računalništvo v Mostarju,Sing,Neut
+680,Eklezija,Sing,Fem
+681,Slovenski inštitut za standardizacijo,Sing,Masc
+682,Artilerijska oficirska šola JLA,Sing,Fem
+683,Apostolska nunciatura v Beninu,Sing,Fem
+684,Ermitaž,,
+685,Apostolska nunciatura v Pakistanu,Sing,Fem
+686,Neodvisna univerza v Moskvi,Sing,Fem
+687,Vojnoletalska inženirska akademija Žukovski,Sing,Fem
+688,Stalno predstavništvo Republike Slovenije pri NATO in WEU,Sing,Neut
+689,Nizozemski umetnostnozgodovinski inštitut,Sing,Masc
+690,Univerza v Freiburgu,Sing,Masc
+691,Katoliška univerza Srca Jezusovega,Sing,Fem
+692,Apostolska nunciatura na Nizozemskem,Sing,Fem
+693,Konzulat Republike Slovenije v Caltanissetti,Sing,Masc
+694,"Odbor za kmetijstvo, gozdarstvo in prehrano Državnega zbora Republike Slovenije",Sing,Neut
+695,Pokopališče La Recoleta,Sing,Fem
+696,Konzulat Republike Slovenije v Linzu,Sing,Masc
+697,Veterinarska fakulteta v Münchnu,Sing,Neut
+698,Fakulteta za informatiko na Dunaju,Sing,Fem
+699,Fakulteta za javno upravo v Moskvi,Sing,Fem
+700,Salzburški muzej,Sing,
+701,Veleposlaništvo Republike Slovenije v Nemčiji,Sing,Fem
+702,Centre de données astronomiques de Strasbourg,Sing,
+703,Apostolska nunciatura v Angoli,Sing,Fem
+704,Jezuitski kolegij na Reki,Sing,Masc
+705,Veleposlaništvo Republike Slovenije na Japonskem,Sing,Fem
+706,Apostolska nunciatura v Iranu,Sing,Fem
+707,Avstrijska spominska služba,Sing,Fem
+708,Univerza v Gradcu,Sing,Masc
+709,Vojaški ordinariat Salvadorja,Sing,Masc
+710,Komisija za nadzor javnih financ Državnega zbora Republike Slovenije,Sing,Masc
+711,Univerza Pariz-Saclay,Sing,Fem
+712,Apostolska nunciatura v Maroku,Sing,Fem
+713,École nationale de l'aviation civile,Plur,Fem
+714,Univerza v Zagrebu,Sing,Masc
+715,Apostolska nunciatura v Gabonu,Sing,Fem
+716,Univerza Sorbonne,Sing,Fem
+717,Svet Evrope,Sing,Masc
+718,Apostolska nunciatura v Burundiju,Sing,Fem
+719,Apostolska nunciatura v Združenih državah Amerike,Sing,Fem
+720,Franc Rode,Sing,Masc
+721,Zvezna gimnazija in zvezna realna gimnazija za Slovence,Sing,Fem
+722,Apostolska nunciatura na Kitajskem,Sing,Fem
+723,Apostolska nunciatura v Zambiji,Sing,Fem
+724,Veleposlaništvo Republike Slovenije na Češkem,Sing,Fem
+725,Fakulteta za novinarstvo v Moskvi,Sing,Fem
+726,Fakulteta za naravne vede v Münchnu,Plur,Fem
+727,Sveti sedež,Sing,Masc
+728,Rajhovska univerza Straßburg,Sing,Fem
+729,Haribo,,
+730,"Preiskovalna komisija Državnega zbora Republike Slovenije o vpletenosti nosilcev javnih funkcij v poskuse diskreditiranja slovenskih policistov in vojakov, ki so leta 1991 sodelovali v osamosvojitveni vojni na Koroškem",Sing,Fem
+731,Vojaška artilerijska akademija Kalinin,Sing,Fem
+732,Narodna knjižnica Argentine,Sing,Fem
+733,Veleposlaništvo Republike Slovenije v Argentini,Sing,Fem
+734,Fakulteta za telesno vzgojo in šport v Tuzli,Sing,Fem
+735,Gliptoteka v Münchnu,Sing,Masc
+736,Akademija dramske umetnosti v Zagrebu,Sing,Fem
+737,"Umetnostnozgodovinski muzej, Dunaj",,
+738,Alpsko-jadranska univerza v Celovcu,Sing,Fem
+739,Prehrambeno-tehnološka fakulteta v Osijeku,Sing,Masc
+740,Komunistična univerza delavcev vzhoda,Sing,Fem
+741,Nacionalni laboratorij za atmosferske raziskave,Sing,Masc
+742,Ekonomska fakulteta v Mostarju,Sing,Neut
+743,Apostolska nunciatura v Centralnoafriški republiki,Sing,Fem
+744,Univerza sv. Cirila in Metoda v Skopju,Sing,Fem
+745,Apostolska nunciatura na Malti,Sing,Fem
+746,Janez de Matha,Sing,Masc
+747,NORAD,Sing,Masc
+748,"Preiskovalna komisija o raziskovanju povojnih množičnih pobojev, pravno dvomljivih procesov in drugih tovrstnih nepravilnosti",Sing,Fem
+749,Mednarodna geografska zveza,Sing,Fem
+750,Magyar Kurír,Sing,Masc
+751,Apostolska nunciatura v Alžiriji,Sing,Fem
+752,Univerza v Padovi,Sing,Fem
+753,Konzulat Republike Slovenije v Amanu,Sing,Masc
+754,Apostolska nunciatura v Singapuru,Sing,Fem
+755,Muzej zgodovine Moskovske državne univerze,,
+756,Berlinska filharmonija,Sing,Fem
+757,Louvrska palača,Sing,
+758,Filozofska fakulteta v Pulju,Sing,Neut
+759,Naravoslovno-matematična fakulteta v Sarajevu,Sing,Neut
+760,Odbor za notranjo politiko Državnega zbora Republike Slovenije,Sing,Masc
+761,Veleposlaništvo Republike Slovenije na Poljskem,Sing,Fem
+762,Bogoslovno semenišče Germanicum,Sing,
+763,Univerza v Vidmu,,
+764,Ekološko-botanični vrt Univerze v Bayreuthu,Plur,Fem
+765,OBN televizija,Sing,Fem
+766,Mozarteum,Sing,Masc
+767,Športno društvo Zahomc,Sing,Fem
+768,IniciativAngola,Sing,Fem
+769,"Odbor za zdravstvo, delo, družino, socialno politiko in invalide Državnega zbora Republike Slovenije",Sing,Fem
+770,Farmacevtska fakulteta v Sarajevu,Sing,Neut
+771,Biološka fakulteta v Moskvi,Sing,Fem
+772,Višja šola poslovnega upravljanja v Moskvi,Sing,Fem
+773,Apostolska nunciatura v Braziliji,Sing,Fem
+774,Cité des Sciences et de l'Industrie,,
+775,Filozofska fakulteta v Zagrebu,Sing,Neut
+776,Univerza sv. Klimenta Ohridskega v Bitoli,Dual,
+777,Apostolska nunciatura pri Organizaciji združenih narodov,Sing,Fem
+778,Apostolska nunciatura v Argentini,Sing,Fem
+779,Apostolska nunciatura na Barbadosu,Sing,Fem
+780,Fakulteta za sociologijo v Moskvi,Sing,Fem
+781,Univerza v Sarajevu,Sing,Masc
+782,Fakulteta za kemijo na Dunaju,Sing,Fem
+783,Jezuitski kolegij v Celovcu,Sing,Masc
+784,Fakulteta za filozofsko-humanistične znanosti v Mostarju,Sing,Fem
+785,Jezuitski kolegij v Gorici,Sing,Masc
+786,Fakulteta za naravoslovno-matematične in vzgojne znanosti v Mostarju,Sing,Fem
+787,Licej Franceta Prešerna,Sing,Fem
+788,Urad zveznega kanclerja (Avstrija),Sing,Masc
+789,Apostolska nunciatura v Kambodži,Sing,Fem
+790,Center 305,Sing,Masc
+791,Apostolska nunciatura v Libanonu,Sing,Fem
+792,Springer Nature,Sing,Masc
+793,École polytechnique,,
+794,Center 400,Sing,Masc
+795,Veleposlaništvo Republike Slovenije v Braziliji,Sing,Fem
+796,Visoka učiteljska šola v Pulju,Sing,Fem
+797,Pravna fakulteta v Würzburgu,Sing,Masc
+798,Fakulteta za upodabljajoče umetnosti v Moskvi,Sing,
+799,Grafična fakulteta v Zagrebu,Sing,Neut
+800,Konzulat Republike Slovenije v Seulu,Sing,Masc
+801,Mandatno-volilna komisija Državnega zbora Republike Slovenije,Sing,Fem
+802,Vojaški ordinariat Avstrije,Sing,Masc
+803,Fundacija Hergé,Sing,Fem
+804,Veterinarska fakulteta v Zagrebu,Sing,Neut
+805,Konzulat Republike Slovenije v Sankt Peterburgu,Sing,Masc
+806,"Odbor za delo, družino, socialne zadeve in invalide Državnega zbora Republike Slovenije",Plur,Fem
+807,"Preiskovalna komisija za ugotovitev in oceno dejanskega stanja, ki je lahko podlaga za odločanje o politični odgovornosti nosilcev javnih funkcij v Vladi Republike Slovenije na Ministrstvu za pravosodje in Vrhovnem državnem tožilstvu",Sing,Fem
+808,(...),,
+809,Univerza v Göttingenu,Sing,Masc
+810,Računalniško-matematična in kibernetična fakulteta v Moskvi,Sing,Fem
+811,Odbor za zunanjo politiko Državnega zbora Republike Slovenije,Sing,Masc
+812,Franc Černelič,Sing,Masc
+813,Tehnološka fakulteta v Tuzli,Sing,Fem
+814,Galerija Uffizi,Sing,
+815,18. vojaško okrožje (Wehrmacht),Sing,Neut
+816,Inštitut za slavistiko Univerze na Dunaju,Sing,Fem
+817,Bavarski narodni muzej,Sing,Masc
+818,Filozofska fakulteta v Sarajevu,Sing,Neut
+819,Fakulteta za psihologijo v Moskvi,Sing,Fem
+820,Državni inštitut za umetnost v Ufi,Sing,Masc
+821,Apostolska nunciatura na Haitiju,Sing,Fem
+822,Glasbena akademija v Sarajevu,Sing,Fem
+823,Apostolska nunciatura na Češkem,Sing,Fem
+824,Apostolska nunciatura v Avstriji,Sing,Fem
+825,Nemški inštitut za standardizacijo,Sing,Masc
+826,Pravna fakulteta na Dunaju,Sing,Neut
+827,Veleposlaništvo Republike Slovenije na Nizozemskem,Sing,Fem
+828,Slovensko planinsko društvo Celovec,Sing,Fem
+829,Sveta Margareta,Sing,Fem
+830,(prostozidarska loža),Sing,Fem
+831,Veleposlaništvo Republike Slovenije na Finskem,Sing,Fem
+832,Univerza v Hannovru,Sing,Masc
+833,Mandatno-imunitetna komisija Državnega zbora Republike Slovenije,Sing,Fem
+834,Ustanova dr. Šiftarjeva fundacija,Dual,
+835,"Preiskovalna komisija Državnega zbora Republike Slovenije o sumu zlorabe javnih pooblastil za vzroke, okoliščine in posledice dogodkov na kapitalskem trgu v marcu 1996 in uresničevanju zakonskih nalog Agencije za trg vrednostnih papirjev ...",Sing,Masc
+836,Ištarina vrata,Sing,Fem
+837,Veleposlaništvo Republike Slovenije v Bosni in Hercegovini,Sing,Fem
+838,Strojna fakulteta v Tuzli,Sing,Neut
+839,Apostolska nunciatura na Bahamih,Sing,Fem
+840,Vojaški ordinariat Nemčije,Sing,
+841,"Ministrstvo za pomorstvo, promet in infrastrukturo Republike Hrvaške",Sing,Masc
+842,Ruska državna knjižnica,Sing,Fem
+843,Tehniška univerza v Münchnu,Sing,Fem
+844,Avstrijski inštitut,Sing,Masc
+845,CentraleSupélec,Sing,Masc
+846,Apostolska nunciatura v Kolumbiji,Sing,Fem
+847,Konzulat Republike Slovenije v Gradcu,Sing,Masc
+848,Apostolska nunciatura v Sloveniji,Sing,Fem
+849,École des hautes études en sciences sociales,Plur,Fem
+850,Apostolska nunciatura v Srbiji,Sing,Fem
+851,Zgodovinska fakulteta v Moskvi,Sing,Neut
+852,Rudarsko-geološko-gradbena fakulteta v Tuzli,Sing,Masc
+853,Pravna fakulteta v Sarajevu,Sing,Neut
+854,Evropsko združenje za prevodoslovje,Sing,Neut
+855,Jezuitski kolegij v Varaždinu,Sing,Masc
+856,Predsedstvo Bosne in Hercegovine,Plur,Fem
+857,Družba Maxa Plancka,Sing,Fem
+858,Apostolska nunciatura v Burkini Faso,Plur,
+859,Komisija za poslovnik Državnega zbora Republike Slovenije,Sing,Masc
+860,Akademija likovnih umetnosti Sarajevo,,
+861,Japonska nacionalna knjižnica,Sing,Fem
+862,Komisija za vprašanja invalidov Državnega zbora Republike Slovenije,Sing,Neut
+863,Artilerijsko tehniško vojaško učilišče JLA,Sing,Fem
+864,Fakulteta ekonomije in turizma v Pulju,Plur,Fem
+865,Medicinska univerza v Varšavi,Sing,Fem
+866,Fakulteta za kemijo in farmacijo v Münchnu,Sing,Fem
+867,Akademija likovnih umetnosti v Zagrebu,Sing,
+868,Apostolska nunciatura v Kuvajtu,Sing,Fem
+869,Apostolska nunciatura na Norveškem,Sing,Fem
+870,Palača Schleissheim,Sing,
+871,Apostolska nunciatura v Italiji,Sing,Fem
+872,Apostolska nunciatura pri Evropski uniji,Sing,Fem
+873,Apostolska nunciatura na Tajskem,Sing,Fem
+874,Apostolska nunciatura na Cookovih otokih,Sing,Fem
+875,Filozofska fakulteta v Moskvi,Sing,Neut
+876,Akademija umetnosti v Banja Luki,Sing,Fem
+877,"Fakulteta za filozofijo, znanstveno teorijo in religiologijo v Münchnu",Sing,Fem
+878,Farmacevtska fakulteta v Tuzli,Sing,Neut
+879,Znanstvno združenje Gottfrieda Wilhelma Leibniza,Sing,Neut
+880,Apostolska nunciatura v Grčiji,Sing,Fem
+881,Apostolska nunciatura v Gvatemali,Sing,Fem
+882,Konzulat Republike Slovenije v Potsdamu,Sing,Masc
+883,Visoka zdravstvena šola v Mostarju,Sing,Fem
+884,Burgtheater,Sing,Masc
